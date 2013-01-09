@@ -34,112 +34,85 @@ Workshops: "How to Write in Markdown" and "Using Git and GitHub for Revision Con
 
 ## January 22nd (Meeting 3) – Planning a Literary Exhibit (continued)
 
-Reading: 		Bourriaud, from Relational Aesthetics 
+Reading: Bourriaud, from *Relational Aesthetics*
 
-Example Collections and Exhibits: The Deena Larsen Collection, Europeana, Out of the Trenches, The Walt Whitman Archive, The Knotted Line and Queer Zine Archive Project 
+Example Collections and Exhibits: *The Deena Larsen Collection*, *Europeana*, *Out of the Trenches*, *The Walt Whitman Archive*, *The Knotted Line*, and &Queer Zine Archive Project*
 
-Log:	 		Thought Piece
+Log: Thought Piece
 
-Presentation: 	Thought Piece (two minutes) 
+Presentation: Thought Piece (two minutes) 
 
-Discussion: 	How do we occupy an exhibit? How do exhibits exist online and off?
+Discussion: "How do we occupy an exhibit? How do exhibits exist online and off?"
 
-Lecture: 		Conjecture and the Speculative Humanities
+Lecture: "Conjecture and the Speculative Humanities" 
 
-Workshops: 		Using MLA Guidelines to Evaluate an Exhibit
+Workshops: "Using MLA Guidelines to Evaluate an Exhibit" and "Prototyping Exhibits" 
 
-Prototyping Exhibits 
+## January 29th (Meeting 4) – Modelling a Literary Exhibit 
 
-January 29th (Meeting 4) – Modelling a Literary Exhibit 
+Reading: McCarty, “Knowing . . . : Modeling in Literary Studies” 
 
-Reading: 		McCarty, “Knowing . . . : Modeling in Literary Studies” 
+Log: Needs Assessment and Outcomes Statement
 
-Log:	 		Needs Assessment and Outcomes Statement
+Presentation: First Group Report (two minutes) 
 
-Presentation: 	First Group Report (two minutes) 
+Discussion: "How do we practice models of? Models for?" 
 
-Discussion: 		How do we practice models of? Models for?
+Lecture: "Interoperable *and* Customized?: An Overview of the NINCH Guide to Good Practice" 
 
-Lecture: 	Interoperable and Customized?: An Overview of the NINCH Guide to Good Practice 
+Workshops: "Constructing a Data Model" and "Exhibit Development" 
 
-Workshops: 		Constructing a Data Model 
+## February 5th (Meeting 5) – Modelling a Literary Exhibit (continued) 
 
-Exhibit Development 
+Reading: Besser, “The Past, Present, and Future of Digital Libraries”; Brown, Clements, and Grundy, “Going Electronic”; Unsworth, “Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might our Tools Reflect This?”; Bowker and Star, from *Sorting Things Out*; Balsamo, from *Designing Culture*
 
-February 5th (Meeting 5) – Modelling a Literary Exhibit (continued) 
+Log: None
 
-Reading: 		Besser, “The Past, Present, and Future of Digital Libraries” 
+Presentation: Second Group Report (two minutes) 
 
-Brown, Clements, and Grundy, “Going Electronic” 
+Guest: Jana Millar Usiskin 
 
-Unsworth, “Scholarly Primitives: What Methods Do Humanities Researchers Have in Common, and How Might our Tools Reflect This?”
+Discussion: "How do we interact with data models? When and how are they invisible?" 
 
-Bowker and Star, from Sorting Things Out
+Lecture: "Materialist Approaches to Data and Classification"  
 
-Balsamo, from Designing Culture 
+Workshops: "Building Data-Driven Expressions with SIMILE" and "Exhibit Development"
 
-Log:	 		None
+*Note: You should have met with me during my office hours or by appointment at least once by now.* 
 
-Presentation: 	Second Group Report (two minutes) 
+## February 12th (Meeting 6) – The Materiality of a Literary Exhibit 
 
-Guest: 		Jana Millar Usiskin 
+Reading Due: Kirschenbaum et al., “Digital Materiality: Preserving Access to Computers as Complete Environments”; Chun, “The Enduring Ephemeral, or the Future Is a Memory”; Alex + Ben, “Bundled, Buried & Behind Closed Doors” 
 
-Discussion: 	How do we interact with data models? When and how are they invisible? 
+Log: Data Model
 
-Lecture: 		Materialist Approaches to Data and Classification 
+Presentation: None
 
-Workshops: 		Building Data-Driven Expressions with SIMILE
-Exhibit Development
+Discussion: "How do we study digital objects as physical things?" 
 
-Note: 	You should have met with me during my office hours or by appointment at least once by now.   
+Lecture: "The Dog Can't Eat It: Emulating Electronic Environments"  
 
-February 12th (Meeting 6) – The Materiality of a Literary Exhibit 
+Workshops: "Data Curation and Provenance"  and "Exhibit Development" 
 
-Reading Due: 	Kirschenbaum et al., “Digital Materiality: Preserving Access to Computers as Complete Environments”
-
-Chun, “The Enduring Ephemeral, or the Future Is a Memory” 
-
-Alex + Ben, “Bundled, Buried & Behind Closed Doors” 
-
-Log:	 		Data Model
-
-Presentation: 	None
-
-Discussion: 		How do we study digital objects as physical things? 
-
-Lecture: 		The Dog Can't Eat It: Emulating Electronic Environments 
-
-Workshops: 		Data Curation and Provenance 
-
-Exhibit Development 
-
-February 19th (Reading Break)
+## February 19th (Reading Break)
 
 No meeting 
 
-February 26th (Meeting 7) – Computation and the Literary Exhibit 
+## February 26th (Meeting 7) – Computation and the Literary Exhibit 
 
-Reading:		Ramsay, “Algorithmic Criticism” 
+Reading: Ramsay, “Algorithmic Criticism”; Manovich, “Cultural Analytics”; Samuels and McGann, “Deformance and Interpretation”; and Moretti, “Conjectures on World Literature” 
 
-Manovich, “Cultural Analytics” 
+Log: None 
 
-Samuels and McGann, “Deformance and Interpretation” 
+Presentation: Third Group Report (two minutes) 
 
-Moretti, “Conjectures on World Literature” 
+Discussion: "How do we read with computers? Under what assumptions? To what effects?" 
 
-Log:	 		None 
+Lecture: "Human + Computer Vision: Scaling Interpretation" 
 
-Presentation: 	Third Group Report (two minutes) 
+Workshops: "TAPoR for Textual Study and Research" and "Exhibit Development"
 
-Discussion: 	How do we read with computers? Under what assumptions? To what effects? 
-
-Lecture: 		Human + Computer Vision: Scaling Interpretation
-
-Workshops: 		TAPoR for Textual Study and Research  
-
-Exhibit Development
-
-March 5th (Meeting 8) – The Interface of a Literary Exhibit 
+## March 5th (Meeting 8) – The Interface of a Literary Exhibit 
 
 Reading: 		Drucker, “Humanities Approaches to Interface Theory” 
 
