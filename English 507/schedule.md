@@ -114,80 +114,66 @@ Workshops: "TAPoR for Textual Study and Research" and "Exhibit Development"
 
 ## March 5th (Meeting 8) – The Interface of a Literary Exhibit 
 
-Reading: 		Drucker, “Humanities Approaches to Interface Theory” 
+Reading: Drucker, “Humanities Approaches to Interface Theory”; and Drucker, “Humanities Approaches to Graphical Display” 
 
-			Drucker, “Humanities Approaches to Graphical Display” 
+Log: Draft Project Components
 
-Log:	 		Draft Project Components
+Presentation: Fourth Group Report 
 
-Presentation: 	Fourth Group Report 
+Guest: Shaun Macpherson 
 
-Guest: 		Shaun Macpherson 
+Discussion: "What is a literary interface?" 
 
-Discussion: 		What is a literary interface? 
+Lecture: "Understanding Affordances"  
 
-Lecture: 		Understanding Affordances 
+Workshops: "Introduction to Usability Testing" and "Exhibit Development"
 
-Workshops: 		Introduction to Usability Testing 
+*Note: You should have met with me during my office hours or by appointment at least twice by now.* 
 
-Exhibit Development
+Also, Dr. Tanya Clement will be visiting UVic during this week. She is an Assistant Professor in the School of Information at U. of Texas at Austin. She will be visiting with us, and she will also be giving a public talk, which I encourage you to attend.  
 
-Note: 	You should have met with me during my office hours or by appointment at least twice by now.  
-
-	Also, Dr. Tanya Clement will be visiting UVic during this week. She is an Assistant Professor in the School of Information at U. of Texas at Austin. She will be visiting with us, and she will also be giving a public talk, which I encourage you to attend.  
-
-March 12th (Meeting 9) – Workshop with Bethany Nowviskie 
+## March 12th (Meeting 9) – Workshop with Bethany Nowviskie 
 
 During this week, we will meet with Bethany Nowviskie, who will be visiting UVic as a Lansdowne Speaker. Dr. Nowviskie is Director of Digital Research & Scholarship at the University of Virginia Library, Associate Director of the Scholarly Communication Institute, and President of the Association for Computers and the Humanities (ACH). She has agreed to conduct a workshop for us as a small group, but the date and time are to be determined. It will likely occur outside our regular meeting time, in which case we will not meet at 1:30pm on March 12th. Dr. Nowviskie will also be giving a public talk, which I encourage you to attend.  
 
-March 19th (Meeting 10) – A Literary Exhibit’s Public(s)
+## March 19th (Meeting 10) – A Literary Exhibit’s Public(s)
 
-Reading: 		Liu, “Where Is Cultural Criticism in the Digital Humanities?” 
+Reading: Liu, “Where Is Cultural Criticism in the Digital Humanities?”; Daniel, “Hybrid Practices”; Ang and Pothen, “Between Promise and Practice: Web 2.0, Intercultural Dialogue and Digital Scholarship”; and McPherson, “Why Are the Digital Humanities So White?, or, Thinking the Histories of Race and Computation”
 
-Daniel, “Hybrid Practices” 
+Log: None 
 
-Ang and Pothen, “Between Promise and Practice: Web 2.0, Intercultural Dialogue and Digital Scholarship”
- 
-McPherson, “Why Are the Digital Humanities So White?, or, Thinking the Histories of Race and Computation”
+Presentation: None 
 
-Log:	 		None 
+Discussion: "What is the practice of culture in digital contexts?" 
 
-Presentation: 	None 
+Lecture: "The Digital Public Humanities: For whom? By whom?"   
 
-Discussion: 		What is the practice of culture in digital contexts? 
+Workshop: "Exhibit Development" 
 
-Lecture: 		The Digital Public Humanities: For whom? By whom?   
+## March 26th (Meeting 11) – Peer-Reviewing a Literary Exhibit 
 
-Workshop: 		Exhibit Development 
+Reading: Fitzpatrick, “Beyond Metrics: Community Authorization and Open Peer Review”; Ramsay and Rockwell, “Developing Things: Notes toward an Epistemology of Building in the Digital Humanities”; and Galey and Ruecker, “How a Prototype Argues” 
 
-March 26th (Meeting 11) – Peer-Reviewing a Literary Exhibit 
+Log: Draft Exhibit Components (second round) 
 
-Reading: 	Fitzpatrick, “Beyond Metrics: Community Authorization and Open Peer Review”
+Presentation: None
 
-Ramsay and Rockwell, “Developing Things: Notes toward an Epistemology of Building in the Digital Humanities” 
+Discussion: "What is open peer review? What are some consequences?"  
 
-Galey and Ruecker, “How a Prototype Argues” 
+Lecture: "Granulating Attention to Scholarly Communications" 
 
-Log:	 		Draft Exhibit Components (second round) 
+Workshops: "Understanding Usage Statistics and the Attention Economy" and "Exhibit Development" 
 
-Presentation: 	None
+## April 2nd (Meeting 12) – Final Presentations 
 
-Discussion: 		What is open peer review? What are some consequences? 
+Reading: None 
 
-Lecture: 		Granulating Attention to Scholarly Communications 
+Log: Final Presentation Materials 
 
-Workshops: 		Understanding Usage Statistics and the Attention Economy 
+Presentation: Final Roundtables 
 
-Exhibit Development 
+*Note: We will also take fifteen to twenty minutes to complete course evaluations during this meeting.*  
 
-April 2nd (Meeting 12) – Final Presentations 
+## April 16th
 
-Reading: 		None 
-
-Log:	 		Final Presentation Materials 
-
-Presentation: 	Final Roundtables 
-
-Note:	We will also take fifteen to twenty minutes to complete course evaluations during this meeting.   
-
-April 16th – Final Project Due
+Final Project Due
