@@ -6,7 +6,7 @@ Meetings: Tuesday | 1:30-4:20 | [ECS 128](http://web.uvic.ca/~uvicav/classrooms/
 
 Course Site: [web.uvic.ca/englblogs/507s2013](http://web.uvic.ca/englblogs/507s2013)
 
-Instructor: Jentery Sayers | Assistant Professor | Department of English 
+Instructor: [Jentery Sayers](http://www.jenterysayers.com/) | Assistant Professor | [Department of English](http://english.uvic.ca/) 
 
 Office Hours: Tuesday, 10:30-12:30 (or by appointment)
 
