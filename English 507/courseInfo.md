@@ -1,8 +1,8 @@
 # DIGITAL LITERARY STUDIES: HISTORY AND PRINCIPLES
  
-English 507 | University of Victoria | Spring 2013 | CRN: 23244
+English 507 | [University of Victoria](http://www.uvic.ca) | Spring 2013 | CRN: 23244
 
-Meetings: Tuesday | 1:30-4:20 | ECS 128 
+Meetings: Tuesday | 1:30-4:20 | [ECS 128](http://web.uvic.ca/~uvicav/classrooms/ecs_128.htm) 
 
 Course Site: [web.uvic.ca/englblogs/507s2013](http://web.uvic.ca/englblogs/507s2013)
 
