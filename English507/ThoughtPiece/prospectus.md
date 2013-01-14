@@ -1,6 +1,7 @@
 # Prospectus for “The Long Now of Ulysses”
 
 Co-curated by Jentery Sayers, Stephen Ross, and English 507 (Spring 2013)
+
 Author: Stephen Ross 
 
 ## Rationale
