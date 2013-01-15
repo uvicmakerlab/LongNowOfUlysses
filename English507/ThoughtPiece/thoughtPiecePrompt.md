@@ -4,7 +4,9 @@ For our next meeting, we'll start organizing our approach to the literary exhibi
 
 Instead of having you write a response, I'm asking you to revise the [current prospectus for the Long Now of *Uylsses* exhibit](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/ThoughtPiece/prospectus.md). The details are below. You'll not only be revising existing content in the prospectus but also adding a section, which more or less explains your working idea of what the exhibit needs (hence "thought piece") and what you want to contribute. 
 
-This contribution may assume a variety of forms, from a particular aspect of the exhibit's physical design, mode of outreach/engagement, or expression of digital/analog content to an online component of its materials and narrative, a plan for mobilizing it elsewhere, or a way of digitizing, encoding, or fabricating its materials. (Note how none of these requires knowledge of *Ulysses*.) I encourage you to draw upon your own interests and investments while also pursuing something you wish to learn more about (i.e., something that's relatively new to you). I also encourage you to develop your idea in small groups (of two to four people) within the seminar. Again, more details below.
+This contribution may assume a variety of forms, from a particular aspect of the exhibit's physical design, mode of outreach/engagement, or expression of digital/analog content to an online component of its materials and narrative, a plan for mobilizing it elsewhere, or a way of digitizing, encoding, or fabricating its materials. (Note how none of these requires knowledge of *Ulysses*.) I encourage you to draw upon your own interests and investments while also pursuing something you wish to learn more about (i.e., something that's relatively new to you). I also encourage you to develop your idea in small groups (of two to four people) within the seminar. 
+
+**Important**: I also encourage you (individually or in groups) to run your idea(s) by me before you commit your section to the prospectus. Feel fre to drop by during office hours (Tuesday, 10:30-12:30), visit the lab (in TEF 243; Thursdays and Fridays are best), send me emails, or make an appointment. For this assignment, I recommend meeting sooner rather than later.    
 
 ## SAMPLE PROJECTS 
 
@@ -89,7 +91,7 @@ In the "Organization" section:
 
 In the "Perimeter Panels" section: 
 
-* Does the selection process appear random? What other sorts of claims might justify this "computational" approach to selecting text from *Ulyesses*? 
+* Does the selection process appear random? What other sorts of claims might justify this "computational" approach to selecting text from *Ulysses*? 
 
 * Based on your existing knowledge, does the method correspond well with modernist culture? Or do the justifications appear forced / hyperbolic? 
 
