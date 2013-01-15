@@ -51,13 +51,13 @@ At a minimum, the response should involve you:
 
 1. Revising some existing content in the prospectus (how many revisions, and how significant they are, is up to you); and
 
-2. Adding your own section (e.g., "Outreach," "Online Component," or "Mobilization Plan") at the bottom of the prospectus (just after the "Center Cabinets" section).
+2. Adding your own section, complete with explanatory content and a header (e.g., "Outreach," "Online Component," or "Mobilization Plan"), at the bottom of the prospectus (just after the "Center Cabinets" section).
 
 The revisions and the added section should resonate with the balance of the prospectus, maintaining a consistent voice, tone, style, and sense of audience (i.e., people, such as librarians, who are unfamiliar with our planned exhibit but need to know more, perhaps because they are collaborating with us). A savvy reader should not notice that multiple people contributed to the document.   
 
-The added section should more or less reflect what you want to do this semester (including what you want to learn) and what you ultimately want to contribute to the exhibit. Before, during, and after writing this section, I recommend meeting with other folks in this seminar as well as students in English 560 (taught by Stephen Ross). Collaborating with other people will make your work both easier (in some senses) and more interesting (in most every sense). And while you are welcome to agree on a particular approach to or component of the exhibit, you should each write your own section for the prospectus. (Obviously, language, theories, and practices may be shared across your writing. The header for the section may also be shared amongst the group.) This way, we can get a sense of people's differing perspectives and investments.  
+The added section should more or less reflect what you want to do this semester (including what you want to learn) and what you ultimately want to contribute to the exhibit. Before, during, and after writing this section, I recommend meeting with other folks in this seminar as well as students in English 560 (taught by Stephen Ross). Collaborating with other people will make your work both easier (in some senses) and more interesting (in most every sense). And while you are welcome to agree on a particular approach to or component of the exhibit, you should each write your own section for the prospectus. (Obviously, language, theories, and practices may be shared across your writing. The header for the section may also be shared amongst the group.) This way, we can get a sense of people's differing perspectives, styles, and investments.  
 
-The added section should be written for a non-expert, educated audience, who may not be familiar with your ideas or whatever's influencing / sparking them. It should also be detailed (much like, say, the "Perimeter Panels" section).   
+The added section should be written for a non-expert, educated audience, who may not be familiar with your ideas or whatever's sparking / influencing those ideas. It should also be detailed (much like, say, the "Perimeter Panels" section).   
 
 # WHAT TO CONSIDER WHEN REVISING THE PROSPECTUS 
 
