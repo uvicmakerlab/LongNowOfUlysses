@@ -6,7 +6,7 @@ Instead of having you write a response, I'm asking you to revise the [current pr
 
 This contribution may assume a variety of forms, from a particular aspect of the exhibit's physical design, mode of outreach/engagement, or expression of digital/analog content to an online component of its materials and narrative, a plan for mobilizing it elsewhere, or a way of digitizing, encoding, or fabricating its materials. (Note how none of these requires knowledge of *Ulysses*.) I encourage you to draw upon your own interests and investments while also pursuing something you wish to learn more about (i.e., something that's relatively new to you). I also encourage you to develop your idea in small groups (of two to four people) within the seminar. 
 
-**Important**: I also encourage you (individually or in groups) to run your idea(s) by me before you commit your section to the prospectus. Feel fre to drop by during office hours (Tuesday, 10:30-12:30), visit the lab (in TEF 243; Thursdays and Fridays are best), send me emails, or make an appointment. For this assignment, I recommend meeting sooner rather than later.    
+**Important**: I also encourage you (individually or in groups) to run your idea(s) by me before you commit your section to the prospectus. Feel free to drop by during office hours (Tuesday, 10:30-12:30), visit the lab (in TEF 243; Thursdays and Fridays are best), send me emails, or make an appointment. For this assignment, I recommend meeting sooner rather than later.    
 
 ## SAMPLE PROJECTS 
 
