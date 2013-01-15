@@ -109,7 +109,7 @@ In the "Center Cabinets" section:
 
 * What kinds of work (or actual works with which you are familiar) could be included in these cabinets? 
 
-* Given that this part of the exhibit appears rather open to interpretation, how can we take advantage of this flexibility / opportunity? 
+* Given that this part of this exhibit appears rather open to interpretation, how can we take advantage of this flexibility / opportunity? 
 
 ## QUESTIONS? ANXIETIES? CONCERNS? QUIBBLES? 
 
