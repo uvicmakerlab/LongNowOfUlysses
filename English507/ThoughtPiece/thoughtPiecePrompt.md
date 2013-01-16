@@ -63,7 +63,7 @@ At a minimum, your response to this prompt should involve you:
 
 1. Revising some existing content in the prospectus (how many revisions, and how significant they are, is up to you); and
 
-2. Adding your own section, complete with explanatory content and a heading (e.g., "Outreach," "Online Component," or "Mobilization Plan"), at the bottom of the prospectus (just after the "Center Cabinets" section). I recommend using ## for your heading (h2).  
+2. Adding your own section, complete with explanatory content and a heading (e.g., "Outreach," "Online Component," or "Mobilization Plan"), at the bottom of the prospectus (just after the "Center Cabinets" section). I recommend using ## for your heading (h2 in HTML).  
 
 The revisions and the added section should resonate with the balance of the prospectus, maintaining a consistent voice, tone, style, and sense of audience (i.e., people, such as librarians, who are unfamiliar with our planned exhibit but need to know more, perhaps because they are collaborating with us). A savvy reader should not notice that multiple people contributed to the document.   
 
