@@ -24,7 +24,7 @@ __CHANGES TO PERIMETER PANELS:__
 
 1. Changed "random" to "purposefully arbitrary chaos" and "chaotic" to better reflect the not-so-random nature of using an algorithm to choose text; changed the general tone of the passage to better accentuate the superficial nature of our text's "randomness."  
 2. Noted that the blown up text is the "fundamental framework" of the exhibit; how can we have the "Long now of Ulysses without some basis in the text Ulysses, or at least a recognition of its existence? Because of this, it is "*fundamentally*" important, but not necessarily "*absolute*."  
-3. Noted that other visual media can be used, as well - leave it broad  
+3. Noted that other visual media can be used, as well - left it broad  
 4. Other minor stylistic alterations  
 
 __CHANGES TO CENTER CABINETS:__
