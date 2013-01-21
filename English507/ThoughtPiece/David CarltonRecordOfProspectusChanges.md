@@ -2,5 +2,6 @@
 
 *All My Changes to the Prospectus will be Noted (and Usually Explicitly Justified) Here.*
 
-1.) Added New Section Entitled "Online Presence, Preservation and Propagation"
+1. Added a new section called "Online Presence"
+2. 
 
