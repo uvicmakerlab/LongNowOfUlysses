@@ -33,6 +33,17 @@ The blown-up text is only a springboard, an anchor, for each panel, though, and 
 
 The six cabinets located in the center of the space are organized according to the principle of unanticipated afterlives. They will feature works in which artists and critics have taken up Ulysses and its contexts in ways Joyce could not have anticipated: digital manifestations, cinematic renderings, live performances, architectural designs, artistic appropriations, inventive maps, music, etc. 
 
-## Online Presence, Preservation and Propagation
+## Presence, Preservation and Form Online
 
+Since *Ulysses* is so interested in *form*, rendering our source-text online is both necessary and prudent, since doing so will challenge the audience (and us) to rethink the underlying structure of the words as a *unified* (or disordered) "whole," while giving the text a more permanent space to call *home*. Further, our exhibit will echo *Ulysses*' unique handling of time. By using an algorithm to systematically select portions from the story, the temporality of the original book will be deconstructed; the backbone of the new text will no longer be centred around our expectations regarding "time" in a novel, but instead subordinate to the behest of the algorithm. Our text, therefore, will serve as a performance of agency given to a machine by a human, which is in turn a performance of the questions of man / machine agency that arise more generally in the area of digital humanities. Rather than a simple argument for the worth of DH, our encoded text will reveal how human intervention permeates even the most ubiquitously digital domains.  
+
+In a way, the sections selected by the algorithm take on a new base form; they become a new *text* that can be studied as an essentially unique framework that is fundamentally representative of the "Long Now of Ulysses" exhibit. Providing the digital sampling of the poem with an online presence is useful for a number of pragmatic reasons. For one, the web presence will exist long past the exhibit, and thus act as a reminder that the exhibit was ever there, how it was constructed at its most fundamental level (that is, the new algorithmically constructed “text"), and how one might be able to recreate the exhibit as a whole. Furthermore, by creating an online, marked-up text, the framework of the exhibit will be academically useful to various scholars from various fields using the XML tags, while at the same time remain accessible to the general public using the CSS rendering of the page, wherein the XML tags will remain invisible and unobtrusive, except in the source-code.  
+
+_The digitization of our text will be accomplished as follows:_
+
+>_1.)_ Each algorithmically selected portion of the text will be encoded in XML, and then rendered as a Browser>-readable document using simple, functional CSS, and/or HTML and Javascript as deemed appropriate.
+>_2.)_ The back-end XML will be extensively marked up according to DTI standards for prose, so that the backbone of the >"Long Now of Ulysses" (that is, the new foundational "text" as selected by the algorithm) can be easily interrogated >on a more abstract/quantitative level in the future.
+>_3)_ We will host the encoded text, and all related files, on a stable, publicly accessible web-space. 
+
+This web presence may, but need not, reflect the aesthetic of the library exhibit, since its purpose is to codify, present and preserve the textual framework that lies behind the project's visual manifestation in the library, not to codify, present and preserve the visual manifestation itself.
 
