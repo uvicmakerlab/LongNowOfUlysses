@@ -1,0 +1,78 @@
+## David Carlton's Workflow
+
+I use [Firefox](http://www.mozilla.org/ "Firefox") as my primary web-browser, alongside MS Notepad for the basic organization of notes and 
+
+thoughts. As a Medievalist, I've also found the [Internet Archive's WayBack Machine](http://www.archive.org/ "wayback") to be indispensable. 
+
+Since medievalists (and philologists) have been working online since the early-mid nineties, many of the 
+
+earliest sites in my field no longer exist. With the WayBack Machine, I can often access links to long-
+
+dead sites, provided they haven't disallowed indexing via Robots.txt. I also frequently use the Firebug 
+
+add-on to examine *XML/CSS/HTML* documents on the web, and how they function in their own digital spaces. 
+
+By interrogating other people's code, I can assess the ways in which successful digital humanities 
+
+projects in my field, such as the semi-diplomatic XML Anglo-Saxon Chronicle, gather and present their 
+
+data, and thus reexamine my own methodologies. In short, I use the potent elixir of Firefox, Notepad, 
+
+Firebug and preexisting DH projects as the starting point for a personal adventure in digital 
+
+reflexivity. Of course, I also have Internet Explorer, Opera and Google Chrome in the event of a 
+
+rendering problem with Firefox, but I haven't had experienced a catastrophic error in many moons.  
+
+
+For backup, I generally save *standard* academic assignments, such as papers, on my internal *SSD*, my 
+
+Seagate 2TB external HDD, my 16GB HP flash-drive, and often on my UVic web-space, as well. However, for 
+
+more artistic projects, such as the comic I created for my critical theory class, I keep the originals, 
+
+hand in high DPI photocopies for grading purposes, and save scans on one or more of my mass-storage 
+
+devices; if appropriate, I also upload scans to my Facebook/DeviantArt accounts after the tumult of the 
+
+term has passed. Of course, the frequency of my backups is contingent upon the frequency of my work. For 
+
+my paid RA work, I backup once per week, whereas I will backup up the rest of my research more (or less) 
+
+frequently, depending on how much I have accomplished. If I haven't made external copies of my work in 
+
+over two weeks, one of my devices is probably broken. When working on a longer piece (like a seminar 
+
+paper, prospective journal article, or thesis) I generally create new copies at each critical stage of 
+
+the writing process. This way, I have readily accessible evidence of my writing process from the 
+
+beginning of my work to its final draft. For the preservation of online content, I've found that I 
+
+usually copy and paste text into MS Notepad, or download entire web-pages using the ScrapBook add-on for 
+
+Firefox. ScrapBook is helpful when I want to keep a functional copy of an online multi-page XML document, 
+
+and don't want to worry about manually locating and downloading all pertinent files.  
+
+
+I employ <oXygen/> for writing XML documents,  Microsoft Word for word processing, and 
+
+Notepad or Notepad++ for text editing, HTML and markdown. Although I love the simplicity of Notepad, I 
+
+feel Notepad++ will make scripting much easier. Thus, I'll soon be making the switch. Generally, I use 
+
+relatively few extravagant technologies in my everyday research, simply because I haven't felt any pain 
+
+in their absence. I also like to exercise as much of my own human agency over my work as possible, and 
+
+find that more manual tools, like Notepad, combine the advantages of the digital __now__ with the analog 
+
+*old.* That being said, I might be conflating *automation* with *unreliability.* This could be 
+
+problematic on a number of theoretical and pragmatic levels. Although my admittedly-imperfect methodology 
+
+has worked for me thus far, I'm constantly looking for ways to improve it; I hope to implement more 
+
+modern technologies in the near future.  
+
