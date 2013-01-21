@@ -35,3 +35,4 @@ The six cabinets located in the center of the space are organized according to t
 
 ## New Section Here 
 
+Content coming soon. (This is an example for English 507, Spring 2013.) 
