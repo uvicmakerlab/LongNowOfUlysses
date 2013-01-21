@@ -2,7 +2,7 @@
 
 Co-curated by Jentery Sayers, Stephen Ross, English 507, and English 560 (Spring 2013) 
 
-Author: Stephen Ross 
+Author: Stephen Ross, edited by David Carlton
 
 ## Rationale
 
@@ -36,4 +36,3 @@ The six cabinets located in the center of the space are organized according to t
 ## Online Presence, Preservation and Propagation
 
 
--David Carlton's edits
