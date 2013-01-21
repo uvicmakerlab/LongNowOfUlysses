@@ -1,6 +1,6 @@
 # Prospectus for “The Long Now of Ulysses”
 
-Co-curated by Jentery Sayers, Stephen Ross, English 507, and English 560 (Spring 2013)
+Co-curated by Jentery Sayers, Stephen Ross, English 507, and English 560 (Spring 2013) 
 
 Author: Stephen Ross 
 
@@ -33,6 +33,6 @@ The blown-up text is only a springboard, an anchor, for each panel, though, and 
 
 The six cabinets located in the center of the space are organized according to the principle of unanticipated afterlives. They will feature works in which artists and critics have taken up Ulysses and its contexts in ways Joyce could not have anticipated: digital manifestations, cinematic renderings, live performances, architectural designs, artistic appropriations, inventive maps, music, etc. 
 
-## New Section Here 
+## New Section Here TEST
 
 Content coming soon. (This is an example for English 507, Spring 2013.) 
