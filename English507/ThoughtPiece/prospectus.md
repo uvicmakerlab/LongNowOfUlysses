@@ -33,7 +33,7 @@ The blown-up text is only a springboard, an anchor, for each panel, though, and 
 
 The six cabinets located in the center of the space are organized according to the principle of unanticipated afterlives. They will feature works in which artists and critics have taken up Ulysses and its contexts in ways Joyce could not have anticipated: digital manifestations, cinematic renderings, live performances, architectural designs, artistic appropriations, inventive maps, music, etc. 
 
-## Presence, Preservation and Form Online
+## Online Presence
 
 Since *Ulysses* is so interested in *form*, rendering our source-text online is both necessary and prudent, since doing so will challenge the audience (and us) to rethink the underlying structure of the words as a *unified* (or disordered) "whole," while giving the text a more permanent space to call *home*. Further, our exhibit will echo *Ulysses*' unique handling of time. By using an algorithm to systematically select portions from the story, the temporality of the original book will be deconstructed; the backbone of the new text will no longer be centred around our expectations regarding "time" in a novel, but instead subordinate to the behest of the algorithm. Our text, therefore, will serve as a performance of agency given to a machine by a human, which is in turn a performance of the questions of man / machine agency that arise more generally in the area of digital humanities. Rather than a simple argument for the worth of DH, our encoded text will reveal how human intervention permeates even the most ubiquitously digital domains.  
 
