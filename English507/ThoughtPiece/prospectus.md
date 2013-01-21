@@ -41,9 +41,11 @@ In a way, the sections selected by the algorithm take on a new base form; they b
 
 _The digitization of our text will be accomplished as follows:_
 
-_1.)_ Each algorithmically selected portion of the text will be encoded in XML, and then rendered as a Browser-readable document using simple, functional CSS, and/or HTML and Javascript as deemed appropriate.
-_2.)_ The back-end XML will be extensively marked up according to DTI standards for prose, so that the backbone of the "Long Now of Ulysses" (that is, the new foundational "text" as selected by the algorithm) can be easily interrogated on a more abstract/quantitative level in the future.
-_3)_ We will host the encoded text, and all related files, on a stable, publicly accessible web-space. 
+*1)* Each algorithmically selected portion of the text will be encoded in XML, and then rendered as a Browser-readable document using simple, functional CSS, and/or HTML and Javascript as deemed appropriate.
+
+*2)* The back-end XML will be extensively marked up according to DTI standards for prose, so that the backbone of the "Long Now of Ulysses" (that is, the new foundational "text" as selected by the algorithm) can be easily interrogated on a more abstract/quantitative level in the future.
+
+*3)* We will host the encoded text, and all related files, on a stable, publicly accessible web-space. 
 
 This web presence may, but need not, reflect the aesthetic of the library exhibit, since its purpose is to codify, present and preserve the textual framework that lies behind the project's visual manifestation in the library, not to codify, present and preserve the visual manifestation itself.
 
