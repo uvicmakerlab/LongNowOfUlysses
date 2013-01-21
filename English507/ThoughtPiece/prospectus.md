@@ -41,7 +41,7 @@ In a way, the sections selected by the algorithm take on a new base form; they b
 
 __The digitization of our text will be accomplished as follows:__
 
-1. Each algorithmically selected portion of the text will be encoded in XML, and then rendered as a Browser-readable document using simple, functional CSS, and/or HTML and Javascript as deemed appropriate, following the example of--for instance--the [XML edition of the Anglo-Saxon Chronicle] (http://asc.jebbo.co.uk/ "XML ASC")
+1. Each algorithmically selected portion of the text will be encoded in XML, and then rendered as a Browser-readable document using simple, functional CSS, and/or HTML and Javascript as deemed appropriate, following the example of--for instance--the [XML edition of the Anglo-Saxon Chronicle] (http://asc.jebbo.co.uk/ "XML ASC").
 2. The back-end XML will be extensively marked up according to DTI standards for prose, so that the backbone of the "Long Now of *Ulysses*" (that is, the new foundational "text" as selected by the algorithm) can be easily interrogated on a more abstract/quantitative level in the future.  
 3. We will host the encoded text, and all related files, on a stable, publicly accessible web-space.   
 
