@@ -3,10 +3,12 @@
 I have decided to take this course to shed some of my antiquated and inefficient habits. My present workflow involves me printing everything and annotating it manually using a colour codification system that can only be deciphered by me. It is a workflow that winds up obfuscating the texts I use more than it clarifies them. I concede that its time to find a more efficient way of harnessing, sorting, and revisiting the useful information contained in my sources.  
    
 I decided to use [Firefox](http://goo.gl/M8UwS) as my primary research browser because it is the browser that I am most familiar with. I find the search add-ons to be a convenient supplement to Firefox. I downloaded search add-ons such as: 
+
 *[DeeperWeb](http://goo.gl/h0NcM) 
 *[Project Gutenberg](http://goo.gl/2mZ5L) 
 *[Google Books](http://goo.gl/DeYMT) 
-*[Amazon](http://goo.gl/RvZv5)   
+*[Amazon](http://goo.gl/RvZv5)  
+
 to help me find free digital books and [WorldCat](http://goo.gl/rfSR7) to help me find important texts that cannot be found in the University of Victoria library. Additionally, I decided to download [Chrome](https://www.google.com/intl/en/chrome/browser/) for my leisure browsing. While the applications I have added to Firefox render it a labour-saving forum for performing research, they also slow it down. Therefore, Chrome will be my go-to browser when I do not need to use any of the ‘extra stuff’ that might hinder Firefox. It will also serve as an additional interface through which I can view web-content.  
 
 I have configured my laptop so that [Time Machine](http://support.apple.com/kb/HT1427) backs up my computer to an external hard drive whenever I plug the hard drive into my computer. I already use [Dropbox](https://www.dropbox.com/) to remotely access files and share files with others. It acts as cloud storage for files that are particularly important to preserve and also ones that I might be editing at various locations on the fly.  
