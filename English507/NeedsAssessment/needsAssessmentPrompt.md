@@ -1,6 +1,6 @@
 # NEEDS ASSESSMENT AND OUTCOMES STATEMENT 
 
-After both the [Thought Piece](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/ThoughtPiece/thoughtPiecePrompt.md) and the project development workshops we conducted during seminar on January 22nd, the next step in articulating your contribution to the Long Now of *Ulysses* exhibit is refining that contribution, namely through a needs assessment and outcomes statement, which ask you to anchor your project in some concrete particulars.  
+After the [Thought Piece](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/ThoughtPiece/thoughtPiecePrompt.md) as well as the project development workshops we conducted during seminar on January 22nd, the next step in articulating your contribution to the Long Now of *Ulysses* exhibit is refining that contribution, namely through a needs assessment and outcomes statement, which ask you to anchor your project in some concrete particulars.  
 
 ## LEARNING OUTCOMES  
 
