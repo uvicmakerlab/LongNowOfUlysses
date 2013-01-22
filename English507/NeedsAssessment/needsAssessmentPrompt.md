@@ -2,6 +2,10 @@
 
 After the [Thought Piece](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/ThoughtPiece/thoughtPiecePrompt.md) as well as the project development workshops we conducted during seminar on January 22nd, the next step in articulating your contribution to the Long Now of *Ulysses* exhibit is refining that contribution, namely through a needs assessment and outcomes statement, which ask you to anchor your project in some concrete particulars.  
 
+This is more or less the stage in the semester when you refine your project, focus on what's feasible, identify what you need to do (and by when), and produce an implementation plan.  
+
+If you are collaborating with other people in 507, then I recommend authoring this document with them. My only request is that everyone should submit a file to the repository, even if some of the files are identical.   
+
 ## LEARNING OUTCOMES  
 
 For you to: 
@@ -13,7 +17,7 @@ For you to:
 
 ## WHAT YOU SHOULD INCLUDE IN YOUR RESPONSE 
 
-Your response should be written in Markdown and submitted to the master branch of the [NeedsAssessment folder](https://github.com/uvicmakerlab/LongNowOfUlysses/tree/master/English507/NeedsAssessment) in our GitHub repo before seminar on January 29th.   
+Your response should be written in Markdown, saved as yourlastnameNeeds.md, and submitted to the master branch of the [NeedsAssessment folder](https://github.com/uvicmakerlab/LongNowOfUlysses/tree/master/English507/NeedsAssessment) in our GitHub repo before seminar on January 29th.   
 
 The response should: 
 
