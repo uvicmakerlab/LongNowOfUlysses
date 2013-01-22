@@ -4,7 +4,7 @@ After the [Thought Piece](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/
 
 This is more or less the stage in the semester when you refine your project, focus on what's feasible, identify what you need to do (and by when), and produce an implementation plan.  
 
-If you are collaborating with other people in 507, then I recommend authoring this document with them. My only request is that everyone should submit a file to the repository, even if some of the files are identical.   
+If you are collaborating with other people in 507, then I recommend authoring this document with them. My only request is that everyone should submit a file to the repository, even if some of the files have identical content.    
 
 ## LEARNING OUTCOMES  
 
