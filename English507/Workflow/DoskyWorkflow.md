@@ -1,4 +1,4 @@
-## Log \#\1: Workflow  
+## Log #1: Workflow  
 
 I have decided to take this course to shed some of my antiquated and inefficient habits. My present workflow involves me printing everything and annotating it manually using a colour codification system that can only be deciphered by me. It is a workflow that winds up obfuscating the texts I use more than it clarifies them. I concede that its time to find a more efficient way of harnessing, sorting, and revisiting the useful information contained in my sources.  
    
