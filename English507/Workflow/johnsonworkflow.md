@@ -1,4 +1,4 @@
-Workflow Reflection Assignment
+#Workflow Reflection Assignment
 
 Admittedly, I still am not entirely sure just what kind of work or research I will be doing this semester in English 507, so creating a workflow at this early of a point is a bit of a challenge. With that said, Turkel’s “A Workflow for Digital Research Using Off-the-Shelf Tools” provides some really excellent looking tools to help conduct my research and supplement my writing. 
 
