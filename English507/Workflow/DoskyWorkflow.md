@@ -4,10 +4,10 @@ I have decided to take this course to shed some of my antiquated and inefficient
    
 I decided to use [Firefox](http://goo.gl/M8UwS) as my primary research browser because it is the browser that I am most familiar with. I find the search add-ons to be a convenient supplement to Firefox. I downloaded search add-ons such as: 
 
-*[DeeperWeb](http://goo.gl/h0NcM) 
-*[Project Gutenberg](http://goo.gl/2mZ5L) 
-*[Google Books](http://goo.gl/DeYMT) 
-*[Amazon](http://goo.gl/RvZv5)  
+*  [DeeperWeb](http://goo.gl/h0NcM) 
+*  [Project Gutenberg](http://goo.gl/2mZ5L) 
+*  [Google Books](http://goo.gl/DeYMT) 
+*  [Amazon](http://goo.gl/RvZv5)  
 
 to help me find free digital books and [WorldCat](http://goo.gl/rfSR7) to help me find important texts that cannot be found in the University of Victoria library. Additionally, I decided to download [Chrome](https://www.google.com/intl/en/chrome/browser/) for my leisure browsing. While the applications I have added to Firefox render it a labour-saving forum for performing research, they also slow it down. Therefore, Chrome will be my go-to browser when I do not need to use any of the ‘extra stuff’ that might hinder Firefox. It will also serve as an additional interface through which I can view web-content.  
 
