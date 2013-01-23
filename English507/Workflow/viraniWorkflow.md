@@ -10,8 +10,7 @@
 	WorldCat or Gutenberg. The Deep-Web modifier seems to be exceptionally useful in re-animating what would  
 	normally seem to be dead-end queries. I do intend to continue using Chrome, however. The journals that I  
 	monitor (via RSS feeds) link to Google Reader and work quite seamlessly with Chrome.  
-	
- 	My back-up strategy has always been quite simple, yet effective. Once a week, I update all word documents,  
+	 	My back-up strategy has always been quite simple, yet effective. Once a week, I update all word documents,  
 	PDF’s, and .txt files of search queries and citations from my laptop onto an external drive. I also maintain  
 	a DropBox account that cloud-stores the majority of my academic work. Aside from class work and research writing,  
 	the majority of these backed-up files are local copies of material I am or have been working with or researching.  
