@@ -20,14 +20,12 @@
 	citational records by hand. I have several journals in which I record the bibliographic data of anything I  
 	consult, along with the notes I make. These entries are indexed, numbered, and dated. After spending about 30  
 	seconds exploring Zotero, however, I have begun to question this tedious process. For now, I will begin recording  
-	the bibliographic information digitally, and then turn to my notebook. 
-	
- 	The app I turn to for writing is the ever-present Microsoft Word, simply because it’s what I grew up with, and it  
+	the bibliographic information digitally, and then turn to my notebook.  
+	The app I turn to for writing is the ever-present Microsoft Word, simply because it’s what I grew up with, and it  
 	has always been reliable and functional. That being said, Turkel has me itching to pony up for Scrivener (and I  
 	am currently hunting for free apps that function similarly, explicitly for the purpose of searching my written  
-	work against my sources through one program). 
-	
- 	Were I to have created a workflow several years ago, it would have been entirely manual except for some search-  
+	work against my sources through one program).  
+	Were I to have created a workflow several years ago, it would have been entirely manual except for some search-  
 	engine work. Now, the shift toward digital research and writing is quite strong, but I am still holding onto  
 	the manual process of recording my research by hand. I leave research and writing to the digital realm, but the  
 	intermediary work of documenting and workshopping remain manual.
