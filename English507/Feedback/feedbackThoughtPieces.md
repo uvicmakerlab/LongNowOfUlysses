@@ -1,6 +1,6 @@
 # Feedback on Thought Pieces and First Presentations 
 
-## Team Space and Time (AmH, AC, KT, TP) 
+## Team Space and Time: AmH, AC, KT, TP
 
 With each of you interested in maps, my first recommendation is to consider which platform you will use. Take a minute to review and even test your options, including Neatline, HyperCities, and Google Maps. In so doing, answer questions like: which platform is the most user-friendly? Which one will appeal to the broadest base of readers? Which allows me to best make the arguments I want to make (with the fewest modifications)? Which one allows me to easily separate data from expression? Which one allows me to talk about both time and space? Which affords the most persuasive narratives and visualizations? 
 
