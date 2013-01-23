@@ -2,8 +2,6 @@
 
 Co-curated by Jentery Sayers, Stephen Ross, and English 507 (Spring 2013)
 
-Author: Stephen Ross
-
 ## Rationale
 
 “The Long Now of Ulysses” takes the modernist fascination with time and space as its cornerstone, using James Joyce’s modernist masterpiece Ulysses as a springboard for presentation of a rich context of historical, cultural, and aesthetic materials in a range of media. The exhibit takes Ulysses as its starting point for several reasons: we have it and are concluding the first-ever publication of it online, it’s perhaps the sine qua non of high modernist literary production (barring only The Waste Land), and it was at the very center of a dizzyingly productive time and place -- Paris in the 1910s and 1920s -- and formed part of the context for, and was contextualised by, virtually every significant aspect of modernist cultural production. As such, it is not simply an instance of modernism, but perhaps its key metonym: the part that can stand for the whole, directing us out from its centrality to the rich context in which it emerged and which it in turn helped shape. In this respect, and as the ongoing fascination with modernist aesthetics demonstrates (e.g., the popularity of Mad Men, the recent worldwide tour of the Vorticist exhibit), we remain firmly in the long now of Ulysses even today. This exhibit will extend this long now across media, times, and places to suggest ways in which we might still treat Ulysses as a springboard into the cultures of modernity and even postmodernity. This way the exhibit will encourage visitors to grapple with the novel and modernism as whole -  finding different ways the novel has/can be interacted with in the "The Long Now of Ulysses."
