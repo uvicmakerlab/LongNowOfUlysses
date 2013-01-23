@@ -1,7 +1,7 @@
 # Zaqir Virani – Eng 507 Workflow
 ## Jan 15th 2013
 
-                While I found [Turkel’s](http://www.williamjturkel.com "Turkel's Blog") advice to be fairly overwhelming, I  
+   While I found [Turkel’s](http://www.williamjturkel.com "Turkel's Blog") advice to be fairly overwhelming, I  
 	did come around to quite a few of his suggestions after some experimentation. In terms of browsers, I have 
 	been using strictly Chrome as of late. The	extensions, however, were not as plentiful as those Turkel  
 	advertised for Firefox. Considering this, I have re-installed  Firefox and some relevant search-engine extensions  
@@ -10,7 +10,7 @@
 	WorldCat or Gutenberg. The Deep-Web modifier seems to be exceptionally useful in re-animating what would  
 	normally seem to be dead-end queries. I do intend to continue using Chrome, however. The journals that I  
 	monitor (via RSS feeds) link to Google Reader and work quite seamlessly with Chrome.  
-	 	My back-up strategy has always been quite simple, yet effective. Once a week, I update all word documents,  
+   My back-up strategy has always been quite simple, yet effective. Once a week, I update all word documents,  
 	PDF’s, and .txt files of search queries and citations from my laptop onto an external drive. I also maintain  
 	a DropBox account that cloud-stores the majority of my academic work. Aside from class work and research writing,  
 	the majority of these backed-up files are local copies of material I am or have been working with or researching.  
@@ -25,7 +25,7 @@
 	has always been reliable and functional. That being said, Turkel has me itching to pony up for Scrivener (and I  
 	am currently hunting for free apps that function similarly, explicitly for the purpose of searching my written  
 	work against my sources through one program).  
-          	Were I to have created a workflow several years ago, it would have been entirely manual except for some search-  
+   Were I to have created a workflow several years ago, it would have been entirely manual except for some search-  
 	engine work. Now, the shift toward digital research and writing is quite strong, but I am still holding onto  
 	the manual process of recording my research by hand. I leave research and writing to the digital realm, but the  
 	intermediary work of documenting and workshopping remain manual.
