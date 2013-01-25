@@ -32,4 +32,4 @@ Students with diverse learning styles and needs are welcome in this course. In p
 
 ## Email 
 
-With the exception of holidays and weekends, I respond to student emails within twenty-four hours.
+With the exception of holidays and weekends, I respond to student emails within 24 hours.
