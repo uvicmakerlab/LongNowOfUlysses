@@ -60,5 +60,7 @@ Ulysses CubeSat and Pioneer Plaque
 10.	Project printing – Feb 19 - 26
 11.	Project display – Feb 26 - Mar 5
 12.	Refining Work – Mar 5 – 19
+
 ####Personal Goals
+
 I wish to learn and leverage current 3D software and drafting tools required for modelling a literary exhibit while acquiring a familiarity with the various steps involved in manufacturing a digital literary project from prototype to display.  I plan to investigate different interdisciplinary methods and technologies to theorize new environments for textual transmission and reception.
