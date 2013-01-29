@@ -10,17 +10,17 @@ To recreate the Holmes stereoscope I require two lenses, plywood, doweling, wood
 
 The following texts will help guide my research:
 
-Baron, Scarlett. "Flaubert, Joyce: Vision, Photography, Cinema." *Modern Fiction Studies* 54.4 (2008): 689-714.
-Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." *Illuminations*. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Shocken, 1968. 217-252.
-Burkdall, Thomas L. *Joycean Frames: Film and the Fiction of James Joyce*. London: Routledge, 2001. 
-Crary, Jonathan. *Suspensions of Perception*. Cambridge: MIT P, 2001.
-Hart, Clove, et. al. *Images of Joyce*. Gerrards Cross: Colin Smythe, 1998.
-Joyce, James. *Ulysses*. Ed. Declan Kiberd. New York: Penguin, 1992. (with special attention to passages in which cinema, photography, and stereoscopy are referred)
-Palmer, R. Barton. "Eisensteinian Montage and Joyce's *Ulysses*: The Analogy Reconsidered." *Mosaic* 18 (1985): 73-85.
-Spiegel, Alan. *Fiction and the Camera Eye: Visual Consciousness in Film and the Modern Novel*. Charlottesville: U of Virginia P, 1976. 71-80.
-Trotter, David. *Cinema and Modernism*. Oxford: Blackwell, 2007.
-Williams, Keith. "Cinematic Joyce." *James Joyce Broadsheet* 57 (2000).
-Wheatstone, Charles. "On Some Remarkable, and Hitherto Unobserved, Phenomena of Binocular Vision." *Philosophical Traditions* 128 (1838): 371-394.
+Baron, Scarlett. "Flaubert, Joyce: Vision, Photography, Cinema." *Modern Fiction Studies* 54.4 (2008): 689-714.  
+Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." *Illuminations*. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Shocken, 1968. 217-252.  
+Burkdall, Thomas L. *Joycean Frames: Film and the Fiction of James Joyce*. London: Routledge, 2001.   
+Crary, Jonathan. *Suspensions of Perception*. Cambridge: MIT P, 2001.  
+Hart, Clove, et. al. *Images of Joyce*. Gerrards Cross: Colin Smythe, 1998.  
+Joyce, James. *Ulysses*. Ed. Declan Kiberd. New York: Penguin, 1992. (with special attention to passages in which cinema, photography, and stereoscopy are referred)  
+Palmer, R. Barton. "Eisensteinian Montage and Joyce's *Ulysses*: The Analogy Reconsidered." *Mosaic* 18 (1985): 73-85.  
+Spiegel, Alan. *Fiction and the Camera Eye: Visual Consciousness in Film and the Modern Novel*. Charlottesville: U of Virginia P, 1976. 71-80.  
+Trotter, David. *Cinema and Modernism*. Oxford: Blackwell, 2007.  
+Williams, Keith. "Cinematic Joyce." *James Joyce Broadsheet* 57 (2000).  
+Wheatstone, Charles. "On Some Remarkable, and Hitherto Unobserved, Phenomena of Binocular Vision." *Philosophical Traditions* 128 (1838): 371-394.  
 
 ## Scope/ Goals
 
