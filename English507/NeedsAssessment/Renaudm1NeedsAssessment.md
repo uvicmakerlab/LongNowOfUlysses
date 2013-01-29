@@ -20,6 +20,8 @@
 ## Reference Patches/Projects
 
 (http://vimeo.com/9361781 "Ryo Ikeshiro – Pulse Cubes")
+(http://www.rom.on.ca/en/about-us/rom/exhibition-spaces/thorsell-spirit-house "John Oswald - A Time to Hear for Hear")
+(http://www.atworkandplay.ca/ "Angela Grauerholtz Web-based work At Work at Play") 
 
 ## Bibliography: 
 
