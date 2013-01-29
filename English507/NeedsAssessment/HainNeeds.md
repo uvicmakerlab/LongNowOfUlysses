@@ -36,8 +36,8 @@ Bloom Vision attempts to recreate not only a material example of the type of ste
 
 ## Dates and Deadlines
 
-February 19 (Reading Break): have acquired stereoscope components and sample photographs; begin assembling the Holmes stereoscope and scanning/ testing photographs for use.
-March 5: have completed assembly of the Holmes stereoscope and successfully tested images for stereoscopic use; have met with Jentery to learn 3D stitching software and begun to digitally model the recreated Holmes stereoscope.
+February 19 (Reading Break): have acquired stereoscope components and sample photographs; begin assembling the Holmes stereoscope and scanning/ testing photographs for use.  
+March 5: have completed assembly of the Holmes stereoscope and successfully tested images for stereoscopic use; have met with Jentery to learn 3D stitching software and begun to digitally model the recreated Holmes stereoscope.  
 March 26: both physical exhibit component (the actual stereoscope) and 3D digital model have been completed. Begin compiling documentation (including images, specifications, and instructions) for final report, and for online component of the exhibit.
 
 ## Support
