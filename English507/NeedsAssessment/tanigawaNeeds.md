@@ -1,6 +1,11 @@
 # Needs Assessment
 ## Working Title: Dislocating Ulysses
 ## Project Description: 
+
+### Group Project Description: 
+This project will support three geotemporal representation of Ulysses and its networks. From a central page, users will be able to navigate to 1) an annotated and animated world map which highlights the appearance of as many of Ulysses’ afterlives -- from the 1967 American film adaptation, to the translation of “Ithaca” into Farsi, to the Modernist Versions Project’s “Year of Ulysses” -- as possible since 1922, providing both a database of international “product” inspired by the novel and a visualization of the novel’s spatial and temporal reach; 2) [description of Networks for Ulysses] and 3) a display of historical maps of Dublin ranging from medieval Dublin to Dublin in the mid 20th century, including an animation of an early 19th century map that enlarges or shrinks the size of a given area on the map in relation to the amount of relative time the novel is situated in the particular area. 
+
+### Section 3 Description
 This portion of the project rethinks a linear progression of both space and time by situating Ulysses in a past and present Dublin. For the first segment, [historical maps of Dublin](http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=2283456) from the UVic Library's Special collections, ranging from the medieval period to 1948, are layered over one another to give a sense of how the path of the novel translates through time. The second component of this segment represents the time spent in each place relative to the amount of time the novel is situated in specific areas of Dublin. Using a scanned image of Special Collection's early 20th century Dublin map, the areas of Dublin will be animated using Photoshop and Flash to expand or contract in proportion to the narrative time spent in the area. To determine this proportional relation, the number of total words in the novel are divided by the number of words anchored in a specific area of Dublin.  
 
 ## List of Materials: 
