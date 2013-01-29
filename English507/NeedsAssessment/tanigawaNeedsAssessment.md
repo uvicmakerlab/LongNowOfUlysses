@@ -18,9 +18,11 @@ A chart of the journey in Ulysses, the total words count in the 1922 edition, a 
 * Benjamin, Walter. ["On the Concept of History."](http://www.marxists.org/reference/archive/benjamin/1940/history.htm) 
 * [The Spatial Humanities: GIS and the Future of Humanities Scholarship.](http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=2181054) Ed. David J. Bodenhamer, et al. Bloomington: Indiana UP. 2010.
 
-## Project Scope: Temporally, the project spans 1400 to 2013 and is spatially located in Dublin.
+## Project Scope: 
+Temporally, the project spans 1400 to 2013 and is spatially located in Dublin.
  
-## Project Deliverable: The project delivers a website page that shows a Hypercity visualization of how Dublin has changed over time and how the journey charted by Ulysses might translate onto temporally distant Dublin maps. Its second component delivers a flash animation hosted on the site that shows a temporal distortion of an early 20th century map of Dublin from Special Collections. 
+## Project Deliverable: 
+The project delivers a website page that shows a Hypercity visualization of how Dublin has changed over time and how the journey charted by Ulysses might translate onto temporally distant Dublin maps. Its second component delivers a flash animation hosted on the site that shows a temporal distortion of an early 20th century map of Dublin from Special Collections. 
   
 ## Project Risks and Constraints: 
 The primary constraint is time in terms of learning Hypercities, setting up an account, and learning how to convert Flash into HTML5 or learning a new program for animating a map.
