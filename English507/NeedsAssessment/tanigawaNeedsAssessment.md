@@ -42,7 +42,7 @@ This project benefits people interested in the novel's relationship to both spac
 
  
 ## Project Support: 
-I will probably want/need assistance using [Hypercities](http://hypercities.com/getting-involved/map-digitization-request-form/) or [Google Maps](https://developers.google.com/maps/)(looking through the sites has made me more uncertain about what each program is and is not capable of doing) and making Flash animations interactive. 
+I will probably want/need assistance using [Hypercities](http://hypercities.com/getting-involved/map-digitization-request-form/) or [Google Maps](https://developers.google.com/maps/)(looking through the sites has made me more uncertain about what each program is and is not capable of doing). The group may also need a few pages (a page for each mapping project) on the exhibit site if this is possible and ammenable to the online component of the exhibit.  
 
 ## Project Goals/Outcomes: 
 The goal of this project is to produce a temporally layered map of Dublin using Hypercities "time slices" and to produce a Flash animated map that shows the progressive shift in time-space relationships from chapter to chapter. 
