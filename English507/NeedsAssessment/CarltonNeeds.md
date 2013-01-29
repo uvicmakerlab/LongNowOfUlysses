@@ -41,7 +41,7 @@ More than anything, I will need help customizing a schema (RNG) for my purposes,
 
 ## Project Goals
 For my project to be successful, it needs to accomplish two simple things:
-1. Each extract should be available in XML format, expressed via CSS and linked together by a main-page (this main-page will contain basic information regarding the exhibition as a whole, and the prerogative behind its XML rendering).
+1. Each extract should be available in XML format, expressed via CSS and linked together by a main-page (this main-page will contain basic information regarding the exhibition as a whole, and the prerogative behind its XML rendering). 
 2. All texts should be easily readable by any lay person, and rich enough in mark-up to be useful for interested academics.  
 
 ## Personal Goals
