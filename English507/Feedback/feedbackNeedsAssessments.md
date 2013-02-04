@@ -280,7 +280,7 @@ Thanks for this needs assessment. It's full of great stuff and smart ideas. Give
 
 * I would avoid this by using KML, Google Maps, and Google Earth: "The primary constraint is time in terms of learning Hypercities, setting up an account, and learning how to convert Flash into HTML5 or learning a new program for animating a map."
 
-* Related to my previous point, you might also read my comments on [AmH's NA](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#AmH).
+* Related to my previous point, you might also read my comments on [AmH's NA](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#amh).
 
 * I have a data model that might be of use to your group. Let me know if you're interested. You could use it to geotag aspects of *Ulysses*. And you could also add historical maps to Google's base, with "zones" of interest and interpretation layered on top. No need for Flash or the like.  
 
