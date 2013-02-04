@@ -168,7 +168,7 @@ Looking forward to chatting more about the details. Thanks again!
 
 (in response to [this document](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/NeedsAssessment/belojevicNeeds.md)) 
 
-Thanks for your needs assessment! I enjoyed reading it. Since it's quite similar to JJ's, I'll refer you to [my feedback above](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#JJ). 
+Thanks for your needs assessment! I enjoyed reading it. Since it's quite similar to JJ's, I'll refer you to [my feedback above](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#jj). 
 
 I should also add that the articulation of your goals is quite persuasive, especially the first personal goal. Good stuff!  
 
@@ -206,7 +206,7 @@ I'm looking forward to working with you on this project. As your group proceeds 
 
 Thanks for this needs assessment. I'm glad to see you collaborating with other people in 507, especially since such collaborations have not exactly been common in the seminar thus far (at least).  
 
-Comparable to [my comments above](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#AC), I'm wondering how you might refine the inquiry a bit here. While I think this is a persuasive start, I don't want you to commit to too much, either. So, with thinking small in mind, below are my comments and questions: 
+Comparable to [my comments above](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#ac), I'm wondering how you might refine the inquiry a bit here. While I think this is a persuasive start, I don't want you to commit to too much, either. So, with thinking small in mind, below are my comments and questions: 
 
 * As you revise, you'll likely want to unpack the project description a bit, with a broad audience in mind. Feel free to justify and explain your project, where necessary. 
 
@@ -270,7 +270,7 @@ I've got a great data model for working with Google Maps and Earth, and I think 
 
 (in response to [this document](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/NeedsAssessment/tanigawaNeeds.md))
 
-Thanks for this needs assessment. It's full of great stuff and smart ideas. Given the overlaps, I recommend reading my comments on [AC's NA](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#AC), too. Other than the questions and concerns articulated there, here are few more things to consider: 
+Thanks for this needs assessment. It's full of great stuff and smart ideas. Given the overlaps, I recommend reading my comments on [AC's NA](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Feedback/feedbackNeedsAssessments.md#ac), too. Other than the questions and concerns articulated there, here are few more things to consider: 
 
 * This bit did not come up during our conversation the other day, but I'm intrigued and would love to hear more: "To determine this proportional relation, the number of total words in the novel are divided by the number of words anchored in a specific area of Dublin." Sounds like a great idea! 
 
