@@ -4,7 +4,7 @@
 
 * During the past week Jon and I reviewed multiple technical solutions for the Google Calendar API and Geocaching gaming components.
 
-![Sketching out possible solutions] NEED TO PLACE IMAGE ON GITHUB
+![Sketching out possible solutions] (https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Logs/HyperLitPlanningPhoto.JPG)
 
 * The Google Calendar API  solution would require us to learn basic HTML and CSS as well as Javascript and PHP, which we recognize is way too much to try and tackle in one term!
 * Outlining the required processes made us realize that we needed to redefine our scope to be more achievable within the term.
