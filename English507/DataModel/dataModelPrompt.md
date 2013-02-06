@@ -17,7 +17,7 @@ Your response should be saved as yourlastnameDataModel and submitted to the mast
 
 The response should include only your model and sample data. There's no need to write anything for now. However, you should use your 507 log to document decisions, surprises, and processes.  
 
-Given the variance across your projects, the model can assume a variety of forms and formats, including spreadsheets, XML, diagrams, and wireframes. Together with the model, please include same data. In many cases, the sample data and model may be in the same document or file (e.g., a spreadsheet). In other cases, the data model may be applied to your data (e.g., the application of a schema in XML).  
+Given the variance across your projects, the model can assume a variety of forms and formats, including spreadsheets, XML, diagrams, and wireframes. Together with the model, please include same data. In many cases, the sample data and model may be in the some document or file (e.g., a spreadsheet). In other cases, the data model may be applied to your data (e.g., the application of a schema in XML).  
 
 If you are not sure how to construct your model, identify your data, and/or submit either to GitHub, then please email me ASAP. Thanks! 
 
@@ -30,8 +30,8 @@ Below's a variety of resources that might be relevant to your projects.
 * ["How to make an exhibit from data fed directly from a Google Spreadsheet"](http://simile.mit.edu/wiki/Exhibit/How_to_make_an_exhibit_from_data_fed_directly_from_a_Google_Spreadsheet)
 * [Timeline.js Data Model](https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public&pli=1#) 
 * ["P5: Guidelines for Electronic Text Encoding and Interchange"](http://www.tei-c.org/release/doc/tei-p5-doc/en/html//REF-ELEMENTS.html) 
-* [Thingiverse: Digital Designs and Models for Physical Objects"](http://www.thingiverse.com/) 
-* ["A Beginner's Guide to Wireframing]"(http://webdesign.tutsplus.com/tutorials/workflow-tutorials/a-beginners-guide-to-wireframing/)
+* [Thingiverse: Digital Designs and Models for Physical Objects](http://www.thingiverse.com/) 
+* ["A Beginner's Guide to Wireframing"](http://webdesign.tutsplus.com/tutorials/workflow-tutorials/a-beginners-guide-to-wireframing/)
 
 ## QUESTIONS? 
 
