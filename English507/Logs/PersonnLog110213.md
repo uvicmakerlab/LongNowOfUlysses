@@ -11,4 +11,4 @@ Joyce, the author, is a fourth node/layer. But this also presents a question: wh
 
 With respect to the integration of time as another dimension into the visualization of the networks, Google Earth's *Timeslide* function seems to be of interest: it allows you to map the transformations (in one network? from one network to another?) over time, both forwards and backwards. Every placemark will therefore have a [Time Stamp](https://developers.google.com/kml/documentation/kmlreference#timestamp) in the advanced options section of my my data set in order to keep open the possibility of animating the "growth" of the network (e.g. "glacier"-like with image overlays?) What I am unsure of is whether this line of thinking about how to animate time answers to Walter Benjamin's critique of "homogeneous" temporal representations.  
 
-Problem with the model as of Feb. 11, 2013: the images do not load from the specified urls.  
+Problem with the model as of Feb. 11, 2013: the images do not load from the specified urls in Google Maps (in Google Earth, it works fine, but here image size and resolution are still an issue).  
