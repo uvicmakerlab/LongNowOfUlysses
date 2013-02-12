@@ -8,6 +8,8 @@ I deleted a template and could not get it back when I was playing around with my
 
 [My new data model.](https://docs.google.com/spreadsheet/ccc?key=0Ap8FIppSqxLDdFJZakxSM3ROZzMxU25FNjZuelktU1E&usp=sharing)
 
+Will continue sourcing material for map. I happened upon a [SUNY Buffalo exhibit](http://library.buffalo.edu/pl/exhibits/joycebloomsday/caseXII/index.html) that chronicles some of the translations of *Ulysses* -- it seems a good place to start (will give me the chance to accumulate some easily accessible data before moving on to film adaptations and theatrical productions). 
+
 
 ##9 February
 
