@@ -1,6 +1,6 @@
 #Hansen (s)Log 
 
-##(I don't use a client, so this could get weird, what with all the cutting and pasting...)
+(I don't use a client, so this could get weird, what with all the cutting and pasting...)
 
 ##11 February
 
