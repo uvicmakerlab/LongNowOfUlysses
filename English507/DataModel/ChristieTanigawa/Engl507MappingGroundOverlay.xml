@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder>
+    <name>Ground Overlays</name>
+    <description>Early 1900s map of Dublin</description>
+    <GroundOverlay>
+        <name>Large-scale overlay on terrain 1900s</name>
+        <description>Overlay shows a map of Dublin in the early 1900s</description>
+        <Icon>
+            <href>link to git repository with image</href>
+        </Icon>
+        <LatLonBox>
+            <north>53.290925</north>
+            <south>53.010925</south>
+            <east>-6.128</east>
+            <west>-6.112</west>
+            <rotation>-0.1556640799496235</rotation> <!-- I'm not sure what we'll need for "rotation" -->
+        </LatLonBox>
+    </GroundOverlay>
+</Folder>
+</kml>

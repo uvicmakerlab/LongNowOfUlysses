@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Placemark>
+        <name>Martello Tower Telemachus</name>
+        <styleURL>#ObjectFromExhibit1</styleURL>
+        <description>Woman brings a jug of milk for Stephen and Buck Mulligan.</description>
+        <Point>
+            <coordinates>-53.290925,-6.128</coordinates>
+        </Point>
+    </Placemark>
+</kml>
