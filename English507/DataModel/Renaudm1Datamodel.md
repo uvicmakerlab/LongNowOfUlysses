@@ -1,0 +1,1 @@
+My initial data model is a spreadsheet (see uploaded xlsx file) collecting soundscapes or individual sounds referenced in the excerpts. I'm still experimenting with modelling other processes to collect/generate sound material.
