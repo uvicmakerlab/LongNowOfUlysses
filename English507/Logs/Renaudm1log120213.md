@@ -1,6 +1,6 @@
 # Mitch Renaud Log 12-02-13
 
-## Possible sound from sources outsides of the sounds mentioned in the excerpts
+## Other Possible Sounds
 
 I've been thinking about musical works written, revised, or premiered in 1904 or 1922 that are staples of modernist composition of the time. I've been thinking about this sound source as playing into a long now of modernism in general. From these works I could look to later music that has been influenced by Joyce from composers such as Boulez, Berio, or Cage.
 
