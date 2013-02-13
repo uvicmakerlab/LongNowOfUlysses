@@ -2,6 +2,13 @@
 
 (I don't use a client, so this could get weird, what with all the cutting and pasting...)
 
+##13 February
+
+After discussing projects in yesterday's seminar, I have decided to refine a narrative for my map, rather than just plunk points down. Based on the research I have done up to now, it seems that the obscenity trial and fear of censorship dictated the way in which *Ulysses* moved across the globe, and also, I am guessing, how it was adapted for screen and stage. Therefore, I am going to create a series of layers that differentiate partial translations or publications from full translations and publications in an attempt to track the parts and the whole of *Ulysses*. I will also create separate layers for stage/film adaptations, and other media adaptations -- such as [ULYSSES SEEN](http://ulyssesseen.com/). 
+
+Feeling more focussed already. 
+
+
 ##11 February
 
 I deleted a template and could not get it back when I was playing around with my data model, so I have copied and pasted info into a new spreadsheet. I have learned my lesson: just don't delete things. 
