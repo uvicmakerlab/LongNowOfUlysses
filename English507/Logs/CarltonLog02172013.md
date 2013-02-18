@@ -22,4 +22,6 @@ space!). There are a few extraneous bits in the CSS, but they aren't harming any
 
 in for now. Tonight, I'll upload all the stuff I've done so far.
 
+*UPDATE* - All of my files (java program, xml and css) can be found under Resurgam/Log/long now encoding
+
 
