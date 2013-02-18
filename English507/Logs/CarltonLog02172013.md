@@ -14,11 +14,12 @@ seems to work really well, especially at handling white space. I'll upload the c
 
 "preserve" tag isn't working as it should, so I'll have to think of something else.
 
-4. I marked up the "Penelope" extract, and expressed it using a modified version of the CSS and XML from my 
+5. I marked up the "Penelope" extract, and expressed it using a modified version of the CSS and XML from my 
 
 Aldhelm project. Pretty much everything is included, except for proper text justification (dang white 
 
 space!). There are a few extraneous bits in the CSS, but they aren't harming anything, so I'll leave them 
 
 in for now. Tonight, I'll upload all the stuff I've done so far.
+
 
