@@ -100,7 +100,7 @@ No meeting
 
 ## February 26th (Meeting 7) – Computation and the Literary Exhibit 
 
-Reading: Ramsay, [“Algorithmic Criticism”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-7); Manovich, [“Cultural Analytics”](http://www.manovich.net/cultural_analytics.pdf); Samuels and McGann, [“Deformance and Interpretation”](http://muse.jhu.edu/journals/new_literary_history/v030/30.1mcgann.html); and Moretti, [“Conjectures on World Literature”](http://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature) 
+Reading: Ramsay, [“Algorithmic Criticism”](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-6-7); Manovich, [“Cultural Analytics”](http://www.manovich.net/cultural_analytics.pdf); Samuels and McGann, [“Deformance and Interpretation”](http://muse.jhu.edu/journals/new_literary_history/v030/30.1mcgann.html); Moretti, [“Conjectures on World Literature”](http://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature); Siemens and Sayers, "Toward Problem-Based Modelling in the Digital Humanities"
 
 Log: None 
 
