@@ -15,7 +15,7 @@ I wasn't expecting to enjoy an article titled "Algorithmic Criticism," but Ramsa
 
 "The critic who endeavors to put forth a 'reading,' puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced."
 
-As in the Woolf table, there's nothing really new here, but just like the Woolf table, presentation here (in this case, phrasing) is strikingly apt. 
+As in the Woolf table, there's nothing really new here, but just like the Woolf table, presentation (in this case, phrasing) is strikingly apt. 
 
 Re: Samuels and McGann: ["Deformance and Interpretation"](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/new_literary_history/v030/30.1mcgann.html)
   
