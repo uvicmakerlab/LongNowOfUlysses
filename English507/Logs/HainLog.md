@@ -2,6 +2,16 @@
 
 25 February, 2013  
 
+Re: Moretti's ["Conjectures on World Literature"](http://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature)  
+
+Between Moretti, Ramsay, Manovitch, and to some extent Samuels/ McGann, this is the first I've ever really read much about "distance reading" and I wonder how much of its emergence as a critical practice has to do with technological innovations. 
+This is especially interesting to think about with respect to Moretti (and also Samuels/ McGann), who doesn't really talk explicitly about computers in his critical practices, but who -- like Manovitch -- is very much interested in the kinds of huge sample sizes that only computers can really deal with.
+So how new is distance reading, and how closely does its emergence correspond with developments in computation and the web? Moretti shows parenthetically how close reading has dominated "from the new criticism to deconstruction," and explains its domination in ideological terms: "you invest so much in individual texts *only* if you think that very few of them matter" (57). But how much does the emergence of distance reading owe to our actually overcoming this ideology, and how much of it has simply been enabled by the computational means by which to perform it?
+As is probably clear by my entries on [Bloom Vision](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/NeedsAssessment/HainNeeds.md), I'm interested in the relationships between technological innovations and the emerging paradigms, art forms, and disciplines they enable 
+(traditionally, I've focused on cinema, photography, increasingly architecture; in the context of 507 and my work at the Maker Lab, I'm trying to adapt this approach to digital technologies). So, what about distance reading? 
+It's not something I practice, or am even particularly familiar with, but these articles -- especially those, like Moretti's and Samuels/ McGann, that don't explicitly talk about computers -- have led me to start thinking about the technologies that have enabled the emergence of what seems to me a fairly recent development in critical practice. 
+All the more so, because the computer is conspicuously absent here.  
+
 Re: Ramsay and ["Algorithmic Criticism"](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405148641/9781405148641.xml&doc.view=print&chunk.id=ss1-6-7&toc.depth=1&toc.id=0)  
 
 I'm moderately blown away by ![table 26.2](https://www.dropbox.com/s/xy77o9n5czztg1v/Table%2026.2.png); Ramsay's right to point out that this kind of information does little more than confirm what a reader familiar with *The Waves* would already know, but I'm blown away by how accurate a confirmation it offers.
