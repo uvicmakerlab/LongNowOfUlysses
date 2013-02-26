@@ -13,18 +13,8 @@ All the more so, because the computer is conspicuously absent here.
 
 Re: Ramsay and ["Algorithmic Criticism"](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405148641/9781405148641.xml&doc.view=print&chunk.id=ss1-6-7&toc.depth=1&toc.id=0)  
 
-I'm moderately blown away by ![table 26.2](https://www.dropbox.com/s/xy77o9n5czztg1v/Table%2026.2.png); Ramsay's right to point out that this kind of information does little more than confirm what a reader familiar with *The Waves* would already know, but I'm blown away by how accurate a confirmation it offers.
-I wasn't expecting to enjoy an article titled "Algorithmic Criticism," but Ramsay is a *really* good writer. Some highlights for me:  
+I'm blown away by ![table 26.2](https://www.dropbox.com/s/xy77o9n5czztg1v/Table%2026.2.png); Ramsay's right to point out that this kind of information does little more than confirm what a reader familiar with *The Waves* would already know, but I'm blown away by how accurate a confirmation it offers.
 
-"In some sense, humanistic discourse seems to lack methodology; it cannot describe the ground rules of engagement, the precise means of verification, or even the parameters of its subject matter."  
-
-"Literary critical interpretation is not just a qualitative matter, but an insistently subjective manner of engagement."  
-
-"We would do better to recognize that a scientific literary criticism would cease to be criticism."  
-
-"The critic who endeavors to put forth a 'reading,' puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced."
-
-As in the Woolf table, there's nothing really new here, but just like the Woolf table, presentation (in this case, phrasing) is strikingly apt. 
 
 Re: Samuels and McGann: ["Deformance and Interpretation"](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/new_literary_history/v030/30.1mcgann.html)
   
