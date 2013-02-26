@@ -6,7 +6,7 @@ Re: Manovitch and [Cultural Analytics](http://www.manovich.net/cultural_analytic
 
 I'm not sure I understand the obsession with size and scale (big data, big screens) nor the apparent imperative on the visual here. Cultures are expressed in a variety of forms; is Manovitch's insistence on strictly visual expressions of culture hegemonic in some way?   
 
-What is potentially lost in "thinking of culture as data... that can be mined and visualized"? The expression "mining" for me suggests a kind of appropriation, and begs the question of purpose or intent: who will use this cultural "data" and to what kinds of use? This gets a little scary when he talks about "possible commercial applications": "Cultural Analytics should be of interest to providers of media metrics, trend forecasters, social media companies and, in principle, *all big media companies and publishers*."     
+What is potentially lost in "thinking of culture as data... that can be mined and visualized"? The expression "mining" for me suggests a kind of appropriation, and begs the question of purpose or intent: who will use this cultural "data" and to what kinds of use? This gets a little scary in the section on "possible commercial applications": "Cultural Analytics should be of interest to providers of media metrics, trend forecasters, social media companies and, in principle, *all big media companies and publishers*."     
 
 I do, however, like the gesture of situating the project of Cultural Analytics into a history of technologies not only influencing cultures, but creating new disciplines and modes of cultural analysis (from slides to art history; from projectors to film studies). 
 
