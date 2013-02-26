@@ -2,7 +2,7 @@
 
 25 February, 2013  
 
-## Re: Manovitch and [Cultural Analytics](http://www.manovich.net/cultural_analytics.pdf)  
+Re: Manovitch and [Cultural Analytics](http://www.manovich.net/cultural_analytics.pdf)  
 
 I'm not sure I understand the obsession with size and scale (big data, big screens) nor the apparent imperative on the visual here. Cultures are expressed in a variety of forms; is Manovitch's insistence on strictly visual expressions of culture hegemonic in some way?   
 
