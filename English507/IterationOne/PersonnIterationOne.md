@@ -9,7 +9,7 @@ Three surprising things I realized along the way:
 
 ##Questions for the group
 
-* Do you think that the network needs to be conveyed visually, e.g. through a graphic overlay that connects the nodes? If so, how would you recommend doing this?
+* Do you think that the network needs to be conveyed visually, e.g. through a graphic overlay that connects the nodes? If so, how would you recommend doing this? And how do I avoid making the representation seem to be disjointed, with the different contributors being placed so far away from each other—in particular in the aerial view of Europe that the map now starts with?
 * Do you have an idea how I can solve the problem that the data I assembled seems to fit my three-network approach poorly? Would it be too much, for example, to include a fourth layer with the "Dubliners"? And given the fact that the infrastructure of Google's Spreadsheet Mapper does not allow me to assign the same placemark to two different networks/layers, do you have an idea how to represent, e.g., Joyce's "constant contributors"?  
 * What do you think would be the best way of displaying/mounting these maps in the exhibit space? (I'm thinking of print-outs of the networks, but this seems to me quite dissatisfying, because I think the "cool" thing about this project is its interactiveness, i.e. the fact that a viewer can *explore* the map and the locations/people in digital depth, rather than just looking at a flat paper.)  
 
