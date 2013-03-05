@@ -2,6 +2,32 @@
 
 (I don't use a client, so this could get weird, what with all the cutting and pasting...)
 
+##5 March
+
+###Feedback on First Draft
+
+1. What do you think of the project in Google Earth v. Google Maps?
+
+LD: The flat map (GoogleMaps) is much easier to look at--it's clean. I find the topographical map in GoogleEarth to be distracting and I assume unnecessary information for your project. There is more contrast in maps. 
+
+The flattened map, from my perspective gives a much better sense of the way that these iterations of the texts are clustered together/concentrated in one area. 
+
+
+2. Should I attempt to make an animation, or should users interact with map by navigating through the bubbles?
+
+LD: Can you do both? It would be nice to have an animation that visualizes the way Ulysses has migrated around the globe open up as soon as people visit your website--it could also include a brief instructional portion that will show readers how to navigate the map and make them aware of the kind of information they can gather from it--without being overtly instructional. 
+
+
+3. How much information should I include in each bubble? Keep it short, or give a comprehensive context (if possible)?
+
+LD: Keep the preview short, but it would be nice to a drop-down box/link that offers more information. 
+
+
+###Reflection
+
+I will definitely be creating a short video/animation which communicates a narrative stream (using slides, images, etc.). Right now, my project looks like a bunch of bubbles on a map -- it needs context and interpretation. 
+
+
 ##4 March
 
 Working on some final touches for my first iteration. Interim report reminded me that I have not been uploading my log updates into GitHub. I keep them saved on my desktop in an .md file, but I have been admittedly remiss in updating my GitHub log. That all changes now. 
