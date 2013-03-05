@@ -2,6 +2,37 @@
 
 (I don't use a client, so this could get weird, what with all the cutting and pasting...)
 
+##4 March
+
+Working on some final touches for my first iteration. Interim report reminded me that I have not been uploading my log updates into GitHub. I keep them saved on my desktop in an .md file, but I have been admittedly remiss in updating my GitHub log. That all changes now. 
+
+Also really looking foward to seeing what everyone has on the go for tomorrow!
+
+
+##3 March
+
+I have a [rough bubble template](https://docs.google.com/file/d/0B58FIppSqxLDcUNwQkd4QVBReGs/edit?usp=sharing) down now, and I am becoming more happy with it as I play around. The next step in my workflow is to plug in the data I have been collecting. After we go over our first drafts on Tuesday, I will begin to sort out my info into colour-coded bubble, with a view to having them move in a sort of sequence. 
+
+One issue I am having -- and which TP brought up last class, I think -- is putting images into my bubbles. Text is no problem so far, but I don't know where to host my images so that they can be pulled into Google Maps. I have uploaded a couple onto my Google Drive and made them public, but Google Earth doesn't seem to understand the link... I will chat with TP and see what he has found re: images. 
+
+
+##1 March
+
+Success! I have figured out -- via diddling around (how I learn) -- both where to find a [decent bubble template](https://docs.google.com/file/d/0B58FIppSqxLDRVotN1MyYWRtRHM/edit?usp=sharing), and also how to change around [the code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing). This is big news for me. 
+
+
+##27 February
+
+Google Earth continues to challenge me with bubble format, so I have been working for now in [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing). Aesthetically, this does not please me, but I am using it to guage my info as I go. Over the next couple of days I will attempt to look into the bubble code for Google Maps. 
+
+
+##20 February
+
+I am continuing to research a bit -- the SUNY website continues to be ridiculously useful. Also, I am struggling a bit to get beyond the basic format for the bubbles. Google seems to [separate Google Earth from Spreadsheet Mapper 3.0](https://docs.google.com/file/d/0B58FIppSqxLDb1pBMndYWE5QSFk/edit?usp=sharing), which means that I see things I like in Google Earth, but can only make them happen manually at this point (no thanks). 
+
+I will continue to look around, as that is how I work best. 
+
+
 ##13 February
 
 After discussing projects in yesterday's seminar, I have decided to refine a narrative for my map, rather than just plunk points down. Based on the research I have done up to now, it seems that the obscenity trial and fear of censorship dictated the way in which *Ulysses* moved across the globe, and also, I am guessing, how it was adapted for screen and stage. Therefore, I am going to create a series of layers that differentiate partial translations or publications from full translations and publications in an attempt to track the parts and the whole of *Ulysses*. I will also create separate layers for stage/film adaptations, and other media adaptations -- such as [ULYSSES SEEN](http://ulyssesseen.com/). 
