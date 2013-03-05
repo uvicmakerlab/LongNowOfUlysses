@@ -9,7 +9,7 @@ Lastly, I'm in the process of figuring out what kinds of photographs to use in t
 So at this point my biggest questions/ concerns are:  
 1. What should I do about content? What kinds of photographs would be most appropriate for the exhibit and most interesting for attendees to see in 3D? How big of an issue is anachronism here? Does it take away from the experiential aspect of the project?  
 2. Where should we put the finished stereoscope in the physical space of the exhibit?  
-3. Any ideas for the video? How can I make it different from [this](http://www.youtube.com/watch?v=LQZlnFjBkws&feature=share&list=UUOks0hDQ02OK2yDKj2QOWTw)?   
+3. Any ideas for the video? How can I make it different from [this](http://www.youtube.com/watch?v=LQZlnFjBkws&feature=share&list=UUOks0hDQ02OK2yDKj2QOWTw)? (or should I? I actually quite like this video...)
 
 This last one is sort of geared specifically for Jentery, but:  
 4. At what point should I stain the wood: before or after modeling the components? Will it make a difference when modeling if the wood is stained or not? Do darker or lighter tones tend to photograph and render in 3D-modeling software better?  
