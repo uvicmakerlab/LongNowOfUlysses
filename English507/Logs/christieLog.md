@@ -5,11 +5,10 @@
 * Stitch scanned images of historical map using Photoshop
 
 * Create plane in Mudbox
-* Overlap stitched map using Projection tool
-![](https://docs.google.com/file/d/0BwJCaLpJjnXccmpRRTdsdHlOZFk/edit)
+* Overlap stitched map using Projection tool [](https://docs.google.com/file/d/0BwJCaLpJjnXccmpRRTdsdHlOZFk/edit)
 * Use sculpt tool to deform plane (elevations represent larger temporal)
-![](https://docs.google.com/file/d/0BwJCaLpJjnXcQTV3cVJlUHdKYTg/edit)
-![](https://docs.google.com/file/d/0BwJCaLpJjnXcSmVVMmU0cGFIaVU/edit)
+[](https://docs.google.com/file/d/0BwJCaLpJjnXcQTV3cVJlUHdKYTg/edit)
+[](https://docs.google.com/file/d/0BwJCaLpJjnXcSmVVMmU0cGFIaVU/edit)
 * Export movie of map using Render>Create Turntable Movie
 * Export layer as .stl file for printing
 
