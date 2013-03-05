@@ -13,6 +13,8 @@ Also really looking foward to seeing what everyone has on the go for tomorrow!
 
 I have a [rough bubble template](https://docs.google.com/file/d/0B58FIppSqxLDcUNwQkd4QVBReGs/edit?usp=sharing) down now, and I am becoming more happy with it as I play around. The next step in my workflow is to plug in the data I have been collecting. After we go over our first drafts on Tuesday, I will begin to sort out my info into colour-coded bubble, with a view to having them move in a sort of sequence. 
 
+###Issues
+
 One issue I am having -- and which TP brought up last class, I think -- is putting images into my bubbles. Text is no problem so far, but I don't know where to host my images so that they can be pulled into Google Maps. I have uploaded a couple onto my Google Drive and made them public, but Google Earth doesn't seem to understand the link... I will chat with TP and see what he has found re: images. 
 
 
