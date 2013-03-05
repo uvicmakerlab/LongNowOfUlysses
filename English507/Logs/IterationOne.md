@@ -4,9 +4,7 @@
 
  ![Sign Up Page](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SignUp.png)
 
- ![Home News Feed View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/NewsFeed.png)
-
-
+ 
  ![Google Calendar Permission Alert](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/GoogleCal.png)
 
 
@@ -19,6 +17,7 @@
 
  ![Visualization of a Single Day](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/CalendarVisualization%20.png)
 
+![Home News Feed View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/NewsFeed.png)
 
 
 
