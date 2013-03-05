@@ -1,7 +1,7 @@
 # Bloom Vision: Iteration One
 
 We recently (as in, this past Friday) received the [stereoscope kit](http://www.3dstereo.com/viewmaster/vn-holm.html) in the mail. It's being kept in the Maker Lab for now, where I'll start to photograph and 3D-model it, hopefully this week or early next week. I've also decided to make a short video documenting the entire processes of making the physical (wooden) stereoscope, and its digital 3D-model -- from the box to the exhibit. I've had to postpone assembly for now, because we've decided to model the components individually for greater detail and facility in 3D-printing. 
-[Here](https://www.dropbox.com/sh/rlm0z3myx21zafv/M4bqzXzqvq?m) is a folder of photographs of the kit's contents; alternately, you can find them [here](http://www.flickr.com/photos/93837414@N08/).
+[Here](http://www.flickr.com/photos/93837414@N08/) are some photographs of the kit's components.
 I have also picked out a wood stain:  
 ![wood stain](https://photos-1.dropbox.com/t/0/AADK0mwGDLwOSVCPkiGpgxm-D5eCpBkIauXNWkR9RR9wlQ/12/136690042/jpeg/32x32/7/_/1/2/WoodStain.jpg/7ghTELjAyD6IokmblZCdVUj3P91L1fsJQaRg_lygwkM?size=800x600)  
 Kind of a nice mid-tone that should accent -- without completely hiding -- the natural grain of the wood.  
