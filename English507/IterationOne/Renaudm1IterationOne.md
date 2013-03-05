@@ -25,7 +25,7 @@ PulseCubes was part of The Dissolving Cube at the Portman Gallery, London in Nov
 
 ## Three Specific Questions for the Group:
 	
-	1 - How would you prefer to experience an exhibit, with independently with headphones 
+	1 - How would you prefer to experience an exhibit, independently with headphones 
 		or speakers installed in the space? Why?
 	2 - If you are in an exhibit that's reacting to you in some manner, how visible would 	
 		you like its processes to be? Do you want to see the man behind the curtain?
