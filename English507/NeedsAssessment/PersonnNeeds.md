@@ -14,10 +14,10 @@ The initial idea for this project was to articulate the voices of agents/actants
 This difficulty of unearthing original responses indicates how Networked *Ulysses* goes against the grain of Joyce/*Ulysses* scholarship, which, by and large, has been more interested in the author than in his respondents. The field could therefore benefit from such a reversal of the angle, as it refuses to treat the novel as a monolith and provides an archeology of its production instead. More generally, this deconstructive approach has consequences for an understanding of the function of the author, in particular in the case of encyclopedic novels such as *Ulysses*. 
 
 #Timeline
-April 16th: Deliver a tested, working site/integrate the map into a website for purposes of presentation 
-March 25th: Finish a "mask" for the working map
-March 12: Finish all five networks/first test of map
-March 4th: Finish data for three networks
+* April 16th: Deliver a tested, working site/integrate the map into a website for purposes of presentation 
+* March 25th: Finish a "mask" for the working map
+* March 12: Finish all five networks/first test of map
+*March 4th: Finish data for three networks
  
 In order to integrate the working map into a website, somewhat like [Mapping John Glassco's Memoirs of Montparnasse](http://aelang.net/projects/glassco.htm), it would be helpful to have a basic understanding of how to make Google Maps a part of other websites, and of gaining an understanding of how to make the map and the website "communicate" with one another (e.g. by integrating the option of "filtering" layers into the site's design).
 
