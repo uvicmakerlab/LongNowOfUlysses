@@ -35,7 +35,7 @@ The Google Chrome extension [Flash Video Downloader](https://chrome.google.com/w
 
 Now, the loophole here is simple. By appropriating these sample audio files, I am staying within reasonable fair-use of audio, as is Amazon. Technically, our purposes are just further promotions and previews.
 
-## Storing The Audio ##  
+## Storing The Audio 
 
 1. **Formatting**: Ideally, all the audio files would be [.wav](http://en.wikipedia.org/wiki/WAV) or [.flac](http://en.wikipedia.org/wiki/FLAC) files, so that they can retain lossless quality, being uncompressed. Availability and size restraints, as well as general interoperability dictate that the files must be mp3, however. Most of the files (whether they were purchased, downloaded, ripped, or linked) are standard as mp3's. Those few and far between that have been .flac, however, have been run through a simple [audio converter](http://www.online-convert.com/).
 
