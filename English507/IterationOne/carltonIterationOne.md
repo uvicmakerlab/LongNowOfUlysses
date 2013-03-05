@@ -9,7 +9,7 @@ or live online here: http://web.uvic.ca/~dcarlton/extracts/complete/
 Currently, there are 9 out of 18 extract fully marked up (except for line justification). The other 9 are web-readable, but are not yet formatted to visually reflect line-breaks, italics, etc.
 
 ##Workflow
-
+ 
 *While there are a few screenshots of the very early stages of my project in my repository, I feel that a more detailed textual description of my process will tell you more than pictures ever could.*
 
 After transcribing all 18 texts by hand, and producing my schema, I was ready to start the actual project.
