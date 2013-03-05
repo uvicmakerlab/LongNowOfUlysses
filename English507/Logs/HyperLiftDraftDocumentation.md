@@ -1,5 +1,5 @@
 ##First Mockup: Very Rough Home Page
-1. ![Early Home Page](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/Draft%20Documentation/TitleScreen.png)
+ ![Early Home Page](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/Draft%20Documentation/TitleScreen.png)
 
 ##First Draft of Calendar Page
 2. ![Early Calendar](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/Draft%20Documentation/MockUpCalendar.png)
