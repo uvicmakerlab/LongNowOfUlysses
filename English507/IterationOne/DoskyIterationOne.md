@@ -18,26 +18,26 @@ My workflow for creating the timeline can be separated into four general phases 
 
 Below is a serires of screen grabs that track the evolution of my prompt. The first image presents the first draft of my prompt. The second image depicts a version of the prompt in the process of being edited. The third and fourth images are of the final prompt. The three images together display the evolution on the prompt and also visualize my workflow during the writing phase.
 
-![http://farm9.staticflickr.com/8087/8530933954_bf4a8e7a50_b.jpg]
+![First draft](http://farm9.staticflickr.com/8087/8530933954_bf4a8e7a50_b.jpg)
 
-![http://farm9.staticflickr.com/8530/8529820613_7622d1fd09_b.jpg]
+![Edits](http://farm9.staticflickr.com/8530/8529820613_7622d1fd09_b.jpg)
 
-![http://farm9.staticflickr.com/8505/8530933888_8840207cb1_z.jpg]
+![Second draft](http://farm9.staticflickr.com/8505/8530933888_8840207cb1_z.jpg)
 
-![http://farm9.staticflickr.com/8365/8530933860_aa158dc030_b.jpg]
+![Final draft](http://farm9.staticflickr.com/8365/8530933860_aa158dc030_b.jpg)
 
 ## Data Gathering Phase: Working With a Data Model
 
 *  Create a new sheet in Google Drive. 
 *  Insert a form. Fill in the necessary information to create the form. I decided to produce questions that would elicit information in a sequence that would correspond to the fields that appear in the data model that Timeline.js provides. This ensured that rendering the data I collected would be as simple as copying the information contained in my sheet and pasting it in the ready-made data model. The images below display the form I created along with its corresponding spreadsheet.
 
-![http://farm9.staticflickr.com/8089/8530933874_15638aa124_b.jpg]
+![Form](http://farm9.staticflickr.com/8089/8530933874_15638aa124_b.jpg)
 
-![http://farm9.staticflickr.com/8243/8529820555_d54e1c5b0a_b.jpg]
+![Sheet](http://farm9.staticflickr.com/8243/8529820555_d54e1c5b0a_b.jpg)
 
 *  After you have created a polished form, you need to solicit participants. In my attempts to garner participants I exploited social media outlets, relevant listservs, and forged relationships with professors from around the world. In short: disseminate your prompt in as many ways as you can--you can never have too many participants. Send them the form.
 
-![http://farm9.staticflickr.com/8241/8529848341_011b0765d7_b.jpg]
+![Joyce Lists](http://farm9.staticflickr.com/8241/8529848341_011b0765d7_b.jpg)
 
 ## Data Editing Phase:
 
@@ -48,7 +48,7 @@ Below is a serires of screen grabs that track the evolution of my prompt. The fi
 
 The final product should look something like this:
 
-![http://farm9.staticflickr.com/8099/8530933826_e4be4406c3_b.jpg]
+![Data model](http://farm9.staticflickr.com/8099/8530933826_e4be4406c3_b.jpg)
 
 ## Publishing Phase: Making the Timeline Available to the Public
 
@@ -56,13 +56,13 @@ The final product should look something like this:
 
 Data Model for Timeline.js:
 
-![hhttp://farm9.staticflickr.com/8370/8530933924_f97826c844_b.jpg]
+![Timeline.js template](hhttp://farm9.staticflickr.com/8370/8530933924_f97826c844_b.jpg)
  
 *  Once everything appears to be in order, you may publish the timeline to the web. Select "File," then "Publish to the web..." Next, copy the link that appears in the section "Get a link to the published data" and paste it into the "TimelineJS Embed Generator" that appears on the homepage of of the [Timeline.js](http://timeline.verite.co/) website. An embed code is also provided, which allows you to publish your timeline wherever you want it to appear.
 
 Embed Generator:
 
-![http://farm9.staticflickr.com/8096/8529860133_4bbe52d652_b.jpg]
+![Embed generator](http://farm9.staticflickr.com/8096/8529860133_4bbe52d652_c.jpg)
 
 ## Project Draft:
 
