@@ -25,7 +25,7 @@ Success! I have figured out -- via diddling around (how I learn) -- both where t
 
 ##27 February
 
-Google Earth continues to challenge me with bubble format, so I have been working for now in [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing). Aesthetically, this does not please me, but I am using it to guage my info as I go. Over the next couple of days I will attempt to look into the bubble code for Google Maps. 
+Google Earth continues to challenge me with bubble format, so I have been working for now in [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing). Aesthetically, this does not please me, but I am using it to gauge my info as I go. Over the next couple of days I will attempt to look into the bubble code for Google Maps. 
 
 
 ##20 February
