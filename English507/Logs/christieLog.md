@@ -2,17 +2,17 @@
 ##Generated draft of Tactile Map using Mudbox
 #Worklfow
 
-*Stitch scanned images of historical map using Photoshop
+* Stitch scanned images of historical map using Photoshop
 
-*Create plane in Mudbox
-*Overlap stitched map using Projection tool
+* Create plane in Mudbox
+* Overlap stitched map using Projection tool
 ![](https://docs.google.com/file/d/0BwJCaLpJjnXccmpRRTdsdHlOZFk/edit)
-*Use sculpt tool to deform plane (elevations represent larger temporal)
+* Use sculpt tool to deform plane (elevations represent larger temporal)
 ![](https://docs.google.com/file/d/0BwJCaLpJjnXcQTV3cVJlUHdKYTg/edit)
 ![](https://docs.google.com/file/d/0BwJCaLpJjnXcSmVVMmU0cGFIaVU/edit)
-*Export movie of map using Render>Create Turntable Movie
+* Export movie of map using Render>Create Turntable Movie
 ![](https://docs.google.com/file/d/0BwJCaLpJjnXcLWJXaEJ6cHhUcDQ/edit )
-*Export layer as .stl file for printing
+* Export layer as .stl file for printing
 * see christieTactileMapWorlfow.md and associated images
 * see video of prototype [here] (https://docs.google.com/file/d/0BwJCaLpJjnXcLWJXaEJ6cHhUcDQ/edit )
 
