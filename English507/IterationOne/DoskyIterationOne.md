@@ -18,9 +18,9 @@ My workflow for creating the timeline can be separated into four general phases 
 
 Below is a serires of screen grabs that track the evolution of my prompt. The first image presents the first draft of my prompt. The second image depicts a version of the prompt in the process of being edited. The third and fourth images are of the final prompt. The three images together display the evolution on the prompt and also visualize my workflow during the writing phase.
 
-!(http://farm9.staticflickr.com/8087/8530933954_bf4a8e7a50_b.jpg)
+![http://farm9.staticflickr.com/8087/8530933954_bf4a8e7a50_b.jpg]
 
-! [http://farm9.staticflickr.com/8530/8529820613_7622d1fd09_b.jpg]
+![http://farm9.staticflickr.com/8530/8529820613_7622d1fd09_b.jpg]
 
 ![http://farm9.staticflickr.com/8505/8530933888_8840207cb1_z.jpg]
 
