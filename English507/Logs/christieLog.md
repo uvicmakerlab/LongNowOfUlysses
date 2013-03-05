@@ -11,9 +11,8 @@
 ![](https://docs.google.com/file/d/0BwJCaLpJjnXcQTV3cVJlUHdKYTg/edit)
 ![](https://docs.google.com/file/d/0BwJCaLpJjnXcSmVVMmU0cGFIaVU/edit)
 * Export movie of map using Render>Create Turntable Movie
-![](https://docs.google.com/file/d/0BwJCaLpJjnXcLWJXaEJ6cHhUcDQ/edit )
 * Export layer as .stl file for printing
-* see christieTactileMapWorlfow.md and associated images
+
 * see video of prototype [here] (https://docs.google.com/file/d/0BwJCaLpJjnXcLWJXaEJ6cHhUcDQ/edit )
 
 ##Revised documentation
