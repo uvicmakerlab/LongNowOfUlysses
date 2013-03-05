@@ -29,8 +29,8 @@ Mudbox
 * a list of the exhibit objects and a list of where the text locates these objects in Dublin (where applicable)
 
 ##Bibliography
-*[Lovecraft in Providence](http://lovecraft.scholarslab.org/neatline-exhibits/show/lovecraft-in-providence/fullscreen)
-*[The Knotted Line](http://knottedline.com/) (for creating navigable, interactive environments), Alain Liu, “Transcendental Data”
+* [Lovecraft in Providence](http://lovecraft.scholarslab.org/neatline-exhibits/show/lovecraft-in-providence/fullscreen)
+* [The Knotted Line](http://knottedline.com/) (for creating navigable, interactive environments), Alain Liu, “Transcendental Data”
 [*Media *Archaeology*](http://books.google.ca/books?id=aSlQ8z1uslwC&printsec=frontcover&dq=media+archaeology&hl=en&sa=X&ei=FfQHUcicNcSQiALProGADQ&redir_esc=y) Ed. Erkki Huhtamo.
 * Khadem, Amir. [“Annexing the unread: a close reading of 'distant reading’.”](http://link.springer.com.ezproxy.library.uvic.ca/article/10.1007/s11059-012-0152-y/fulltext.html) Neohelicon. 39:2 (2012). 
 * MacDonagh, Donagh. ["Ulysses: Map of Dublin."](http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=2619075) Dublin: Signa Ltd.: 1963. 
@@ -56,18 +56,18 @@ Our maps could ideally be modified repurposed, and expanded by others. Additiona
 ###Feb. 11: Collect list of items for exhibit, have scanned images of 19th century map and data from text analysis of the novel for time/space representation
 ###Mar. 4: Have working prototype for small section of map
 ###Mar 11:
-*Produce second iteration of Layered Maps (Google Earth) and tactile map (Mudbox)
+* Produce second iteration of Layered Maps (Google Earth) and tactile map (Mudbox)
 ###Mar 18:
-*Commit final draft of 3d map in Mudbox (ready to be exported as .stl file)
-*Commit final draft of layered maps (with placemarks) in Google Earth (ready to be exported using Google Maps API)
+* Commit final draft of 3d map in Mudbox (ready to be exported as .stl file)
+* Commit final draft of layered maps (with placemarks) in Google Earth (ready to be exported using Google Maps API)
 ###Mar 25:
-*Finish reading documentation on Google Maps API
-*Prototype publishing Google earth map using API (https://developers.google.com/maps/documentation/javascript/styling, https://developers.google.com/maps/documentation/javascript/tutorial )
+* Finish reading documentation on Google Maps API
+* Prototype publishing Google earth map using API (https://developers.google.com/maps/documentation/javascript/styling, https://developers.google.com/maps/documentation/javascript/tutorial )
 ###April 7:
-*Review final draft of tactile map (.stl file) and Google Map (using Google Maps API)
+* Review final draft of tactile map (.stl file) and Google Map (using Google Maps API)
 ###April 16:
-*Print tactile map
-*Push Google Map to website
+* Print tactile map
+* Push Google Map to website
 
 ##Support
 Katie and I may need help using Mudbox to represent geographic features from our digitized map on a 3d plane. Is the stamp tool the best solution for this? We will also need help printing the 3d model. Should we export our model from Mudbox as an .stl file?
@@ -75,13 +75,13 @@ Katie and I may need help using Mudbox to represent geographic features from our
 We may need technical support as we work through the documentation for Google Maps Javascript API and use the API to publish an interactive version of our map (embedded in a website).
 
 ##Project Goals
-*Produce a working, interactive map of Dublin that uses visual distortion and layered maps to move material from *Ulysses* beyond its immediate context in the novel (this argument must be articulated clearly in or map design). Goals for the map are:
-*that visitors see and interact with it and that our interface
-*the design clearly articulates our proposed theoretical intervention.
+* Produce a working, interactive map of Dublin that uses visual distortion and layered maps to move material from *Ulysses* beyond its immediate context in the novel (this argument must be articulated clearly in or map design). Goals for the map are:
+* that visitors see and interact with it and that our interface
+* the design clearly articulates our proposed theoretical intervention.
 
-*Print a 3d map that uses distortions in map elevation to represent time spent reading narrative events that occur in each section of the city.
+* Print a 3d map that uses distortions in map elevation to represent time spent reading narrative events that occur in each section of the city.
 
 ##Professional Development Goals
-*One of my ongoing goals is to develop content using a workflow that accounts for both production and theoretical intervention (or, meaninigful connections between the technical and the theoretical). Successfully prototyping and delivering a product that uses interface to levarage arguments about the temporal experience of geography and the historical and political contexts for transnational literature would fulfill this goal.
+* One of my ongoing goals is to develop content using a workflow that accounts for both production and theoretical intervention (or, meaninigful connections between the technical and the theoretical). Successfully prototyping and delivering a product that uses interface to levarage arguments about the temporal experience of geography and the historical and political contexts for transnational literature would fulfill this goal.
 
 *Working with Mudbox and Google Maps APIs to author deliverable 'digital' content.
