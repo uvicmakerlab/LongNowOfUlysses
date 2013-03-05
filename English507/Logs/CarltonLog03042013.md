@@ -11,3 +11,6 @@
 As always, the relevant draft components of my project (and my workflow) will be located under my personal "resurgam" repo, in the directory, "longNowEncoding" 
 
 https://github.com/resurgam/Log/tree/master/LongNowEncoding/extracts
+
+
+Additionally, You can view the current working extracts live online at: http://web.uvic.ca/~dcarlton/extracts/complete/
