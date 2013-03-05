@@ -1,56 +1,55 @@
-1. ![Welcome Page for Non Users](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/WelcomeNonUser.png)
+ ![Welcome Page for Non Users](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/WelcomeNonUser.png)
+
+
+
+ ![Sign Up Page](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SignUp.png)
+
+ ![Home News Feed View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/NewsFeed.png)
+
+
+ ![Google Calendar Permission Alert](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/GoogleCal.png)
 
 
 
 
-2. ![Sign Up Page](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SignUp.png)
+ ![Calendar View in HyperLit](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/IntegratedCal.png)
 
 
 
 
-3. ![Google Calendar Permission Alert](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/GoogleCal.png)
+ ![Visualization of a Single Day](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/CalendarVisualization%20.png)
 
 
 
 
-4. ![Calendar View in HyperLit](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/IntegratedCal.png)
+ ![Reading View in Browser](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/ReadingInBrowser.png)
+
+ 
+ ![FullScreen Clean](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/FullScreenCleanMode%20.png)
+
+ ![Reading Full Screen View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/ReadingFullScreen.png)
 
 
 
 
-5. ![Visualization of a Single Day](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/CalendarVisualization%20.png)
+ ![Session Complete What Did You Think](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndResponse.png)
 
 
 
 
-6. ![Reading View in Browser](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/ReadingInBrowser.png)
+ ![Session Complete Reading Summary](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndReadingSummary%20.png)
 
 
 
 
-7. ![Reading Full Screen View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/ReadingFullScreen.png)
+ ![Session Complete Weekly Summary](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndWeeklySummary.png)
 
 
 
 
-8. ![Session Complete What Did You Think](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndResponse.png)
+ ![Session Complete All Time Summary](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndBadgeWall.png)
 
 
 
 
-9. ![Session Complete Reading Summary](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndReadingSummary%20.png)
-
-
-
-
-10. ![Session Complete Weekly Summary](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndWeeklySummary.png)
-
-
-
-
-11. ![Session Complete All Time Summary](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/SessEndBadgeWall.png)
-
-
-
-
-12. ![Home News Feed View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/NewsFeed.png)
+ 
