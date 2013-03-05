@@ -28,7 +28,7 @@
 
 
 
-7. ![Reading Full Screen View](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/jonjohns/English507/Logs/ReadingFullScreen.png)
+7. ![Reading Full Screen View](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/ReadingFullScreen.png)
 
 
 
