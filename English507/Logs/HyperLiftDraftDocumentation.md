@@ -10,10 +10,10 @@
 
 ##Very Early Visualization Page 
 
- ![Visualization Page Early](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/jonjohns/English507/Logs/Draft%20Documentation/HyperLitYourDay.png)
+ ![Early Visualization](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/Draft%20Documentation/HyperLitYourDay.png)
 
 ##Slightly Later Visualization Page
- ![Visualization](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/jonjohns/English507/Logs/Draft%20Documentation/ReadingSchedVis.png)
+ ![Visualization](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/jonjohns/English507/Logs/Draft%20Documentation/ReadingSchedVis.png)
 
 
 
