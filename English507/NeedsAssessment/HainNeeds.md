@@ -10,17 +10,17 @@ To recreate the Holmes stereoscope I require a [kit](http://www.3dstereo.com/vie
 
 The following texts will help guide my research:
 
-Baron, Scarlett. "Flaubert, Joyce: Vision, Photography, Cinema." *Modern Fiction Studies* 54.4 (2008): 689-714.
-Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." *Illuminations*. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Shocken, 1968. 217-252.
-Burkdall, Thomas L. *Joycean Frames: Film and the Fiction of James Joyce*. London: Routledge, 2001. 
-Crary, Jonathan. *Suspensions of Perception*. Cambridge: MIT P, 2001. 
-Joyce, James. *Ulysses*. Ed. Declan Kiberd. New York: Penguin, 1992. (with special attention to passages in which cinema, photography, and stereoscopy are referred)
-Palmer, R. Barton. "Eisensteinian Montage and Joyce's *Ulysses*: The Analogy Reconsidered." *Mosaic* 18 (1985): 73-85.
-Quinn, Edward. *James Joyce's Dublin*. London: Secker and Warburg, 1974.
-Spiegel, Alan. *Fiction and the Camera Eye: Visual Consciousness in Film and the Modern Novel*. Charlottesville: U of Virginia P, 1976. 71-80.
-Trotter, David. *Cinema and Modernism*. Oxford: Blackwell, 2007.
-Williams, Keith. "Cinematic Joyce." *James Joyce Broadsheet* 57 (2000).
-Wheatstone, Charles. "On Some Remarkable, and Hitherto Unobserved, Phenomena of Binocular Vision." *Philosophical Traditions* 128 (1838): 371-394.
+Baron, Scarlett. "Flaubert, Joyce: Vision, Photography, Cinema." *Modern Fiction Studies* 54.4 (2008): 689-714.  
+Benjamin, Walter. "The Work of Art in the Age of Mechanical Reproduction." *Illuminations*. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Shocken, 1968. 217-252.  
+Burkdall, Thomas L. *Joycean Frames: Film and the Fiction of James Joyce*. London: Routledge, 2001.   
+Crary, Jonathan. *Suspensions of Perception*. Cambridge: MIT P, 2001.   
+Joyce, James. *Ulysses*. Ed. Declan Kiberd. New York: Penguin, 1992. (with special attention to passages in which cinema, photography, and stereoscopy are referred)  
+Palmer, R. Barton. "Eisensteinian Montage and Joyce's *Ulysses*: The Analogy Reconsidered." *Mosaic* 18 (1985): 73-85.  
+Quinn, Edward. *James Joyce's Dublin*. London: Secker and Warburg, 1974.  
+Spiegel, Alan. *Fiction and the Camera Eye: Visual Consciousness in Film and the Modern Novel*. Charlottesville: U of Virginia P, 1976. 71-80.  
+Trotter, David. *Cinema and Modernism*. Oxford: Blackwell, 2007.  
+Williams, Keith. "Cinematic Joyce." *James Joyce Broadsheet* 57 (2000).  
+Wheatstone, Charles. "On Some Remarkable, and Hitherto Unobserved, Phenomena of Binocular Vision." *Philosophical Traditions* 128 (1838): 371-394.  
 
 ## Scope/ Goals
 
@@ -36,10 +36,10 @@ Bloom Vision attempts to recreate not only a material example of the type of ste
 
 ## Dates and Deadlines
 
-March 5: have received the Holmes stereoscope kit, decided on an appropriately-coloured wood stain, and begun compiling photographs to be rendered stereoscopically.
-Intervening weeks: 3D model components of the stereoscope individually. Assemble the physical stereoscope for the exhibit. Collect photographs, digitally alter them (in position and angle), re-print them, and test them in the stereoscope. Compile sets of photographs to be included with the stereoscope for the exhibit.
-March 26: both physical exhibit component (the actual stereoscope) and 3D digital model have been completed. 
-Before April 16: Begin compiling documentation (including images, specifications, and instructions) for final report, and for online component of the exhibit. Begin editing footage for Bloom Vision mini-documentary. Write final report, including embedded images and video.
+March 5: have received the Holmes stereoscope kit, decided on an appropriately-coloured wood stain, and begun compiling photographs to be rendered stereoscopically.  
+Intervening weeks: 3D model components of the stereoscope individually. Assemble the physical stereoscope for the exhibit. Collect photographs, digitally alter them (in position and angle), re-print them, and test them in the stereoscope. Compile sets of photographs to be included with the stereoscope for the exhibit.  
+March 26: both physical exhibit component (the actual stereoscope) and 3D digital model have been completed.   
+Before April 16: Begin compiling documentation (including images, specifications, and instructions) for final report, and for online component of the exhibit. Begin editing footage for Bloom Vision mini-documentary. Write final report, including embedded images and video.  
 
 ## Support
 
