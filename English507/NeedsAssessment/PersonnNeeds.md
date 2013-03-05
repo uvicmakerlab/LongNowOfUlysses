@@ -1,4 +1,4 @@
-##Networked *Ulysses*
+#Networked *Ulysses*
 
 
 Networked *Ulysses* is based on the assumption that, just like it takes a village to raise a child, it takes a network of agents/actants to write a novel. Hence this project will explore Joyce's connection to his contemporary social world. The installation treats *Ulysses* as a networked novel and reads it through the metaphors of network culture and social media. Hence Networked *Ulysses* aims to arrive at a visualization that de-centres the authorial figure and highlights the role of Joyce's resources and collaborators. The goal is to let visitors grasp visually and explore some of the connections of the *Ulysses* network in order to gain an understanding of the relational character of novelistic production. This will enable readings of the division of labour in the literary field in general, and with respect to *Ulysses* in particular, that differ markedly from descriptions of the novel as the work of a single creative genius.
@@ -13,7 +13,7 @@ The initial idea for this project was to articulate the voices of agents/actants
       
 This difficulty of unearthing original responses indicates how Networked *Ulysses* goes against the grain of Joyce/*Ulysses* scholarship, which, by and large, has been more interested in the author than in his respondents. The field could therefore benefit from such a reversal of the angle, as it refuses to treat the novel as a monolith and provides an archeology of its production instead. More generally, this deconstructive approach has consequences for an understanding of the function of the author, in particular in the case of encyclopedic novels such as *Ulysses*. 
 
-#Timeline
+##Timeline
 * April 16th: Deliver a tested, working site/integrate the map into a website for purposes of presentation 
 * March 25th: Finish a "mask" for the working map
 * March 12: Finish all five networks/first test of map
