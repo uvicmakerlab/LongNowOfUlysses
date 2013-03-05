@@ -1,6 +1,6 @@
-#Documentation: 
+# Project 1
 
-# Project 1 Description
+## Project 1 Description
 This portion of the project rethinks a linear progression of both space and time by situating Ulysses in a past and present Dublin. For the first segment, three [historical maps of Dublin](http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=2283456) from the UVic Library's Special collection, including a map of Dublin during the Anglo-Norman invasion that situates Ulysses’ Dublin in a long colonial history, an 1876 map, and a 1925 map that represents Dublin around the time of Ulysses’ publication, are layered over one another to give a sense of how the path of the novel translates through time. The project will also map objects in the exhibit that represent objects locateable in Ulysses’ Dublin in order to re-situate the dislocated objects in their geotemporal location as suggested by the novel. 
 
 ## Workflow for Project 1: 
@@ -19,7 +19,9 @@ This portion of the project rethinks a linear progression of both space and time
 ## Video of workflow and demo of Project 1: 
 * http://www.youtube.com/watch?v=61q5VJstcsM
 
-# Project 2 Description
+# Project 2
+
+## Project 2 Description
 The second component of the project represents the time spent in each place relative to the amount of time the novel is situated in specific areas of Dublin. Using a scanned image of Special Collection's 1925 Dublin map, we will 3D model the map using Mudbox to render the map malleable to distortion. We will then raise the topography of the map in proportion to the number of words locatable in a region in Dublin over the number of words in the novel (roughly 265,000).  To determine this proportional relation, the number of total words in the novel are divided by the number of words anchored in a specific area of Dublin. 
 
 ## Workflow of Project 2: 
@@ -34,6 +36,8 @@ The second component of the project represents the time spent in each place rela
 
 ## Video of demo of Project 2: 
 * http://www.youtube.com/watch?v=lZ-0Y3LJEOI
+
+# Questions and Problems for Both Projects
 
 ## Questions: 
 * Is there any value to seeing the historical context of Dublin? What changes can you see between the map layers? What changes can you not see or would like to see?
