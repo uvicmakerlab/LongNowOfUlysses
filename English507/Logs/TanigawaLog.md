@@ -117,3 +117,6 @@ figure out how to turn the images into placemarkers
 * Alex stitched together and layerd onto Google earth
 * I located the objects and their images on the maps
 * I created the demo video for test 1
+
+## March 5 
+* Created Iteration One file 
