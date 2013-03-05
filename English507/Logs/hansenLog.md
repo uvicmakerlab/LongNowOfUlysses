@@ -6,21 +6,27 @@
 
 ###Feedback on First Draft
 
-1. What do you think of the project in Google Earth v. Google Maps?
+###What do you think of the project in Google Earth v. Google Maps?
 
 LD: The flat map (GoogleMaps) is much easier to look at--it's clean. I find the topographical map in GoogleEarth to be distracting and I assume unnecessary information for your project. There is more contrast in maps. 
 
 The flattened map, from my perspective gives a much better sense of the way that these iterations of the texts are clustered together/concentrated in one area. 
 
+TD:	Preferred Google Earth over Google Maps -- sick of it. Too unacademic? 
+	
 
-2. Should I attempt to make an animation, or should users interact with map by navigating through the bubbles?
+###Should I attempt to make an animation, or should users interact with map by navigating through the bubbles?
 
 LD: Can you do both? It would be nice to have an animation that visualizes the way Ulysses has migrated around the globe open up as soon as people visit your website--it could also include a brief instructional portion that will show readers how to navigate the map and make them aware of the kind of information they can gather from it--without being overtly instructional. 
 
+TD:	Animation would be cool. Depending on what you are prioritising that might be a good extension. 
 
-3. How much information should I include in each bubble? Keep it short, or give a comprehensive context (if possible)?
 
-LD: Keep the preview short, but it would be nice to a drop-down box/link that offers more information. 
+###How much information should I include in each bubble? Keep it short, or give a comprehensive context (if possible)?
+
+LD:	Keep the preview short, but it would be nice to a drop-down box/link that offers more information.
+
+TD:	Bubbles will look good -- expect to see a significance of the placemark/edition. 
 
 
 ###Reflection
