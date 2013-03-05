@@ -14,7 +14,7 @@ So, with that decided, I printed out my data (a transcription of time elapsed pe
 > Halted, he peered down the dark winding stairs and called up coarsely:
 >> Come up,..."
 
-* BRRRIIIINNNGGGGG*
+*BRRRIIIINNNGGGGG*
 
 Alarm! Twenty seconds elapsed. I take a razor blade and a cutting matt, and I cut out the last word I read, "Kinch," Mulligan's nickname for Stephen Dedalus. Underneath, the cut-out text reveals the word "and." (see image: "Cut 1"). I thought, "brilliant," I will simply strike through all of the text until I reach the "and" on the underlying page, thus "replicating" the link through to a new page (layered underneath the previous page), and also rendering all of the text I will bounce over, as I "link" to the new page. 
 
