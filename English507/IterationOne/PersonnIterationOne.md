@@ -1,5 +1,7 @@
 ##First Iteration.
-I have now assembled some data to populate the three areas on the map that I wanted to focus on: Trieste, Zürich, Paris. The following preliminary [sample map](https://maps.google.com/maps?f=q&q=https://docs.google.com/spreadsheet/pub%3Fkey%3DtGDp-MmftpuR08QRbgqtubA%26single%3Dtrue%26gid%3D0%26output%3Dtxt%26time1%3D4133838), warts and all, should provide an idea of what I'm trying to achieve here. The texts describing the individual contributors (both "direct" and "indirect" influences on Joyce's novel) are complete for the most part; pictures, portraits, and (most importantly) images of the actual correspondence, however, are still missing.
+Working with some of Joyce's biographies, I have now assembled some data in my Google Spreadsheet to populate the three areas on the map that I wanted to focus on: Trieste, Zürich, Paris. 
+![](https://dl.dropbox.com/u/11381261/Spreadsheet%20Mapper%20Shot.png)
+Spreadsheet Mapper 3.1 automatically updates and transfers this information in Google Maps. The following preliminary [sample map](https://maps.google.com/maps?f=q&q=https://docs.google.com/spreadsheet/pub%3Fkey%3DtGDp-MmftpuR08QRbgqtubA%26single%3Dtrue%26gid%3D0%26output%3Dtxt%26time1%3D4133838), warts and all, should provide an idea of what I'm trying to achieve here. The texts describing the individual contributors (both "direct" and "indirect" influences on Joyce's novel) are complete for the most part; pictures, portraits, and (most importantly) images of the actual correspondence, however, are still missing.
 
 Three surprising things I realized along the way:
 
