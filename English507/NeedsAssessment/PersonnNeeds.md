@@ -17,7 +17,7 @@ This difficulty of unearthing original responses indicates how Networked *Ulysse
 * April 16th: Deliver a tested, working site/integrate the map into a website for purposes of presentation 
 * March 25th: Finish a "mask" for the working map
 * March 12: Finish all five networks/first test of map
-*March 4th: Finish data for three networks
+* March 4th: Finish data for three networks
  
 In order to integrate the working map into a website, somewhat like [Mapping John Glassco's Memoirs of Montparnasse](http://aelang.net/projects/glassco.htm), it would be helpful to have a basic understanding of how to make Google Maps a part of other websites, and of gaining an understanding of how to make the map and the website "communicate" with one another (e.g. by integrating the option of "filtering" layers into the site's design).
 
