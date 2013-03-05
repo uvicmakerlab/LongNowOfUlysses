@@ -17,8 +17,7 @@
 ##Revised documentation
 * christieNeedsAssessment.md
 * christieLog.md
-* christieTactileMapWorkflow.md (and images)
-* ChristieTanigawaIteration1.md
+* ChristieTanigawaIterationOne.md
 
 #Mar 2-3
 ##Stitched scanned maps using Photoshop
