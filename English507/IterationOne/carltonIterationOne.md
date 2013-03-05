@@ -32,6 +32,8 @@ Once I had completed a working, web-readable version of "Penelope," I wrote a sm
 
 3. to that end, I was equally as surprised to discover that said font renders a bit differently depending on the browser/medium in which it is being used. Thus, while my .doc transcriptions look nearly perfect (except for the lower-case "w"s), my XML files are not quite as aesthetically accurate.
 
+4. I was unable to make blank lines, so I used a small dash, rendered invisible against my page background and in my xml. It works. 
+
 
 ##Questions
 
