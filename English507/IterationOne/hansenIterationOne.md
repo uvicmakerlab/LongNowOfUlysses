@@ -12,6 +12,9 @@ I have gathered quite a bit of information from analogue and digital sources, an
 
 For now, I am content with the [style](https://docs.google.com/file/d/0B58FIppSqxLDcUNwQkd4QVBReGs/edit?usp=sharing) of my info bubbles. I will need to figure out how to insert images into the bubbles -- Google Earth does not seem to recognise URLs to image files on my Google Drive. Figuring this out is my next major task.  
 
+
+###Something to Consider
+
 In my interim report, JS raised some questions that are apparently commonly associated with geospatial interpretations -- namely, is this simply a re-presentation of old info? This is something that I am keeping in the back of my mind as I decide on a narrative tack for my project. At worst, I think there is value in seeing the concentration of *Ulysses* material in Europe, which leads me to question the international relevance of *Ulysses*. Is our "long now" actually a "long and narrow now"?
 
 
@@ -23,12 +26,16 @@ In my interim report, JS raised some questions that are apparently commonly asso
 ###Three Questions
 
 1. What do you think of the project in Google Earth v. Google Maps?
+
 2. Should I attempt to make an animation, or should users interact with map by navigating through the bubbles?
+
 3. How much information should I include in each bubble? Keep it short, or give a comprehensive context (if possible)?
 
 
 ###My Challenges/Surprises
 
 1. My hardworking, but exhausted laptop. My workflow is delayed because of the time it takes for my computer to process changes, etc. Also, I have avoided copying and pasting my logs into GitHub because it is a bit of a hassle (sometimes I have to commit three times before GitHub actually saves my work). 
+
 2. My lack of knowledge of Spreadsheet Mapper 3.0 and general inability to work with charts and spreadsheets. 
+
 3. Unanticipated: how much I am enjoying populating my spreadsheet and checking my changes in Google Earth now that my draft is taking shape. 
