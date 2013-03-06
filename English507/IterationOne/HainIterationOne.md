@@ -3,15 +3,15 @@
 We recently (as in, this past Friday) received the [stereoscope kit](http://www.3dstereo.com/viewmaster/vn-holm.html) in the mail. It's being kept in the Maker Lab for now, where I'll start to photograph and 3D-model it, hopefully this week or early next week. I've also decided to make a short video documenting the entire processes of making the physical (wooden) stereoscope, and its digital 3D-model -- from the box to the exhibit. I've had to postpone assembly for now, because we've decided to model the components individually for greater detail and facility in 3D-printing. 
 [Here](http://www.flickr.com/photos/93837414@N08/) are some photographs of the kit's components.
 I have also picked out a wood stain:  
-![wood stain](https://photos-3.dropbox.com/t/0/AADK0mwGDLwOSVCPkiGpgxm-D5eCpBkIauXNWkR9RR9wlQ/12/136690042/jpeg/32x32/3/_/1/2/WoodStain.jpg/7ghTELjAyD6IokmblZCdVUj3P91L1fsJQaRg_lygwkM?size=800x600)  
+![wood stain](http://imageshack.us/a/img22/6272/woodstain.jpg)  
 Kind of a nice mid-tone that should accent -- without completely hiding -- the natural grain of the wood.  
 
 I've also begun trying to plan where in the physical space of the exhibit the finished stereoscope should go. Since it doesn't relate specifically to any of the content in the [excerpts](https://github.com/uvicmakerlab/LongNowOfUlysses/tree/master/pageExcerpts), it would likely be better suited for the center cabinets than perimeter panels, though it could also hang off the wall where the doors are.  
-![Exhibit Space](https://photos-4.dropbox.com/t/0/AABN8fd6biZPY8jGGw3-Y_6b3eQm5SFyJgU3U6W2BaIllg/12/136690042/jpeg/32x32/3/_/1/2/ExhibitSpace4.jpg/8sWLRUNcgQ3oGzedyDO3uiPEPJ9yINDncslDCfJT32c?size=800x600)  
+![Exhibit Space](http://img208.imageshack.us/img208/499/exhibitspace4.jpg)  
 
 Lastly, I'm in the process of figuring out what kinds of photographs to use in the stereoscope. I've contacted Chris Petters of Special Collections regarding access to the 
 [Gisèle Freund collection](http://contentdm.library.uvic.ca/cdm/search/collection/collection10) of photographs of James Joyce in Paris. But if part of my goal in this project is to provide exhibit attendees with a significant approximation of early-twentieth century stereoscopic vision -- to see the world as Bloom (someone whose vision has been shaped, even radically altered, by the photograph, and the stereoscope in particular) might have seen it in 1904 -- then there may be something anachronistic and geographically inappropriate about using photographs from Paris in the 1930s, rather than Dublin in the early-1900s. Another possible source for images is [Edward Quinn's James Joyce's Dublin](http://www.amazon.ca/James-Joyces-Dublin-Edward-Quinn/dp/0436395002), which has some great photographs of the actual spaces Bloom and Stephen navigate in *Ulysses*; however, these photographs are likewise anachronistic, taken in the 1970s.  
-![James Joyce's Dublin](https://photos-6.dropbox.com/t/0/AACCWZ5jRGMYLOF2h1LHmccNOXrGFwFKNwiW-GgC2zJTtA/12/136690042/jpeg/32x32/3/_/1/2/O%27ConnellStreet.jpg/-HF1u1sJgHC_0mtSYCvqgRNXBUWVGFGvTTgESFNVLjk?size=800x600) 
+![James Joyce's Dublin](http://img268.imageshack.us/img268/5261/connellstreet.jpg) 
 
 ## Questions and Concerns
 
