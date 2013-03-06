@@ -1,4 +1,20 @@
-# Some thoughts and questions regarding Week 7 readings  
+# Bloom Vision -- Log  
+
+## Some reflections following first draft workshops  
+
+5 March, 2013  
+
+The consensus seems to be that [my anxieties over using anachronistic photographs](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/IterationOne/HainIterationOne.md) are to some degree unnecessary, or at least overblown. While Tim definitely stresses the strength of this project's empathetic gesture in attempting to approximate Bloomian modes of vision, or phenomenologies of modernity, he also suggests that it's not entirely necessary to only use historically and geographically specific photographs (of Dublin, 1904) to render this experience. He points out Joyce's fascination with the etymology of the name Odysseus: both every-man (or was it no-man?) and God (from Zeus). So while it would be great to have historically and geographically appropriate material for exhibit-goers to view stereoscopically, other sources ([Edward Quinn](http://www.amazon.ca/James-Joyces-Dublin-Edward-Quinn/dp/0436395002), for example) might also fit in with the "Long Now" theme and point to the fact that -- as Tim suggests -- there are Blooms after Bloom, even contemporary Blooms.   
+
+Mitch prefers Quinn's photographs of landmarks in *Ulysses* to some of the material in [the Freund collection](http://contentdm.library.uvic.ca/cdm/search/collection/collection10) and suggests thinking not just about what kinds of photographs are going to be most appropriate (historically and geographically) to the narrative of *Ulysses*, but also what photographs are going to be most interesting for exhibit-goers to experience in 3D. I definitely agree that it's important to think about the experiential aspect of the exhibit, and find myself having a lot of affinities with Mitch's aesthetic approach to exhibit-building as not merely expository, but also as an artistic practice.  
+
+Jentery has also offered some valuable feedback regarding stereoscope content, suggesting I look into the English 560 asset list of reproductions that will be available to the exhibit (photographs, but also potentially paintings and other visual arts).   
+
+In short, I think it would be a good idea to use photographs from a variety of sources, and maybe provide something like a booklet for exhibit-goers to choose from and customize their own stereoscopic viewing experience. So in addition to some of the Freund photographs of Joyce and his social circle, and Quinn's 1970s photographs of *Ulysses* locations (note: there is a strongly worded copyright page in this book; look into fair use rules, maybe contact the author), I might include other Special Collections reproductions from the English 560 asset list; I might also use some of Michael Stevens' personal photographs of contemporary Dublin from his year at Trinity College; I might even use something as blatantly anachronistic and geographically inappropriate as my own photographs of Victoria (maybe of the James Joyce pub?). Again, this would also fit in with the "Long Now" theme of the exhibit, emphasizing resonances of the novel over time and space.  
+
+
+
+## Some thoughts and questions regarding Week 7 readings  
 
 25 February, 2013  
 
@@ -32,7 +48,7 @@ What is potentially lost in "thinking of culture as data... that can be mined an
 
 I do, however, like the gesture of situating the project of Cultural Analytics into a history of technologies not only influencing cultures, but creating new disciplines and modes of cultural analysis (from slides to art history; from projectors to film studies). 
 
-# Data Model
+## Data Model
 
 12 February, 2013
 
