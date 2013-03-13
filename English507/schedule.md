@@ -138,7 +138,7 @@ During this week, we will meet with [Bethany Nowviskie](http://nowviskie.org/), 
 
 ## March 19th (Meeting 10) – A Literary Exhibit’s Public(s)
 
-Reading: Liu, [“Where Is Cultural Criticism in the Digital Humanities?”](http://dhdebates.org/); Daniel, [“Hybrid Practices”](http://muse.jhu.edu/journals/cj/summary/v048/48.2.daniel.html); Ang and Pothen, [“Between Promise and Practice: Web 2.0, Intercultural Dialogue and Digital Scholarship”](http://fourteen.fibreculturejournal.org/fcj-094-between-promise-and-practice-web-2-0-intercultural-dialogue-and-digital-scholarship/); and McPherson, [“Why Are the Digital Humanities So White?, or, Thinking the Histories of Race and Computation”](http://dhdebates.org/)
+Reading: Liu, [“Where Is Cultural Criticism in the Digital Humanities?”](http://dhdebates.gc.cuny.edu/debates/text/20); Daniel, [“Hybrid Practices”](http://muse.jhu.edu/journals/cj/summary/v048/48.2.daniel.html); McPherson, [“Why Are the Digital Humanities So White?, or, Thinking the Histories of Race and Computation”](http://dhdebates.gc.cuny.edu/debates/text/29); Sayers, "Drop the Digital" (circulated via email); and (OPTIONAL) Ang and Pothen, [“Between Promise and Practice: Web 2.0, Intercultural Dialogue and Digital Scholarship”](http://fourteen.fibreculturejournal.org/fcj-094-between-promise-and-practice-web-2-0-intercultural-dialogue-and-digital-scholarship/)
 
 Log: None 
 
