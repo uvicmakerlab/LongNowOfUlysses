@@ -1,5 +1,13 @@
 # Bloom Vision -- Log  
 
+## A day in UVic Special Collections  
+
+13 March, 2013  
+
+I was just in UVic Special Collections browsing through the physical archive of the [Gisèle Freund fonds](http://library.uvic.ca/spcoll/findaids/1997-039.pdf) and talking to Christopher Petter about permission to use some of the photographs in the Long Now Exhibit. It's a huge, and very cool collection, and contains not only some of the most famous photographs of Joyce (like the one where he stands in front of a taxi, for example), but also photographs of Auden, Colette, the Woolfs, Forster, Sartre, Beckett, Henry Miller, Matisse -- really everyone. Aside from portraits, some highlights include Joyce's [marked up proofs of Finnegans Wake](http://contentdm.library.uvic.ca/cdm/singleitem/collection/collection10/id/351/rec/14) and Simone de Beauvoir's hand-written introduction to Freund's book.  
+
+Anyways, I now have high-res un-watermarked scans of the collection's contents for exhibit use only (I won't be able to include them in any online component of the exhibit). From here I can start to mess around with some selections in Photoshop, offsetting position, maybe colour-tinting, so that they can be viewed in 3D via the Holmes stereoscope. I will also continue to look for photographs from other sources for inclusion in the exhibit as well.  
+
 ## Some reflections following first draft workshops  
 
 5 March, 2013  
