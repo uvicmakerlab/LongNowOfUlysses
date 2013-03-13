@@ -1,3 +1,11 @@
+#Mar 12
+##Experimented with Neatline
+* Installed Omeka on my local MySQL server.
+* Installed Neatline plugin for Omeka (I discovered that Neatline currently *does not* work with Omeka 2.0. Version 1.5 is needed instead.)
+* Experimented with importing and displaying placemark data from our .kml files.
+* As Katie and I discussed, the main constraint of Neatline is that it doesn't allow us to use anachronistic map layers to frustrate traditional cartographic representation. That is, items and layers can (as far as we know so far, anyway) only be viewed chronologically. (The start and end visible date fields *may* be a way around this.)
+
+
 #Mar 4-5
 ##Generated draft of Tactile Map using Mudbox
 #Worklfow
