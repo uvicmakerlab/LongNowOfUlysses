@@ -6,11 +6,21 @@
 
 Since first conceiving of this project, I have come a long way (I think, at least). At first, I planned on creating a really ambitious Flash animation chronicling every possible iteration of *Ulysses* I could find. Now, after having come to terms with the issue of do-ability, I am chronicling the first translations of *Ulysses*, as well as film and stage adaptations, and other interesting bits I find -- like [ULYSSES SEEN](http://ulyssesseen.com/).  
 
-My main challenge at first was figuring out how to use Google Earth. Google keeps Google Earth [separate from Spreadsheet Mapper 3.0](https://docs.google.com/file/d/0B58FIppSqxLDb1pBMndYWE5QSFk/edit?usp=sharing) to a certain extent, which forced me to figure out how to change the html in Spreadsheet Mapper if I wanted to use Google Earth. Initially, I thought I would work with [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing) because of my difficulty. I have since figured out the [basic code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing) for the descriptive bubbles in Google Earth, and now have options.
+My main challenge at first was figuring out how to use Google Earth. Google keeps Google Earth separate from Spreadsheet Mapper 3.0 to a certain extent, which forced me to figure out how to change the html in Spreadsheet Mapper if I wanted to use Google Earth. 
 
-I have gathered quite a bit of information from analogue and digital sources, and am now in the process of populating my [spreadsheet](https://docs.google.com/file/d/0B58FIppSqxLDV1FLZS13YnR2N0E/edit?usp=sharing). Once I have completed that task, I will return to formatting my spreadsheet -- content first, aesthetics later. 
+![Google options](http://imageshack.us/a/img547/4979/earthvspreadsheet.png)
 
-For now, I am content with the [style](https://docs.google.com/file/d/0B58FIppSqxLDcUNwQkd4QVBReGs/edit?usp=sharing) of my info bubbles. I will need to figure out how to insert images into the bubbles -- Google Earth does not seem to recognise URLs to image files on my Google Drive. Figuring this out is my next major task.  
+Initially, I thought I would work with [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing) because of my difficulty. I have since figured out the [basic code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing) for the descriptive bubbles in Google Earth, and now have options.
+
+I have gathered quite a bit of information from analogue and digital sources, and am now in the process of populating my.
+
+![spreadsheet](http://imageshack.us/a/img199/6545/spreadsheetg.png)
+
+Once I have completed that task, I will return to formatting my spreadsheet -- content first, aesthetics later. 
+
+For now, I am content with the of my info bubbles. I will need to figure out how to insert images into the bubbles -- Google Earth does not seem to recognise URLs to image files on my Google Drive. Figuring this out is my next major task. 
+
+![bubbles](http://imageshack.us/a/img841/6128/uliss.png)
 
 
 ###Something to Consider
