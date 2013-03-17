@@ -10,13 +10,17 @@ My main challenge at first was figuring out how to use Google Earth. Google keep
 
 ![Google options](http://imageshack.us/a/img547/4979/earthvspreadsheet.png)
 
-Initially, I thought I would work with [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing) because of my difficulty. I have since figured out the [basic code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing) for the descriptive bubbles in Google Earth, and now have options.
 
-I have gathered quite a bit of information from analogue and digital sources, and am now in the process of populating my.
+
+Initially, I thought I would work with Google Maps because of my difficulty. I have since figured out the basic code for the descriptive bubbles in Google Earth, and now have options.
+
+![Google Maps](http://imageshack.us/a/img266/9789/basicmapp.png) ![basic code](http://imageshack.us/a/img59/3476/picture5bkt.png)
+
+I have gathered quite a bit of information from analogue and digital sources, and am now in the process of populating my spreadsheet. Once I have completed that task, I will return to formatting my spreadsheet -- content first, aesthetics later. 
 
 ![spreadsheet](http://imageshack.us/a/img199/6545/spreadsheetg.png)
 
-Once I have completed that task, I will return to formatting my spreadsheet -- content first, aesthetics later. 
+
 
 For now, I am content with the of my info bubbles. I will need to figure out how to insert images into the bubbles -- Google Earth does not seem to recognise URLs to image files on my Google Drive. Figuring this out is my next major task. 
 
