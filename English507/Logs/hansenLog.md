@@ -43,7 +43,9 @@ Also really looking foward to seeing what everyone has on the go for tomorrow!
 
 ##3 March
 
-I have a [rough bubble template](https://docs.google.com/file/d/0B58FIppSqxLDcUNwQkd4QVBReGs/edit?usp=sharing) down now, and I am becoming more happy with it as I play around. The next step in my workflow is to plug in the data I have been collecting. After we go over our first drafts on Tuesday, I will begin to sort out my info into colour-coded bubble, with a view to having them move in a sort of sequence. 
+I have a rough bubble template down now, and I am becoming more happy with it as I play around. The next step in my workflow is to plug in the data I have been collecting. After we go over our first drafts on Tuesday, I will begin to sort out my info into colour-coded bubble, with a view to having them move in a sort of sequence. 
+
+![bubble template](http://imageshack.us/a/img841/6128/uliss.png)
 
 ###Issues
 
@@ -52,17 +54,24 @@ One issue I am having -- and which TP brought up last class, I think -- is putti
 
 ##1 March
 
-Success! I have figured out -- via diddling around (how I learn) -- both where to find a [decent bubble template](https://docs.google.com/file/d/0B58FIppSqxLDRVotN1MyYWRtRHM/edit?usp=sharing), and also how to change around [the code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing). This is big news for me. 
+Success! I have figured out -- via diddling around (how I learn) -- both where to find a decent bubble template, and also how to change around [the code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing). This is big news for me. 
+
+![bubble template](http://imageshack.us/a/img705/8114/picture6mq.png)
+![code](http://imageshack.us/a/img59/3476/picture5bkt.png)
 
 
 ##27 February
 
-Google Earth continues to challenge me with bubble format, so I have been working for now in [Google Maps](https://docs.google.com/file/d/0B58FIppSqxLDekpia1RqMXdXbEk/edit?usp=sharing). Aesthetically, this does not please me, but I am using it to gauge my info as I go. Over the next couple of days I will attempt to look into the bubble code for Google Maps. 
+Google Earth continues to challenge me with bubble format, so I have been working for now in Google Maps. Aesthetically, this does not please me, but I am using it to gauge my info as I go. Over the next couple of days I will attempt to look into the bubble code for Google Maps. 
+
+![Google Maps](http://imageshack.us/a/img266/9789/basicmapp.png)
 
 
 ##20 February
 
-I am continuing to research a bit -- the SUNY website continues to be ridiculously useful. Also, I am struggling a bit to get beyond the basic format for the bubbles. Google seems to [separate Google Earth from Spreadsheet Mapper 3.0](https://docs.google.com/file/d/0B58FIppSqxLDb1pBMndYWE5QSFk/edit?usp=sharing), which means that I see things I like in Google Earth, but can only make them happen manually at this point (no thanks). 
+I am continuing to research a bit -- the SUNY website continues to be ridiculously useful. Also, I am struggling a bit to get beyond the basic format for the bubbles. Google seems to separate Google Earth from Spreadsheet Mapper 3.0, which means that I see things I like in Google Earth, but can only make them happen manually at this point (no thanks). 
+
+![Google options](http://imageshack.us/a/img547/4979/earthvspreadsheet.png)
 
 I will continue to look around, as that is how I work best. 
 
