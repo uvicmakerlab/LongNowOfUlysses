@@ -6,11 +6,11 @@ I have decided -- after seeing [Neatline](http://neatline.org) in action at Beth
 
 ###My Neatline installation workflow:
 
-1. Neatline workflow:
+####Neatline workflow:
 
 ![Neatline workflow](http://imageshack.us/a/img849/333/picture1lsw.png)
 
-2. 
+####
 
 ![Omeka forum](http://imageshack.us/a/img839/5092/picture3nt.png)
 
