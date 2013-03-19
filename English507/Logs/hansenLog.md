@@ -1,6 +1,30 @@
 #Hansen (s)Log 
 
-(I don't use a client, so this could get weird, what with all the cutting and pasting...)
+
+##14 March
+
+###Bethany's Visit
+
+That Bethany Nowviskie is a cool lady. She is so approachable, but also -- clearly -- very knowledgeable. I really appreciate her realistic approach to grad education and DH. 
+
+A couple of things that stood out to me:
+
+* the UV memoranda of understanding re: DH project -- I was reminded of the 90s digital pet sensation, where it does nothing, but you have to feed it or it will beep. No one wants their work to turn into that. 
+
+* CVs v. résumés -- thank you, Bethany! A CV is not a professional résumé. 
+
+Bethany's talk today made me want to pursue a PhD in DH just so that I can work at UV in her lab. 
+
+
+
+##12 March
+
+Today was Bethany Nowviskie's [Neatline](http://neatline.org/) workshop. I thought Neatline was cool before -- after checking out the website when I was debating which application to use for UlyssesAfterlives. Now, I am hooked. My plan is to give the installation process a try to see if I can install a MAMP version that is new-old enough a) for my computer to run, and b) to be able to host Omeka.
+
+###Of Note
+
+Bethany said that Neatline purposely does not have the capability to set up a sequence and play them. The narrative underlies the exhibit, and the developers want users to play around. I hear that -- my concern with Google Earth/Maps is that if I don't create a sequence to play, no one will get any sort of narrative, and my exhibit will just be a bunch of bubble on a map. 
+
 
 ##5 March
 
