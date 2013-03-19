@@ -78,7 +78,7 @@ One issue I am having -- and which TP brought up last class, I think -- is putti
 
 ##1 March
 
-Success! I have figured out -- via diddling around (how I learn) -- both where to find a decent bubble template, and also how to change around [the code](https://docs.google.com/file/d/0B58FIppSqxLDZzg3dlhvR0dWTG8/edit?usp=sharing). This is big news for me. 
+Success! I have figured out -- via diddling around (how I learn) -- both where to find a decent bubble template, and also how to change around the code. This is big news for me. 
 
 ![bubble template](http://imageshack.us/a/img705/8114/picture6mq.png)
 ![code](http://imageshack.us/a/img59/3476/picture5bkt.png)
