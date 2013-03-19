@@ -2,13 +2,33 @@
 
 ##16 March
 
-###My attempts with Neatline
+I have decided -- after seeing [Neatline](http://neatline.org) in action at Bethany Nowviskie's workshop -- to give installing Neatline a try. Having never done anything like this, it has ended up being quite dramatic. 
+
+###My Neatline installation workflow:
+
+1. Neatline workflow:
 
 ![Neatline workflow](http://imageshack.us/a/img849/333/picture1lsw.png)
-![MAMP](http://imageshack.us/a/img208/4072/picture6hb.png)
+
+2. 
+
 ![Omeka forum](http://imageshack.us/a/img839/5092/picture3nt.png)
+
+3. 
+
+![MAMP](http://imageshack.us/a/img208/4072/picture6hb.png)
+
+4. 
+
 ![Omeka main page](http://imageshack.us/a/img585/7030/picture5bt.png)
+
+5. 
+
 ![all the screens](http://imageshack.us/a/img687/6374/picture2ap.png)
+
+6. 
+
+![Omeka dashboard](http://img715.imageshack.us/img715/7812/picture7qt.png)
 
 
 ##14 March
