@@ -6,7 +6,7 @@ I have decided -- after seeing [Neatline](http://neatline.org) in action at Beth
 
 ###My Neatline installation workflow:
 
-####Neatline workflow:
+####Neatline's workflow:
 
 ![Neatline workflow](http://imageshack.us/a/img849/333/picture1lsw.png)
 
@@ -17,6 +17,10 @@ I have decided -- after seeing [Neatline](http://neatline.org) in action at Beth
 ####MAMP installed: 
 
 ![MAMP](http://imageshack.us/a/img208/4072/picture6hb.png)
+
+####Filezilla:
+
+![Filezilla](http://img820.imageshack.us/img820/4278/picture9ij.png)
 
 ####My Omeka main page:
 
