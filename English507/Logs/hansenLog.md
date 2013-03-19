@@ -1,5 +1,15 @@
 #Hansen (s)Log 
 
+##16 March
+
+###My attempts with Neatline
+
+![Neatline workflow](http://imageshack.us/a/img849/333/picture1lsw.png)
+![MAMP](http://imageshack.us/a/img208/4072/picture6hb.png)
+![Omeka forum](http://imageshack.us/a/img839/5092/picture3nt.png)
+![Omeka main page](http://imageshack.us/a/img585/7030/picture5bt.png)
+![all the screens](http://imageshack.us/a/img687/6374/picture2ap.png)
+
 
 ##14 March
 
@@ -14,7 +24,6 @@ A couple of things that stood out to me:
 * CVs v. résumés -- thank you, Bethany! A CV is not a professional résumé. 
 
 Bethany's talk today made me want to pursue a PhD in DH just so that I can work at UV in her lab. 
-
 
 
 ##12 March
