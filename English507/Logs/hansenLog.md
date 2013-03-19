@@ -10,23 +10,23 @@ I have decided -- after seeing [Neatline](http://neatline.org) in action at Beth
 
 ![Neatline workflow](http://imageshack.us/a/img849/333/picture1lsw.png)
 
-####
+####My guides:
 
 ![Omeka forum](http://imageshack.us/a/img839/5092/picture3nt.png)
 
-3. 
+####MAMP installed: 
 
 ![MAMP](http://imageshack.us/a/img208/4072/picture6hb.png)
 
-4. 
+####My Omeka main page:
 
 ![Omeka main page](http://imageshack.us/a/img585/7030/picture5bt.png)
 
-5. 
+####All of the screens:
 
 ![all the screens](http://imageshack.us/a/img687/6374/picture2ap.png)
 
-6. 
+####Neatline installed:
 
 ![Omeka dashboard](http://img715.imageshack.us/img715/7812/picture7qt.png)
 
