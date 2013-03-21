@@ -152,7 +152,7 @@ Workshop: "Exhibit Development"
 
 ## March 26th (Meeting 11) – Peer-Reviewing a Literary Exhibit 
 
-Reading: Fitzpatrick, [“Beyond Metrics: Community Authorization and Open Peer Review”](http://dhdebates.org/); Ramsay and Rockwell, [“Developing Things: Notes toward an Epistemology of Building in the Digital Humanities”](http://dhdebates.org/); and Galey and Ruecker, [“How a Prototype Argues”](http://llc.oxfordjournals.org/content/early/2010/10/26/llc.fqq021.full) 
+Reading: Fitzpatrick, [“Beyond Metrics: Community Authorization and Open Peer Review”](http://dhdebates.gc.cuny.edu/debates/text/7); Ramsay and Rockwell, [“Developing Things: Notes toward an Epistemology of Building in the Digital Humanities”](http://dhdebates.gc.cuny.edu/debates/text/11); and Galey and Ruecker, [“How a Prototype Argues”](http://llc.oxfordjournals.org/content/early/2010/10/26/llc.fqq021.full) 
 
 Log: Draft Exhibit Components (second round) 
 
