@@ -186,11 +186,13 @@ Objects
 * How can we use the scholarly data provided by BC and Yale regarding the location of characters to develop our own map? Do we use their data as a way to check our work? 
 
 ## March 23
-* Flushing out context for the project with Moretti's Graphs, Maps, and Trees
-* Locating Objects: https://drive.google.com/?tab=mo&authuser=0#folders/0B2khyjALkRHMR0duanVoMFRrSmc
-** Leah (the play)
-** pennies
-** martello Tower
-** key
-
+Flushing out context for the project with Moretti's Graphs, Maps, and Trees
+Locating Objects: https://drive.google.com/?tab=mo&authuser=0#folders/0B2khyjALkRHMR0duanVoMFRrSmc
+* Leah (the play)
+* pennies
+* martello Tower
+* key
+* Guinness glass 
+* frying pan 
+* blood
 
