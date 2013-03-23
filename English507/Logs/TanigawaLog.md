@@ -120,3 +120,75 @@ figure out how to turn the images into placemarkers
 
 ## March 5 
 * Created Iteration One file 
+
+## March 7
+Choosing objects from asset list to locate based on following criteria: 
+* Locatable in Dublin 
+* Relevant to the novel
+* Present in the exhibit
+* Historical significance (with particular lean towards objects that evoke this history of English colonization of Ireland) 
+
+Objects
+* Chochrane's ginger ale
+* army recruiting poster
+* Leah the play
+* Pennies
+* Kidney
+* Martellow Tower
+* Key 
+* Clock
+* Madeleine Box
+* Curling iron
+* Infant clothes
+* Derby Mugs
+* old pornography
+* hair pins
+* hip flask
+* blood
+* coaster
+* apostle spoons
+* cloth
+* olives
+* doormat
+* Sweeny's lemon soap
+* guinness glass
+* frying pan 
+* red quinoa
+* british sweets
+* sunbathers
+
+## March 8
+* I started by locating objects manually through the text. This is not a good idea, or rather, it is more time consuming than the alternative. 
+* I switched from manually locating the objects to doing a search for the objects in the MVP's uploaded chapters of Ulysses. where possible.
+* When chapters were not available through the MVP site, I turned to Gutenberg's Ulysses to locate the objects. 
+* The data is entered into an excel spreadsheet with the categories: Item, Location, Chapter, Passage (the passage that contains the object)
+* Objects located with all data included: 
+** ginger ale
+**  Derby mug
+** old pornography 
+** Sweny's soap
+** kidney
+ 
+## March 15
+* Neatline sandbox Ulysses mapping 
+* How do you layer maps? 
+* The timeline function could be very helpful for expressing the historical context of objects
+
+## March 19 
+* Meeting with Alex
+** Katie to: locate objects, decide method for ratio of place/time for 3D map, figure out ratios
+* Confirm the use of Neatline
+* Transfer data from Google Earth 
+
+## March 20 
+* Surveying maps of Ulysses projects (Yale, Boston College) 
+* Other maps of Ulysses imagine the path taken by the characters, our map hopes to render a tactile representation of space in Ulysses as experienced by the reader via word count
+* How can we use the scholarly data provided by BC and Yale regarding the location of characters to develop our own map? Do we use their data as a way to check our work? 
+
+## March 23
+* Flushing out context for the project with Moretti's Graphs, Maps, and Trees
+* Locating Objects: 
+** Leah (the play)
+** pennies
+** martello Tower
+** key
