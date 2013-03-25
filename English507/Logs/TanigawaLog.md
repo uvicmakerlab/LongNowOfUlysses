@@ -210,3 +210,5 @@ Adding information about objects' historical signficance:
 * Martello Tower (one for 50-plus that were built by the English as a defense against Napoleon)
 * blood on Thomas Street (reference to Robert Emmet who was hung for treason in 1803)
 * Cochrane's ginger ale (ginger ale was developed in Ireland in 1852 and exported to America in 1866)
+
+This might be redundant, but I am locating items on Google Earth as well just in case difficulties setting up NeatLine persists. At the very least, this way we will have the exact coordinates for all the items. 
