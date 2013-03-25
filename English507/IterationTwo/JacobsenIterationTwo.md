@@ -4,7 +4,7 @@ I faced a pretty major set back between the last time we circulated our draft co
 
 At first I tried gluing the pages and the binding back together. It seemed to work okay for a while, although its bulging remnants were ruining the aesthetics, looking like some oozy skin shed by the Blob (see image: ["the Blob"](http://imageshack.us/photo/my-images/201/theblob.jpg/)). Even then, the glue eventually just wouldn't hold. So, I gave up the fight and resigned to begin again.
 
-I set out to find another cheap, used copy, but one that was sewn and bound (see image: ["sewn and bound"](http://imageshack.us/photo/my-images/14/sewnandbound.jpg/)). I luckily found a nice looking hardcover, Modern Library's 1934 edition, for only ten dollars (See image ["Modern Library](http://imageshack.us/photo/my-images/853/modernlibrary.jpg/) and ["ML2"](http://imageshack.us/photo/my-images/820/ml2ih.jpg/)). 
+I set out to find another cheap, used copy, but one that was sewn and bound (see image: ["sewn and bound"](http://imageshack.us/photo/my-images/14/sewnandbound.jpg/)). I luckily found a nice looking hardcover, Modern Library's 1934 edition, for only ten dollars (see image: ["Modern Library](http://imageshack.us/photo/my-images/853/modernlibrary.jpg/) and ["ML2"](http://imageshack.us/photo/my-images/820/ml2ih.jpg/)). 
 
 Starting again has already allowed for some interesting surprises. Firstly, this particular edition is fairly different from all others I have seen. For example, the first chapter begins with "Buck Mulligan came from the stairhead..." Not stately! Not plump! Just Buck Mulligan (see image: ["Buck Mulligan"](http://imageshack.us/photo/my-images/259/buckmulligan.jpg/)). Secondly, all of my cuts appear in different places. Which, when you think about it, makes total sense. The typset and pagination and size of the book are all different, and words and spaces are of course in different places. So, the outcome will be changed entirely, which is interesting in itself.
 
@@ -15,16 +15,15 @@ Beyond the time and exertion of the project, I am starting to question its value
 As of now, I am enjoying the poetics of the assembled lines of cut-out words. Maybe this will turn out to be the best part of all. The startling and surprising beauty of random pieces of narrative. What might they say, in the end? Here's what I've got so far:
 
 >*blessed lips.*
-*Bray Head brooding hoarsened feet.*
-*fifty-five held rotto*
-*Yes. problem. pull*
+>*Bray Head brooding hoarsened feet.*
+>*fifty-five held rotto*
+>*Yes. problem. pull*
 
 >*thimble the Greeks
-starred Paris 
-some.
-had goose softly,
-she sheep, Plasters
--No: piano dressing lengthwise*
+>starred Paris some.
+>had goose softly,
+>she sheep, Plasters
+>-No: piano dressing lengthwise*
 
 (see image: ["cut-up poetry"](http://imageshack.us/photo/my-images/829/cutuppoetry.jpg/))
 
