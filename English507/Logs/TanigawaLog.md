@@ -100,14 +100,14 @@ figure out how to turn the images into placemarkers
 ** write rationale for the use of the maps
 
 ## March 2
-* selected objects and located objects for test Google Earth layering project: 
-** Jug (Martello Tower)
-** Martello Tower (Martello Tower)
-** Redlight district materials (Monto, around Talbot, Amiens, Gardiner, and Seán McDermott St.)
-** Kidney (Dlugacz's Butcher shop a few block from 7 Eccles St.)
-** Frying pan (Bloom's house on 7 Eccles St.)
-** Sweny's soap (Sweny's pharmacy, 1 Lincoln Place, Dublin 2.) 
-** Painting of Sunbather's (Ormond Hotel Bar)
+selected objects and located objects for test Google Earth layering project: 
+* Jug (Martello Tower)
+* Martello Tower (Martello Tower)
+* Redlight district materials (Monto, around Talbot, Amiens, Gardiner, and Seán McDermott St.)
+* Kidney (Dlugacz's Butcher shop a few block from 7 Eccles St.)
+* Frying pan (Bloom's house on 7 Eccles St.)
+* Sweny's soap (Sweny's pharmacy, 1 Lincoln Place, Dublin 2.) 
+* Painting of Sunbather's (Ormond Hotel Bar)
 
 ## March 4
 * Met with Alex to finalize details for the test run.
@@ -162,12 +162,14 @@ Objects
 * I switched from manually locating the objects to doing a search for the objects in the MVP's uploaded chapters of Ulysses. where possible.
 * When chapters were not available through the MVP site, I turned to Gutenberg's Ulysses to locate the objects. 
 * The data is entered into an excel spreadsheet with the categories: Item, Location, Chapter, Passage (the passage that contains the object)
-* Objects located with all data included: 
-** ginger ale
-**  Derby mug
-** old pornography 
-** Sweny's soap
-** kidney
+
+Objects located with all data included: 
+
+* ginger ale
+*  Derby mug
+* old pornography 
+* Sweny's soap
+* kidney
  
 ## March 15
 * Neatline sandbox Ulysses mapping 
@@ -175,8 +177,8 @@ Objects
 * The timeline function could be very helpful for expressing the historical context of objects
 
 ## March 19 
-* Meeting with Alex
-** Katie to: locate objects, decide method for ratio of place/time for 3D map, figure out ratios
+Meeting with Alex
+* Katie to: locate objects, decide method for ratio of place/time for 3D map, figure out ratios
 * Confirm the use of Neatline
 * Transfer data from Google Earth 
 
@@ -196,3 +198,15 @@ Locating Objects: https://drive.google.com/?tab=mo&authuser=0#folders/0B2khyjALk
 * frying pan 
 * blood
 
+## March 24
+Finished locating objects
+*Uploaded new google doc file with item data model: https://docs.google.com/spreadsheet/ccc?key=0AmkhyjALkRHMdDJ1UHBveWlqZjI0OVpQS2tPcnVKb3c#gid=0
+
+## March 25 
+Adding information about objects' historical signficance: 
+* Army recruiting poster (Irish conscription into the British Army)
+* Leah the forsaken (play John Augustin Daly 1862)
+* pennies (1825 Act of Parliament that made standardized Irish currency as British currency)
+* Martello Tower (one for 50-plus that were built by the English as a defense against Napoleon)
+* blood on Thomas Street (reference to Robert Emmet who was hung for treason in 1803)
+* Cochrane's ginger ale (ginger ale was developed in Ireland in 1852 and exported to America in 1866)
