@@ -23,7 +23,7 @@ I repeated the process with a few more timed readings and cuts. The results prov
 > "Come up, [and] look.
 > Stephen stood up and went over to the parapet."
 
-> "The aunt thinks you killed your [beg] from these swine. I'm the only one that knows what you are." (see image: ["Cut 2](http://imageshack.us/photo/my-images/600/cut2z.jpg/))
+> "The aunt thinks you killed your [beg] from these swine. I'm the only one that knows what you are." (see image: ["Cut 2"](http://imageshack.us/photo/my-images/600/cut2z.jpg/))
 
 > "Young shouts of moneyed voices in Clive Kempthorpe's [boomed] out the stairhead"
 
