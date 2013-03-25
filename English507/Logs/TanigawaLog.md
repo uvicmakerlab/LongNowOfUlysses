@@ -214,5 +214,5 @@ Adding information about objects' historical signficance:
 This might be redundant, but I am locating items on Google Earth as well just in case difficulties setting up NeatLine persists. At the very least, this way we will have the exact coordinates for all the items. 
 * The linked images are all placeholders till we have images of the exhibit items. 
 * A special surprise: if you do a Google search for gorgonzola cheese 1904, the fourth image that comes up is a picture of an early edition of Ulysses. 
-* Modified and updated the data model for the tactile map
+* Modified and updated the [data model](https://docs.google.com/spreadsheet/ccc?key=0AmkhyjALkRHMdEVBa1hacXFBb2Rpc255ZGVWUUd6aGc#gid=0) for the tactile map
 * Current chapter and novel word count from: [Ian Gunn and Mark Wright's "Visualizing Ulysses"] (http://hjs.ff.cuni.cz/archives/v7/essays/gunn.htm)
