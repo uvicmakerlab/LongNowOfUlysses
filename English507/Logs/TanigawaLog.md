@@ -212,3 +212,7 @@ Adding information about objects' historical signficance:
 * Cochrane's ginger ale (ginger ale was developed in Ireland in 1852 and exported to America in 1866)
 
 This might be redundant, but I am locating items on Google Earth as well just in case difficulties setting up NeatLine persists. At the very least, this way we will have the exact coordinates for all the items. 
+* The linked images are all placeholders till we have images of the exhibit items. 
+* A special surprise: if you do a Google search for gorgonzola cheese 1904, the fourth image that comes up is a picture of an early edition of Ulysses. 
+* Modified and updated the data model for the tactile map
+* Current chapter and novel word count from: [Ian Gunn and Mark Wright's "Visualizing Ulysses"] (http://hjs.ff.cuni.cz/archives/v7/essays/gunn.htm)
