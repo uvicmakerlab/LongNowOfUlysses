@@ -16,7 +16,7 @@
 * Configured WMS on geoserver.
 * Added neatline workspace.
 * Added .gif file as stores (the GeoTiff data from ArcMap appears to be formatted in a way that GeoServer doesn't like--so it refuses to import the GeoTiff files).
-* Converted .gis stores into layers.
+* Converted .gif stores into layers.
 * Streamed layers from geoserver to nealine maps using WMS.
 
 ##Issues with map streaming
