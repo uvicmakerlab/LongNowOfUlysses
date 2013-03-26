@@ -24,5 +24,5 @@ There are four layers of ephemera that can be activated by approaching a panel: 
 
 ## Kinect Demo
   
-!(https://www.dropbox.com/sh/cnwb8ulbyri6dnr/fSQDFycDpj/2013-03-15%2020.36.29.jpg)  
-!(https://www.dropbox.com/s/0j0judltizjfgil/2013-03-15%2020.44.12.jpg)
+(https://www.dropbox.com/sh/cnwb8ulbyri6dnr/fSQDFycDpj/2013-03-15%2020.36.29.jpg )  
+(https://www.dropbox.com/s/0j0judltizjfgil/2013-03-15%2020.44.12.jpg )
