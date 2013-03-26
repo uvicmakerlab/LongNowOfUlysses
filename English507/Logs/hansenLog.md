@@ -18,6 +18,7 @@ This is actually really exciting. I saw Timeline in action via LD's project, and
 Because Timeline renders spreadsheet data, I was able to copy and paste some of my existing data from Sreadsheet Mapper to my new JS sheet. This is saving me so much trouble! 
 
 ![new data set](http://imageshack.us/a/img4/4097/picture7mr.png)
+![my timeline](http://img707.imageshack.us/img707/864/picture3ee.png)
 
 What I have so far looks wonderful, and Timeline seems to be running really smoothly. Also, I am using a screen shot of my Google Map (literally hours and hours in the making) in the timeline, so all of that learning and prep work was not wasted. 
 
