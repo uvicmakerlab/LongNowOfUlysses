@@ -13,7 +13,6 @@ As for the 3D model, I've taken several photographs for each component (metadata
 ![card slide bottom](http://img545.imageshack.us/img545/4549/screenshot20130325at327.png)  
 
 
-
 ![card slide top](http://img822.imageshack.us/img822/6536/screenshot20130326at120.png)  
 
 I've also been filming the above processes for inclusion in my final portfolio.  
