@@ -1,16 +1,16 @@
 #Mar25
 ##Worked on tactile map worlfow
 * Produced displacement map from map scan (imported into Photoshop>exported layer with highest contrast>increased contrast of layer and saved as .tiff).
-* Sculped plane using displacement map.
+* Sculped plane in Mudbox using displacement map.
 * Scaled map to emphasize sculpted features.
 * Sculpted temporal deformations using bulge tool. I referenced Katie's quantified temporality data in order to scale the deformations appropriately.
-* Exported prototype as turntable movie and uploaded to Google Drive.
+* Exported prototype from Mudbox as turntable movie and uploaded to Google Drive.
 
 #Mar24
 ##Worked on georeferencing historical maps
-* Installed ArcGis (trail edition).
+* Installed ArcGis (trial edition).
 * Imported historical map image and used georeferencing tool to geolocate map.
-* Exported as GeoTiff and .gis files.
+* Exported as GeoTiff and .gif files.
 
 ##Worked on streaming maps using geoserver.
 * Configured WMS on geoserver.
