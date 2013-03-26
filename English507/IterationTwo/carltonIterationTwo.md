@@ -27,7 +27,7 @@ Once I had completed a working, web-readable version of "Penelope," I wrote a sm
 
 4. I copied the above process to mark-up and express the remaining 9 extracts, and then began to work on implementing a white-space fix a little more fervently.
 
-5. I disocvered that using the white-space: pre; tag in CSS *does* work, but requires me to *not* use per-pixel indent commands alongside it. As soon as I shuffled stuff around, it worked! Yatta! The first finished text was Penelope. I adjusted font-size to suit the new formatting, too.
+5. I discovered that using the white-space: pre; tag in CSS *does* work, but requires me to *not* use per-pixel indent commands alongside it. As soon as I shuffled stuff around, it worked! Yatta! The first finished text was Penelope. I adjusted font-size to suit the new formatting, too.
 
 6. I went through and implemented the above white-space fix to the remaing 17 extracts, some of which required extensive reworking. This took a really long time.
 
