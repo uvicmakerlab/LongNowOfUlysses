@@ -20,7 +20,7 @@ There are four layers of ephemera that can be activated by approaching a panel: 
   
 ## Layout Sketch:
   
-!(https://www.dropbox.com/sh/cnwb8ulbyri6dnr/L5eY_RY5uP/Exhibit%20layout.pdf)
+(https://www.dropbox.com/sh/cnwb8ulbyri6dnr/L5eY_RY5uP/Exhibit%20layout.pdf)
 
 ## Kinect Demo
   
