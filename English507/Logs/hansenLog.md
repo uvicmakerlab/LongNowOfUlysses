@@ -15,7 +15,7 @@ This is actually really exciting. I saw Timeline in action via LD's project, and
 
 ####Interoperability -- A Nice Surprise
 
-Because Timeline renders spreadsheet data, I was able to copy and paste some of my existing data from Sreadsheet Mapper to my new JS sheet. This is saving me so much trouble! 
+Because Timeline renders spreadsheet data, I was able to copy and paste some of my existing data from Spreadsheet Mapper to my new JS sheet. This is saving me so much trouble! 
 
 ![new data set](http://imageshack.us/a/img4/4097/picture7mr.png)
 ![my timeline](http://img707.imageshack.us/img707/864/picture3ee.png)
