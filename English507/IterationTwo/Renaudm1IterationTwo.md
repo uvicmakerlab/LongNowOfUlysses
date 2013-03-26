@@ -26,3 +26,10 @@ There are four layers of ephemera that can be activated by approaching a panel: 
   
 (https://www.dropbox.com/sh/cnwb8ulbyri6dnr/fSQDFycDpj/2013-03-15%2020.36.29.jpg )  
 (https://www.dropbox.com/s/0j0judltizjfgil/2013-03-15%2020.44.12.jpg )
+
+## Questions for Workshop:
+   
+  1 - Are these blurbs clear enough to be meaningful yet assimilable in an exhibit 
+		setting?
+	2 - What would the value of seeing a screen grab of the patch? 
+	3 - Thoughts on the new title: Sonic-Ephemeris: Ulysses 
