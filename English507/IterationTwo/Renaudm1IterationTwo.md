@@ -1,6 +1,6 @@
 # Iteration TWo
 
-## Thinking about Visibility of Process:
+## Visibility of Process:
   
 I am thinking about creating a small, discreet explanation of what is going on with the sound. On it I am thinking about having the tagline, abstract, a screen grab of the patch, and explanation of the types of sounds of how they're triggered. For the second iteration I would like to get feedback on what should and shouldn't be included on this page. 
 
