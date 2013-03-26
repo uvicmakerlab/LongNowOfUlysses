@@ -1,5 +1,44 @@
 #Hansen (s)Log 
 
+
+##23 March
+
+Good news: Google spreadsheet has sorted itself out. However, I am no longer content with using GE or Maps. Because Neatline (my preferred option) is out of the running for good, I am having to forsake the timeline aspect of my look at *Ulysses* translations. That is no good. I have tried to create a path to my points in Google Earth, but it is not effective. I am not at all happy with the aesthetic or function. So, I have decided to scrap the map, and opt for the timeline instead. 
+
+###My New Interface
+
+I will now be using TimelineJS for UlyssesAfterlives
+
+![TimelineJS](http://imageshack.us/a/img255/2396/picture6cf.png)
+
+This is actually really exciting. I saw Timeline in action via LD's project, and I was and am impressed by the app's aesthetic. The timeline transitions really smoothly, and it seems to allow various media with few problems (unlike GE, which wouldn't display my images). 
+
+####Interoperability -- A Nice Surprise
+
+Because Timeline renders spreadsheet data, I was able to copy and paste some of my existing data from Sreadsheet Mapper to my new JS sheet. This is saving me so much trouble! 
+
+![new data set](http://imageshack.us/a/img4/4097/picture7mr.png)
+
+What I have so far looks wonderful, and Timeline seems to be running really smoothly. Also, I am using a screen shot of my Google Map (literally hours and hours in the making) in the timeline, so all of that learning and prep work was not wasted. 
+
+
+##22 March
+
+I have been trying to work on my spreadsheet for Google Earth/Maps, but I can't generate a KML file -- Google says I am running too many scripts simulaneously for my account. 
+
+![Google error](http://imageshack.us/a/img577/1976/picture5sx.png)
+
+I Googled it, and so far one other person has reported that error (on StackOverflow), but no one has answered. I am pretty much crippled by that error at this point.  
+
+##19 March
+
+Neatline isn't working for me. I managed to set up a local server, run Omeka 1.5 (minimum requirement for Neatline), and install the Neatline plugin. However, it did not show up on my dashboard. 
+
+![Neatline dashboard](http://imageshack.us/a/img341/4424/picture4xic.png)
+
+JS offered to set up a sandbox on his website, but that too fails to show the plugin. I must make another choice, and soon. 
+
+
 ##16 March
 
 I have decided -- after seeing [Neatline](http://neatline.org) in action at Bethany Nowviskie's workshop -- to give installing Neatline a try. Having never done anything like this, it has ended up being quite dramatic. 
@@ -29,10 +68,6 @@ I have decided -- after seeing [Neatline](http://neatline.org) in action at Beth
 ####All of the screens:
 
 ![all the screens](http://imageshack.us/a/img687/6374/picture2ap.png)
-
-####Neatline installed:
-
-![Omeka dashboard](http://img715.imageshack.us/img715/7812/picture7qt.png)
 
 
 ##14 March
