@@ -180,9 +180,11 @@ Feeling more focussed already.
 
 I deleted a template and could not get it back when I was playing around with my data model, so I have copied and pasted info into a new spreadsheet. I have learned my lesson: just don't delete things. 
 
-[My new data model.](https://docs.google.com/spreadsheet/ccc?key=0Ap8FIppSqxLDdFJZakxSM3ROZzMxU25FNjZuelktU1E&usp=sharing)
+![My new data model](http://imageshack.us/a/img594/4774/datamodelsm3.png)
 
 Will continue sourcing material for map. I happened upon a [SUNY Buffalo exhibit](http://library.buffalo.edu/pl/exhibits/joycebloomsday/caseXII/index.html) that chronicles some of the translations of *Ulysses* -- it seems a good place to start (will give me the chance to accumulate some easily accessible data before moving on to film adaptations and theatrical productions). 
+
+![SUNY exhibit](http://imageshack.us/a/img827/8058/sunyj.png)
 
 
 ##9 February
@@ -233,7 +235,9 @@ I admit that I am beginning to feel the possibility of disappointment regarding 
 
 ##22 January
 
-I love the idea of the relational in an exhibit -- like reader response in a museum/gallery environment. This is why I am still eager to incorporate smell into the exhibit. Apparently, the sense which connects most closely with memory and emotion is smell (and Joyce was into all of the senses). This isn't new -- see John Harris's 1979 essay ["Oral and Olfactory Art"](http://www.jstor.org/discover/10.2307/3331746?uid=3739400&uid=2129&uid=2&uid=70&uid=3737720&uid=4&sid=21101797393497) -- but it is also avant-garde in the art scene -- see New York's [Museum of Art and Design](http://www.madmuseum.org/events/design-and-structure-olfactory-art-1). 
+I love the idea of the relational in an exhibit -- like reader response in a museum/gallery environment. This is why I am still eager to incorporate smell into the exhibit. Apparently, the sense which connects most closely with memory and emotion is smell (and Joyce was into all of the senses). This isn't new -- see John Harris's 1979 essay ["Oral and Olfactory Art"](http://www.jstor.org/discover/10.2307/3331746?uid=3739400&uid=2129&uid=2&uid=70&uid=3737720&uid=4&sid=21101797393497) -- but it is also avant-garde in the art scene -- see New York's Museum of Art and Design.
+
+![olfactory art](http://imageshack.us/a/img842/9524/olfactory.png)
 
 
 ##21 January
