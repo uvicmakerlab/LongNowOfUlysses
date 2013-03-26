@@ -12,14 +12,14 @@
 * Imported historical map image and used georeferencing tool to geolocate map.
 * Exported as GeoTiff and .gif files.
 
-##Worked on streaming maps using geoserver.
+##Worked on streaming maps using geoserver
 * Configured WMS on geoserver.
 * Added neatline workspace.
 * Added .gif file as stores (the GeoTiff data from ArcMap appears to be formatted in a way that GeoServer doesn't like--so it refuses to import the GeoTiff files).
 * Converted .gis stores into layers.
 * Streamed layers from geoserver to nealine maps using WMS.
 
-##Issues with map streaming.
+##Issues with map streaming
 * Geoserver doesn't play nice with ArcGis GeoTiffs (partially resolved by using .gif instead).
 * Neatline wasn't pulling the maps from Geoserver (resolved by adding /wms? to GeoServer URL).
 * The coordinates for the maps I'm streaming from Geoserver are wrong. My historical map layers are showing up in the wrong locations (unresolved).
