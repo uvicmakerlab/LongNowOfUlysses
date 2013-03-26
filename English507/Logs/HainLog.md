@@ -14,7 +14,7 @@ Having compiled the photographs necessary to 3D model each component, I spent th
 
 I put on three coats, which ended up being more like 5 applications, because only a few surfaces are accesible at a time, and because you have to wait for a surface to dry before flipping it. Here is a shot of the freshly stained components:
 
-![stained components](http://img51.imageshack.us/img51/476/screenshot20130325at354.png) (the Fitzgerald book was there to support the video camera; I used the mason jar to keep hardware from rolling away.)  
+![stained components](http://img51.imageshack.us/img51/476/screenshot20130325at354.png)   
 
 I let it all dry overnight and assembled the stereoscope Sunday morning. [Here's](http://img21.imageshack.us/img21/5379/screenshot20130325at356.png) a close-up of the lenses and lens board pre-assembly, and [here's](http://img138.imageshack.us/img138/5379/screenshot20130325at356.png) me screwing in the pedestal to the nearly-completed stereoscope. Finally, there's this:
 
