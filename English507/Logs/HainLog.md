@@ -1,5 +1,33 @@
 # Bloom Vision -- Log  
 
+## Modeling and Making
+
+25 March, 2013
+
+I spent this past Friday at the Maker Lab photographing the stereoscope components for 3D modeling purposes. Since some of these -- namely the card slide and the lens board -- come in the kit preassembled, I first had to take some things apart. Then I set up a stool with some newspaper for contrast and a green screen, a video camera for documentation, and started to take pictures -- about 20 side-angle shots and up to 20 high-angle shots, plus close-ups of any unusual details -- of each stereoscope component.
+
+![taking pictures](http://img855.imageshack.us/img855/5179/screenshot20130325at352.png)  
+
+Because of the sheer amount of photographs -- 7 components with up to 40 shots per component -- my data model had to be revised. Entering simple metadata like file name, type, date, and component name for each of these shots when so much of this information is common between items (i.e. they're all JPEGs, all composed on March 22) seemed daunting and senseless. On my workstation, I have the data organized in folders by component name, and my [new data model](https://drive.google.com/?tab=mo&authuser=0#folders/0B1d25Z0nufmWdjRMdFJucnJDRU0) is actually just screen shots of the contents of each of these folders (this just as effectively conveys metadata like file name, type *etc.* and saves a lot of unnecessary data entry). 
+
+Having compiled the photographs necessary to 3D model each component, I spent the weekend staining and assembling the stereoscope. [Here's](http://img850.imageshack.us/img850/476/screenshot20130325at354.png) me cutting up a t-shirt, and [here's](https://docs.google.com/file/d/0B1d25Z0nufmWUnFXRlBSVmg2MGM/edit?usp=sharing) some footage of me applying a first coat to some surfaces. Important, if obvious tip: make sure to do this kind of thing in a properly ventilated space.
+
+I put on three coats, which ended up being more like 5 applications, because only a few surfaces are accesible at a time, and because you have to wait for a surface to dry before flipping it. Here is a shot of the freshly stained components:
+
+![stained components](http://img51.imageshack.us/img51/476/screenshot20130325at354.png) (the Fitzgerald book was there to support the video camera; I used the mason jar to keep hardware from rolling away.)  
+
+I let it all dry overnight and assembled the stereoscope Sunday morning. [Here's](http://img21.imageshack.us/img21/5379/screenshot20130325at356.png) a close-up of the lenses and lens board pre-assembly, and [here's](http://img138.imageshack.us/img138/5379/screenshot20130325at356.png) me screwing in the pedestal to the nearly-completed stereoscope. Finally, there's this:
+
+![finished stereoscope](http://img23.imageshack.us/img23/9566/screenshot20130325at357.png)  
+
+Today was considerably more high-tech and consisted of capturing/ stitching together a 3D model for my first stereoscope component. [Here](http://img69.imageshack.us/img69/6079/cardslidebottomobjtex0.jpg) is a screen shot of the card slide bottom before I had completely cropped out background interference. And here are some shots of the cropped and exported 3D model:
+
+![](http://img69.imageshack.us/img69/2535/screenshot20130325at334.png)
+
+![](http://img19.imageshack.us/img19/2535/screenshot20130325at334.png)
+
+![](http://img545.imageshack.us/img545/4549/screenshot20130325at327.png)
+
 ## A day in UVic Special Collections  
 
 13 March, 2013  
