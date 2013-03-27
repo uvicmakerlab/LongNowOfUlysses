@@ -10,7 +10,7 @@ A pretty clunky and distant relative to what we have now, but worth noting, I th
 
 Fast forward a few months and the Joyce Bot is an integral part of our project. As we've noted, the Joyce Bot is a really great way to bring out the satirical and critical elements of the project that, we felt, was missing in our wireframes. It's too bad that we didn't have the idea ready in time for Games Without Frontiers--I think we would have received a different reaction from viewers. 
 
-My girlfriend offered to help out with some more illustrations, which is fantastic. I scanned the images this morning, and started plunking them into the wire frames. Here are the images: 
+My girlfriend offered to help out with some more illustrations, which is fantastic. I scanned the images this morning, and started plunking them into the wire frames. Pardon the giant images! Here they are: 
 
 ![Joyce One](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/ca379881ab38d4678534b213acb40cc21d187661/JoyceBotLean.jpg)
 
