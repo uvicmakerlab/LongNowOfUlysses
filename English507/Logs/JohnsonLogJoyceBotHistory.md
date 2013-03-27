@@ -2,7 +2,7 @@
 
 Given that the Joyce Bot is a crucial (albeit late) addition to our project, I thought it would be good to give a brief little history or workflow of how we've incorporated him into our project. I was trying to have this uploaded to Github for class today, but my GitHub client was acting up--it turns out that it was indeed an EEE specific problem (an error in my Github shell or something). 
 
-As mentioned in the log that brought you here, we briefly talked about the Joyce Bot way back in February. I had to dig through some emails to find the original wireframe (from February 8th). To be sure, this "bot" was pretty different than what it is now--essentially a picture of Joyce that would give helpful tips on how to navigate the site etc. It was scrapped pretty quickly (by both of us), but it's interesting, I think, that the idea was considered so early in the process. Here's the wireframe: 
+As mentioned in Iteration 2, we briefly talked about the Joyce Bot way back in February. I had to dig through some emails to find the original wireframe (from February 8th). To be sure, this "bot" was pretty different than what it is now--essentially a picture of Joyce that would give helpful tips on how to navigate the site etc. It was scrapped pretty quickly (by both of us), but it's interesting, I think, that the idea was considered so early in the process. Here's the wireframe: 
 
 ![Early "Bot"](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/johnson/English507/Logs/PngFiles/ReadingSchedVis%20%281%29_2.png)
 
