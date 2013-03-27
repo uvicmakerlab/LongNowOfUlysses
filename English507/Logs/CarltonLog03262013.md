@@ -4,4 +4,4 @@
 
 I'm VERY happy that I've met all my project goals thus far. This all went exactly according to plan, but definitely better than expected!
 
-3. WOOT!
+WOOT!
