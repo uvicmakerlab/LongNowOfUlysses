@@ -1,4 +1,4 @@
-## Reflections After Iteration Two:
+## Reflections After Iteration Two
 
 The last workshop in the term helped me gain clarity about how to resolve some open design questions and about what final details still need to be taken care of. At this point, i.e. at the time of the second iteration and workshop, I have added a fourth network to the already existing three in order to include those constant contributors, such as Joyce's aunt Josephine Murray, who were his "research assistants" in Dublin during the entire period of the composition of the novel—a period in which Joyce barely ever set foot back on Irish soil and thus relied heavily on people doing research for him in his hometown: 
 ![](https://dl.dropbox.com/u/11381261/DublinNetwork.png)
