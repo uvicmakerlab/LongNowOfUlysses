@@ -1,3 +1,9 @@
+#Mar26
+##Status Update
+* Neatline works (and will soon work on me webspace). Neatline maps can work with a bit more time, but will still only run locally.
+* Because of issues surrounding geoserver hosting, we are currently looking at iterating our Google Earth work for our final presentation. A webcast seems to be the most persuasive option. We'll also look into possibilities for deploying our map data online.
+* Once we have more points entered on the tactile map in Mudbox, the model will be fabrication ready.
+
 #Mar25
 ##Worked on tactile map worlfow
 * Produced displacement map from map scan (imported into Photoshop>exported layer with highest contrast>increased contrast of layer and saved as .tiff).
@@ -7,26 +13,30 @@
 * Exported prototype from Mudbox as turntable movie and uploaded to Google Drive.
 
 #Mar24
+##Status update
+* Deploying map layers as items does not work in Neatline (since the scale of the images isn't fixed). Map layers that exist as records become very large (larger than Dublin, itself) when the use zooms out of the map.
+* If we want to work with Neatline, then we must use the Neatline Maps plugin. I began work with this today.
+
 ##Worked on georeferencing historical maps
 * Installed ArcGis (trial edition).
 * Imported historical map image and used georeferencing tool to geolocate map.
 * Exported as GeoTiff and .gif files.
 
 ##Worked on streaming maps using geoserver
-* Configured WMS on geoserver.
+* Configured WMS on local geoserver.
 * Added neatline workspace.
 * Added .gif file as stores (the GeoTiff data from ArcMap appears to be formatted in a way that GeoServer doesn't like--so it refuses to import the GeoTiff files).
 * Converted .gif stores into layers.
-* Streamed layers from geoserver to nealine maps using WMS.
+* Streamed layers from geoserver to nealine maps using WMS. This works.
 
 ##Issues with map streaming
 * Geoserver doesn't play nice with ArcGis GeoTiffs (partially resolved by using .gif instead).
 * Neatline wasn't pulling the maps from Geoserver (resolved by adding /wms? to GeoServer URL).
-* The coordinates for the maps I'm streaming from Geoserver are wrong. My historical map layers are showing up in the wrong locations (unresolved).
+* The coordinates for the maps I'm streaming from Geoserver are wrong. My historical map layers are showing up in the wrong locations (unresolved). Next steps are to change the coordinate system being used for geeoreferncing in ARCGis.
 
 ##Next steps
-* Try GIS work with another Gis program (instead of ArcGis). I'm currently looking at GRASS GIS.
-* Look into geoserver hosting. I remember stumbling across free trail hosting for 30 days on a geoserver site. I need to track that down again.
+* Try GIS work with another GIS program (instead of ArcGis). I'm currently looking at GRASS GIS.
+* Look into geoserver hosting. I remember stumbling across free trail hosting for 30 days on a geoserver site. I need to track that down again. Update: the free trail of the service does not support raster images (.gifs and GeoTiffs).
 
 #Mar23
 * Still no work from helpdesk. No surprise. We'll use the local instance of Neatline for our final draft iteration.
