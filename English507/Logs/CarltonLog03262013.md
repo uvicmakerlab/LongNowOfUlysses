@@ -5,3 +5,5 @@
 I'm VERY happy that I've met all my project goals thus far. This all went exactly according to plan, but definitely better than expected!
 
 WOOT!
+
+As a reminder, everything is live here: http://web.uvic.ca/~dcarlton/extracts/complete/longernowsite/
