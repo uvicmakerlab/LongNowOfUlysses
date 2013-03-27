@@ -1,9 +1,9 @@
 #Mar26
 ##Status Update
-* Neatline works (and will soon work on my webspace). Neatline maps can work with a bit more time, but will still only run locally (unless we pay for geoserver hosting).
+* Neatline works (and will soon work on my webspace). Map streaming using Neatline maps works (although the coordinate issue will take a bit more work to resolve, perhaps solved by switching coordinate system in ArcGIS or by using GRASS GIS instead). Neatline maps will still only run locally (unless we pay for geoserver hosting).
 * Because of issues surrounding geoserver hosting, we are currently looking at iterating our Google Earth work for our final presentation. A webcast seems to be the most persuasive option. We'll also look into possibilities for deploying our map data online.
 * Once we have more points entered on the tactile map in Mudbox, the model will be fabrication ready.
-* For our final iteration of the tactile map, I plan to implement Katie's temporality ratios in Mudbox by adjusting the values for the strength and size of the bulge tool.
+* For our final iteration of the tactile map, aI plan to implement Katie's temporality ratios in Mudbox by adjusting the values for the strength and size of the bulge tool.
 
 
 #Mar25
