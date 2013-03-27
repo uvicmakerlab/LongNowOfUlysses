@@ -20,5 +20,7 @@ My girlfriend offered to help out with some more illustrations, which is fantast
 
 Incorporating the images into the wireframes was a bit tricky. I didn't want to have a white box around the Joyce figure (this would cut into images in the wireframes), so I had to modify them as photoshop files to allow for blank space (blank space cant exist with jpegs: blank=white). Unfortunately, Balsamiq doesn't support psb files! So, I ended up exporting the wireframes as pngs and importing them into photoshop, then past the psb Joyce overtop. In retrospect, pretty simple, but it was a bit of a headache at the time. I'm pretty pleased with the final product. Using text in photoshop is a horrible chore, so the text bubbles were a bit finicky, but nothing too crazy. I'm a little wary at how we are at incorporate these images into the video... I *think* final cut pro supports psbs, but I'm not 100% sure. Regardless, the animating might be a whole different process, so that all remains to be seen. 
 
+As for the speech bubbles themselves, I incorporated some of the suggestions made by Stephen Ross and Alex Christi, who both very helpfully pointed us in the right direction for quotations from the text. In addition to this, I browsed through the Gutenburg online edition for some quotes that pertained to the wireframes we chose to incorporate the bot with. And, of course, I made the meatbag thing up. 
+
 The final Joyce Bot frames can, of course, be found here: (https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/IterationTwo/HyperLitWireframesBot.md) 
 
