@@ -16,7 +16,7 @@
 
 #Mar24
 ##Status update
-* Deploying map layers as items does not work in Neatline (since the scale of the images isn't fixed). Map layers that exist as records become very large (larger than Dublin, itself) when the use zooms out of the map.
+* Deploying map layers as items does not work in Neatline (since the scale of the images isn't fixed). Map layers that exist as records become very large (larger than Dublin, itself) when the user zooms out of the map.
 * If we want to work with Neatline, then we must use the Neatline Maps plugin. I began work with this today.
 
 ##Worked on georeferencing historical maps
