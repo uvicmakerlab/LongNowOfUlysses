@@ -24,17 +24,17 @@ Over the next few days we'll be editing the video. Selecting and piecing togethe
 
 ![Consulting on Scene](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/HyperLitShoot4.JPG)
 
-Jon here! Here are some more photos from the shoot yesterday. To echo Nina, it was a long day, but we got a ton of good footage. Everyone did a really great job, and we are super grateful to everyone who came out and helped out: Travis VanderVelden, Alex Christie, Shaun Macpherson, Arthur Hains, Adele Barclay, and Michael Stevens. 
+Jon here! Here are some more photos from the shoot yesterday. To echo Nina, it was a long day, but we got a ton of good footage. Everyone did a really great job, and we are super grateful to everyone who came out and helped out. Many thanks to Travis VanderVelden (for bringing us a basketball), Alex Christie (for providing the iPad), Shaun Macpherson (for basketball skills), Arthur Hains (for additional basketball skills), Adele Barclay (for acting in the board room scene), Jentery Sayers (for letting us film in the MakerLab) and Michael Stevens (for, of course, starring in this little piece). 
 
 Action shot!
 ![Basketball action](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball2.jpg)
 
-The BasketBall gang
+The BasketBall Gang
 ![Basketball Dudes](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball1.jpg)
 
 Nina Direction, Travis staring into camera
 ![Directing](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball4.jpg)
 
-The Bored Room scene--pun intended
+The Bored Room Scene (pun intended)
 ![BoardRoom](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/BoredRoom.jpg) 
 
