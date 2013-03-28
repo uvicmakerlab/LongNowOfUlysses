@@ -18,8 +18,23 @@ On a side note - one thing I did learn shooting this video: *Farmville* really i
 
 ![Farmville](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/HyperLitShoot3.JPG)
 
-From an acting perspective, most of the scenes show Michael quite engaged and interacting with the Joyce Bot. I hand't envisioned him interacting with the bot quite as much, but when Michael did not show strong reactions or pretend to communicate with the bot the scenes seemed boring and we were worried that it wouldn't be clear what was happening. It will be interesting to see how we can incorporate the Joyce Bot illustrations into the scenes when we edit the video.
+From an acting perspective, most of the scenes show Michael quite engaged and interacting with the Joyce Bot. I hadn't envisioned him interacting with the bot quite as much, but when Michael did not show strong reactions or pretend to communicate with the bot the scenes seemed boring and we were worried that it wouldn't be clear what was happening. It will be interesting to see how we can incorporate the Joyce Bot illustrations into the scenes when we edit the video.
 
 Over the next few days we'll be editing the video. Selecting and piecing together the footage should not take too long, since we have a fairly detailed storyboard to work from. The challenge will be to incorporate the Joyce Bot. Right now, we're thinking that we'll simply place static illustrations of the bot into the video and add speech bubbles. We will also need to see how and if the Joycean commentary works once we incorporate it into the video narrative. We may need to solicit the helpful Joyce experts to come up with more commentary that is not just funny, but draws out the intended satire that will hopefully communicate the critique we are aiming for.
 
 ![Consulting on Scene](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/HyperLitShoot4.JPG)
+
+Jon here! Here are some more photos from the shoot yesterday. To echo Nina, it was a long day, but we got a ton of good footage. Everyone did a really great job, and we are super grateful to everyone who came out and helped out: Travis VanderVelden, Alex Christie, Shaun Macpherson, Arthur Hains, Adele Barclay, and Michael Stevens. 
+
+Action shot!
+![Basketball action](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball2.jpg)
+
+The BasketBall gang
+![Basketball Dudes](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball1.jpg)
+
+Nina Direction, Travis staring into camera
+![Directing](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball4.jpg)
+
+The Bored Room scene--pun intended
+![BoardRoom](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/BoredRoom.jpg) 
+
