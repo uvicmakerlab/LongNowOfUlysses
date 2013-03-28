@@ -32,7 +32,7 @@ Action shot!
 The BasketBall Gang
 ![Basketball Dudes](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball1.jpg)
 
-Nina Direction, Travis staring into camera
+Nina Directing, Travis Definatly Staring into the Camera 
 ![Directing](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/HyperLitDocumentation/Basketball4.jpg)
 
 The Bored Room Scene (pun intended)
