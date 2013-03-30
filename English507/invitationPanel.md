@@ -1,4 +1,6 @@
-#Invitation to In-Process Panels (2 April 2013) | emailed 30 March 2013
+# Invitation to In-Process Panels (2 April 2013) 
+
+(emailed 30 March 2013)
 
 Hello, everyone. I hope you're enjoying this wonderful weather. 
 
