@@ -1,5 +1,14 @@
 # Bloom Vision -- Log  
 
+## What I stumbled upon
+
+30 March, 2013
+
+[stereoscopic photographs of Dublin, 1894](http://www.freewebs.com/jb3d/apps/photos/album?albumid=154039).  
+
+Apparently the Photographic Convention of the United Kingdom met in 1894 in Dublin, during which time Alfred Seaman took some stereoscopic photographs of the city. Some of these include [Parnell's grave](http://www.freewebs.com/jb3d/apps/photos/photo?photoid=2447692), [Trinity College](http://www.freewebs.com/jb3d/apps/photos/photo?photoid=2447681) and a [Turkish bath](http://www.freewebs.com/jb3d/apps/photos/photo?photoid=2450065). These would definitely fit in well with Bloom Vision, as they offer stereoscopic views of major landmarks in Dublin only ten years prior to *Ulysses*'s setting. As an advertising clerk whose daughter studies photography, Bloom could very well have been at this convention and seen these very photographs. Anyway, Joyce almost certainly would have known about it. In short, I'm very, very excited about this find.  
+
+
 ## Modeling and Making
 
 25 March, 2013
