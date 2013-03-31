@@ -15,7 +15,7 @@ I hope to get in touch with someone at the Helpdesk or something to see if I can
 
 Another thing I am increasingly interested in is the way in which my project trajectory has functioned almost as a translation of data to fit into one "language" (expression) or another. Interesting.  
 
-Oh, and I now know how to link thumbnail images from Imageshack, where I store all of my goods, thanks to my wonderful friends on the Internet. I still have some misgivings about the elitist assumptions built into digital work (DH is the hockey of humantities -- a lot of people would be really great at it if they could afford the gear), but I do not for a second doubt the democratic nature of the web. Before starting this work, I literally knew nothing about MySQL, Apache, or PHP, Filezilla, local servers v. remote servers, etc., and I have fumbled my way through with the help of kindly souls in forums (fora?) and chat rooms like this one:
+Oh, and I now know how to link thumbnail images from Imageshack, where I store all of my goods, thanks to my wonderful friends on the Internet. I still have some misgivings about the elitist assumptions built into digital work (DH is the hockey of humantities -- a lot of people would be really great at it if they could afford the gear), but I do not for a second doubt the democratic nature of the web. Before starting this work, I knew literally nothing about MySQL, Apache, or PHP, Filezilla, local servers v. remote servers, etc., and I have fumbled my way through with the help of kindly souls in forums (fora?) and chat rooms like this one:
 
 ![forum](http://imageshack.us/a/img507/834/picture4li.png)
 
