@@ -1,5 +1,17 @@
 #Hansen (s)Log 
 
+##28 & 29 March
+
+This has been a *very* eventful couple of days. After finally committing to TimelineJS, I have been trying to develop my project interface. This has not been without its trials -- tech-spec related, as usual. However, this time it is not my computer that is out of date, but rather UVic's web hosting (PHP is too old for Wordpress 3.5.1).
+
+First, I made the mistake of thinking I could set up a simple Wordpress.com blog as a project interface. I soon learned that neither Java nor embedded codes are allowed in Wordpress.com blogs. So, I decided to give my UVic webspace a try. 
+
+This makes me laugh: remember when Bethany Nowviskie brought up memoranda of understanding regarding web maintenance? At the time, I thought of my long-deactivated (I thought) UVic website that I hastily made in 2008 using Nvu. And a shiver ran down my spine at the thought that anyone might see my really bad site. Well, I went to web.uvic.ca/~ahansen, and this is what I saw:
+
+![Ms.Hansen's Webpage](http://imageshack.us/a/img32/8237/picture1wd.png)
+
+Yep. My neglected Tamagochi. 
+
 
 ##23 March
 
