@@ -14,6 +14,10 @@ Yep. My neglected Tamagochi. I took at a look at the files using Filezilla, and 
 
 ![Wordpress](http://imageshack.us/a/img442/4197/picture2te.png)
 
+The really exciting part for me is seeing the timeline in all it's glory, embedded in my UlyssesAfterlive Wordpress site:
+
+![timeline](http://imageshack.us/a/img341/1310/picture3yks.png)
+
 
 ##23 March
 
