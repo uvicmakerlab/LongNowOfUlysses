@@ -1,8 +1,9 @@
 #*HyperLit*: Gameful Design for an Open-Access Social Edition
 ##Created by Nina Belojevic and Jon Johnson 
 
-[Wireframes](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/HyperLit/HyperLitWireframesBot.md)
-[Video](https://vimeo.com/63042384)
+View [Wireframes](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/HyperLit/HyperLitWireframesBot.md)
+
+View [Video](https://vimeo.com/63042384)
 
 -------------
 
