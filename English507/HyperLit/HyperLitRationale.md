@@ -1,4 +1,5 @@
-##*HyperLit*: Gameful Design for an Open-Access Social Edition
+#*HyperLit*: Gameful Design for an Open-Access Social Edition
+##Created by Nina Belojevic and Jon Johnson 
 
 Links will be here? 
 
