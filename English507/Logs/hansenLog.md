@@ -1,5 +1,21 @@
 #Hansen (s)Log 
 
+
+##30 March
+
+Now that my UlyssesAfterlives page is up and running wonderfully on my local server, I tried once more to clear out the old webpage on my university webpage. I managed to delete the old material, and replace it with my Wordpress files. Finally, an index:
+
+![index](http://img191.imageshack.us/img191/7573/picture6ku.png)
+
+Unfortunately, when I click on my Wordpress site on the index, this happens:
+
+![old PHP](http://imageshack.us/a/img42/4540/picture5ea.png)
+
+I hope to get in touch with someone at the Helpdesk or something to see if I can sort this out. I know that the MVP site runs Wordpress on the UVic webspace, and that the Maker Lab site will run on it as well. Not sure what's going on here -- is my access limited because I am a student? We'll see. 
+
+Another thing I am increasingly interested in is the way in which my project trajectory has functioned almost as a translation of data to fit into one "language" (expression) or another. Interesting.  
+
+
 ##28 & 29 March
 
 This has been a *very* eventful couple of days. After finally committing to TimelineJS, I have been trying to develop my project interface. This has not been without its trials -- tech-spec related, as usual. However, this time it is not my computer that is out of date, but rather UVic's web hosting (PHP is too old for Wordpress 3.5.1).
@@ -14,7 +30,7 @@ Yep. My neglected Tamagochi. I took at a look at the files using Filezilla, and 
 
 ![Wordpress](http://imageshack.us/a/img442/4197/picture2te.png)
 
-The really exciting part for me is seeing the timeline in all it's glory, embedded in my UlyssesAfterlive Wordpress site:
+The really exciting part for me is seeing the timeline in all it's glory, embedded in my UlyssesAfterlive Wordpress site. And it looks gooood. 
 
 ![timeline](http://imageshack.us/a/img341/1310/picture3yks.png)
 
