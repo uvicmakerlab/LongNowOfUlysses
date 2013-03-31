@@ -1,16 +1,18 @@
-#Needs Assessment (revised)
+#Needs Assessment (second revision)
 
 ##Working Title: The Afterlives of *Ulysses*
 
 ##Project Description
 
-This section of the project presents an annotated  world map which highlights the numerous and varied incarnations of *Ulysses* -- from early translations, to the [1967 film adaptation](http://www.imdb.com/title/tt0062414/), to the translation of “Ithaca” into Farsi, to the Modernist Versions Project’s [“Year of *Ulysses*”](http://web.uvic.ca/~mvp1922/) -- since 1922. In providing a visualisation of the novel’s movement around the globe over time, this section echoes the modernist fascination with time and place.       
+This section of the project presents an annotated  world map which highlights the numerous and varied incarnations of *Ulysses* -- from early translations, to the [1967 film adaptation](http://www.imdb.com/title/tt0062414/), to the Modernist Versions Project’s [“Year of *Ulysses*”](http://web.uvic.ca/~mvp1922/) -- since 1922. In providing a visualisation of the novel’s movement around the globe over time, this section echoes the modernist fascination with time and place.       
 
 ##Materials
 
 ###Software
 
-[Spreadsheet Mapper 3.0](http://www.google.ca/earth/outreach/tutorials/spreadsheet3.html) and [Google Earth](http://www.google.com/earth/index.html)
+[Spreadsheet Mapper 3.0](http://www.google.ca/earth/outreach/tutorials/spreadsheet3.html) and [Google Earth](http://www.google.com/earth/index.html) (abandoned)
+
+New software and data model: TimelineJS and Google spreadsheet
 
 ###Document(s)
 
@@ -31,12 +33,13 @@ Sample data -- [1990s? Farsi trans.];1995 Chinese trans.; 1994 Dutch trans.; 199
 
 ##Scope
 
-Spatially, my section of this project will cover the globe, and temporally, it will cover from 1922 to the present. Because of the potential volume of data with which I can work, I will attempt to limit my mapping to what I would consider to be major points -- namely, translations, and stage and film adaptations. 
+Spatially, my section of this project will cover (briefly) the globe, and temporally, it will cover from 1922 to the present. Because of the potential volume of data with which I can work, I will attempt to limit my timeline to what I would consider to be major points -- namely, translations, and stage and film adaptations. 
  
 
 ##Deliverable
 
-My project will deliver an interactive Google Earth exhibit -- linked off the geotemporal or digital exhibit website -- which will populate a world map with notable incarnations of *Ulysses* since 1922. Visitors will be able to track the movement of *Ulysses* around the globe over the 90-year period since its publication, and will also be able to access information specific to each mapped point.
+My project will deliver an interactive timeline, complete with images and metadata for the major iteratios of *Ulysses* since its publication in 1922. I will create a site for my project (using Wordpress), where I will provide the critical context of twentieth-century translation. My timeline will be embedded in a page of my website. 
+
 
 ##Risks/Constraints
 
@@ -69,4 +72,6 @@ I will require support insterting images into my annotation bubbles. As digital 
 
 1. To compile a comprehensive database of all of the translations, etc. of *Ulysses*, which includes bibliographic and contextual information.
 2. To use Google Earth to annotate the global movement of *Ulysses* since 1922.
+3. To learn how to shift focus when things are not working out, and to find alternate solutions. 
+4. To create a timeline in TimelinesJS, and embed it into a Wordpress.org site. 
 
