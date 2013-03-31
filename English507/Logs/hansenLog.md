@@ -10,7 +10,9 @@ This makes me laugh: remember when Bethany Nowviskie brought up memoranda of und
 
 ![Ms.Hansen's Webpage](http://imageshack.us/a/img32/8237/picture1wd.png)
 
-Yep. My neglected Tamagochi. 
+Yep. My neglected Tamagochi. I took at a look at the files using Filezilla, and it was a hot mess. Thus, I decided to go back to my friend(s) MAMP to set up a Wordpress.org database and site on my local server for now. After my exposure to MAMP when setting up Omeka to run Neatline (#fail), I encountered little trouble creating an interface for my project where I can embed my timeline, and also include the context of my timeline, as I have not found that timelines in general are all that conducive to the kind of critical perspective I want to bring to the translations of *Ulysses*. 
+
+![Wordpress](http://imageshack.us/a/img442/4197/picture2te.png)
 
 
 ##23 March
