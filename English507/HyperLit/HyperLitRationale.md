@@ -3,7 +3,7 @@
 
 View [Wireframes](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/HyperLit/HyperLitWireframesBot.md) (http://bit.ly/12aZLWu)
 
-View [Video](https://vimeo.com/63042384) (vimeo.com/63042384)
+View [Video](https://vimeo.com/63042384) (http://vimeo.com/63042384)
 
 -------------
 
