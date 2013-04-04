@@ -3,7 +3,7 @@
 
 ##3 April
 
-Today was breakthrough day. Yesterday, JS and the UVic Help Desk provided me with the mod for the .htaccess file that would allow me to access PHP 5 on the UVic server. Stupidly, when I edited the file, I wiped the original content, which controls permalinks, which killed two of the three pages on my localserver. Whoops. I Googled permalink code for Wordpress today, replaced the content, and reestablished my links (thank dog). 
+Today was breakthrough day. Yesterday, JS and the UVic Help Desk provided me with the mod for the .htaccess file that would allow me to access PHP 5 on the UVic server. Stupidly, when I edited the file, I wiped the original content which controls permalinks, killing two of the three pages on my localhost. Whoops. I Googled permalink code for Wordpress today, replaced the content, and reestablished my links (thank dog). 
 
 However, I was faced with this message when I attempted to go to my site on the UVic server:
 
