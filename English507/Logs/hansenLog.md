@@ -1,6 +1,31 @@
 #Hansen (s)Log 
 
 
+##3 April
+
+Today was breakthrough day. Yesterday, JS and the UVic Help Desk provided me with the mod for the .htaccess file that would allow me to access PHP 5 on the UVic server. Stupidly, when I edited the file, I wiped the original content, which controls permalinks, which killed two of the three pages on my localserver. Whoops. I Googled permalink code for Wordpress today, replaced the content, and reestablished my links (thank dog). 
+
+However, I was faced with this message when I attempted to go to my site on the UVic server:
+
+![database error](http://imageshack.us/a/img835/60/picture1osr.png)
+
+I tried to edit my wp-config file with info from the UVic server, but not totally understanding how MySQL works, I wasn't sucessful. So, I turned to my new friend Brendan at the Help Desk. After some back-and-forth re: authoring databases, etc., Brendan advised me to use my own database.
+
+![email](http://imageshack.us/a/img256/491/picture3idv.png)
+
+I checked this email tonight after work, at which time the help desk was closed. Being a bit of a pitbull, I didn't want to let this sit until tomorrow. I exported my wordpress database from MAMP and found/replaced the local urls with my new live url. I had an .sql file and nowhere to put it. What next? Google. I found a tutorial that said -- and this is so painfully obvious to me now -- that I need to access phpMyAdmin for my new server. I googled "uvic phpmyadmin" and found this:
+
+![phpmyadmin](http://img542.imageshack.us/img542/1506/picture5ih.png)
+
+I tried several times to login with my Netlink, and was unsuccessful. After trolling through some HCMC blog posts relating to UVic's phpmyadmin, I saw that the username is actually uvic\Netlink, and there is no password. And there I was in phpMyAdmin. I don't have the privilege to set up a new database, but I was able to import my wordpress database.
+
+![database](http://imageshack.us/a/img819/308/picture2bnj.png)
+
+After diddling around with possible info in my wp-config file, I finally have a live sit at http://web.uvic.ca/~ahansen/ulyssesafterlives. I am so excited. 
+
+![UlyssesAfterlives](http://imageshack.us/a/img251/4148/picture4rk.png)
+
+
 ##30 March
 
 Now that my UlyssesAfterlives page is up and running wonderfully on my local server, I tried once more to clear out the old webpage on my university webpage. I managed to delete the old material, and replace it with my Wordpress files. Finally, an index:
