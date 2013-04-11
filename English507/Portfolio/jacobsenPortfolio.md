@@ -21,8 +21,8 @@ Initially, my reflex was just to insist on the importance of the endurance of pr
 * [Visual Editions](http://www.visual-editions.com/) is an excellent example of how publishers are re-imagining print. 
 * Jonathan Safran Foer's [*Tree of Codes*](http://www.visual-editions.com/our-books/tree-of-codes) is a book that, using die-cutting, creates a new narrative from an existing text; it is truly a book that cannot be read or experienced digitally. 
 * The same goes for Adam Thirwell's [*Kapow\!*](http://www.visual-editions.com/our-books/kapow), with its unfolding pages and typographic tricks that map the trajectory of the narrative.
-* I particularly like the work of [Lauren Redness](http://www.laurenredniss.com/), especially *Radioactive* and *Century Girl*. 
-* Graham Rawle's [*Woman's World*](http://www.grahamrawle.com/womansworld/index.html), a full-length novel written entirely in collage from 1960s women's magazine, is amazing.  
+* I particularly like the work of [Lauren Redniss](http://www.laurenredniss.com/), especially *Radioactive* and *Century Girl*. 
+* Graham Rawle's [*Woman's World*](http://www.grahamrawle.com/womansworld/index.html), a full-length novel written entirely in collage from 1960s womens' magazines, is amazing.  
 * One of my favourite blogs, *Brain Pickings*, includes some inspiring selections in its [Best Books of 2012](http://www.brainpickings.org/index.php/2012/12/26/best-books-2012-reader-favorites/), including *The Where, The Way, and the How*, a book that considers how a sense of wonder might be lost in our age of instant information, and Yayoi Kusama’s *Alice and Wonderland*. 
 * Tom Phillip's truly brilliant [*A Humument*](http://humument.com/). 
 * I was also drawn to the more mathematically-based, algorithmic textual processes used to create new narratives from existing ones by groups such as [OuLiPo](http://en.wikipedia.org/wiki/Oulipo). An interesting example, that actually seems to perform better in its digital than its analogue manifestation, is Raymond Queneau's [*One Hundred Thousand Billion Sonnets (Cent Mille Milliards de poèmes)*](http://www.growndodo.com/wordplay/oulipo/10%5e14sonnets.html).
@@ -90,7 +90,7 @@ Hayles, N. Katherine. "Hyper and Deep Attention: The Generational Divide in Cogn
 
 Joyce, James. *Ulysses*. New York: Modern Library, 1942. Print.
 
-*Lauren Redness,* n.p., n.d. Web. 13 Apr. 2013.
+*Lauren Redniss,* n.p., n.d. Web. 13 Apr. 2013.
 
 Maier, Andrew. "The Path to Advertising Nirvana." *Smashing Magazine.* Smashing Media. 12 Apr. 2010. Web. 10 Apr. 2013.
 
