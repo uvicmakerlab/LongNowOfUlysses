@@ -4,7 +4,7 @@
 
 ###location
 
-Please visit my [project website](http://web.uvic.ca/~ahansen/amandahansen/ulyssesAfterlives).
+Please visit my [project website](http://web.uvic.ca/~ahansen/amandahansen/ulyssesafterlives/).
 
 
 ###abstract
