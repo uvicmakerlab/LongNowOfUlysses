@@ -18,7 +18,7 @@ I think it is worthwhile to consider the significance of my project to the "Long
 
 #####the text
 
-Joyce critic Karen R. Lawrence likens the translations of *Ulysses* to the motif of metempsychosis (the transmigration of souls) which pervades *Ulysses*, characterizing the translation process as carrying texts "metempsychotically across cultural, linguistic, national, and gender divides" (1). By highlighting the various translations and adaptations of *Ulysses* since its publication in 1922 -- what Patrick O'Neill calls the "macrotext" (10) -- my project visualizes the continuation of that motif beyond the novel and into the "long now." Moreover, by including digital adaptations -- such as **Ulysses** SEEN, recent Twitter adaptations (Twitterature), and Alicia Hubka's satellite project -- my project represents the transmigration of *Ulysses* to new media forms. 
+Joyce critic Karen R. Lawrence likens the translations of *Ulysses* to the motif of metempsychosis (the transmigration of souls) which pervades *Ulysses*, characterizing the translation process as carrying texts "metempsychotically across cultural, linguistic, national, and gender divides" (1). By highlighting the various translations and adaptations of *Ulysses* since its publication in 1922 -- what Patrick O'Neill calls the "macrotext" (10) -- my project visualizes the continuation of that motif beyond the novel and into the "long now." Moreover, by including digital adaptations -- such as *ULYSSES* SEEN, recent Twitter adaptations (Twitterature), and Alicia Hubka's satellite project -- my project represents the transmigration of *Ulysses* to new media forms. 
 
 #####the exhibit
 
@@ -58,22 +58,22 @@ This prototyping, testing, and productive failure certainly characterizes my pro
 Ultimately, this process of testing, failing, and adapting ended up being what worked best about my project. If I had enjoyed a seamlessly successful experience with Spreadsheet Mapper and Google Earth, I would not have gained the invaluable experience I have with FTP, HTML, MySQL, and PHP. Although I am by no means an expert in any of these areas, I did manage to create and configure a Wordpress.org site, and get it up and running on my UVic web space through that process of trial and error (fig. 4). 
 
 ![data model one](http://imageshack.us/a/img594/4774/datamodelsm3.png)
-fig. 1. Google Spreadsheet Mapper 3.0
+>fig. 1. Google Spreadsheet Mapper 3.0
 
 
 
 ![Neatline](http://imageshack.us/a/img341/4424/picture4xic.png)
-fig. 2. Neatline is installed, but does not appear on the header menu. 
+>fig. 2. Neatline is installed, but does not appear on the header menu. 
 
 
 
 ![TimelineJS](http://imageshack.us/a/img4/4097/picture7mr.png)
-fig. 3. Data model for TimelineJS
+>fig. 3. Data model for TimelineJS
 
 
 
 ![amandahansen](http://img27.imageshack.us/img27/11/picture1kor.png)
-fig. 4. Screenshot of Wordpress.org site
+>fig. 4. Screenshot of Wordpress.org site
 
 
 ###future development
