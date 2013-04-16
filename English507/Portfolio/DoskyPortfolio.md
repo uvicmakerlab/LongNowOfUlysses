@@ -2,11 +2,11 @@
 
 ## Crowdsourced Readings of James Joyce’s *Ulysses*
 
-# Abstract
+## Abstract
 
 As an extension of “The Long Now of *Ulysses*” gallery exhibit opening at the University of Victoria on May 17th, 2013, my project presents crowdsourced close readings of a handful of algorithmically selected excerpts from Ulysses. It expands the intertextual possibilities of *Ulysses* and arrives at ways of contextualizing the novel that both supplement the original historical context of the novel and depart from it. Contributors were invited to draw connections between the excerpts and the contemporary everyday via the media of their choice to inspire and accent their commentary. The collected responses for a single excerpt were displayed on a timeline; the timeline illustrates the range of connections that readers made based on their brief interaction with *Ulysses*.
 
-# The Early Stages
+## The Early Stages
 
 There is a sizeable community, comprised of scholars and amateurs alike, that is dedicated to studying [James Joyce](http://www.themodernword.com/joyce/joyce_links.html) and his works, including *Ulysses*. No matter how much work has been done on the novel though, there are passages that continue to confound scholars, allusions that remain untapped, and nuances that wind up lost amid the thousands of pages of Joyce’s dense prose. 
 
@@ -16,7 +16,7 @@ As I worked with my original project idea, my line of thinking was akin to Samue
 
 At the beginning of the term, I approached my project with the notion that I would leverage a diverse crowd comprised of academics and non-academics alike and would garner original and insightful readings of the selected excerpts of *Ulysses*. My thinking was that the algorithmically selected excerpts of *Ulysses* would serve as disorienting performances of the text that would, in keeping with the modernist mantra, make *Ulysses* new again. Allied with Ang and Pothen in their article, "[Between Promise and Practice: Web 2.0, Intercultural Dialogue and Digital Scholarship](http://fourteen.fibreculturejournal.org/fcj-094-between-promise-and-practice-web-2-0-intercultural-dialogue-and-digital-scholarship/)," I wanted to develop a "participatory mode of cultural production," and likewise "did not start out with a preconceived idea, or even consensus, of what the outcome [of the project] might be," except that I wanted the project to be a worthwhile contribution to *Ulysses* scholarship. 
 
-# Project Overview
+## Project Overview
  
 My project invites users to contribute to a community reading of *Ulysses*. It delivers publically accessible readings of a number of the algorithmically selected excerpts from *Ulysses*. By annotating excerpts of *Ulysses*, my project situates Joyce’s modernist icon at the center of our own contemporary web of allusive media, and points to some of the ways in which the past continues to figure in contemporary life, as well as the extent to which we read the past in terms of contemporary life.  My project:
 
@@ -32,7 +32,7 @@ My project invites users to contribute to a community reading of *Ulysses*. It d
 
 To render the results of my collective, web-based annotation project I have decided to use the open-source visualization software, [Timeline.js](http://timeline.verite.co/), which allows users to plot events in time, accenting commentary with multiple media found on the Internet. Timeline.js is very user-friendly; it provides a basic data model [template]( https://drive.google.com/previewtemplate?id=0AppSVxABhnltdEhzQjQ4MlpOaldjTmZLclQxQWFTOUE&mode=public), and while the creators of Timeline.js allow experts to customize the software, they do not demand that the user have a working knowledge of JSON (the scripting language in which it is written). They offer a number of options for customization that satisfy basic user wants and needs. That said, being unfamiliar with JSON limits the degree to which Timeline.js can be customized. 
 
-# The Process
+## The Process
 
 I began my effort gathering annotations by drafting a [prompt](https://docs.google.com/forms/d/1fNqYu_5fIXrcGCFxRCQ3Jr1UGVLBQWPz-JxtHD3kgxI/viewform) that I would later disseminate to potential contributors. The prompt outlined my goals for the project, situated it in terms of the larger public exhibit, and encouraged users to share their best ideas because some of the most interesting and insightful contributions would appear in the gallery exhibit. 
 
@@ -48,7 +48,7 @@ In “[Humanistic Theory and Digital Scholarship](http://dhdebates.gc.cuny.edu/d
 
  In “[Where’s the Beef? Does Digital Humanities Have to Answer Questions?]( http://dhdebates.gc.cuny.edu/debates/text/18),” Tom Scheinfeldt suggests (perhaps controversially) that it may appear as though digital humanities is not answering enough questions or making strong enough arguments to justify the large grants researchers in the field receive for their projects. However, by comparing the tools used in the digital humanities to many scientific tools, which Scheinfeldt points out, took years to realize their full potential, Scheinfeldt suggests that it is important to allow for a period of experimentation before expecting that the digital humanities makes strong arguments and answers pointed questions. Although my project was not entirely successful in fulfilling its initial academic initiative, it is only through the experimentation and supposed ‘failure’ of projects that we can move towards mastering the use of tools and creating humanities-specific tools that remain grounded in the humanistic method and reach a point where, eventually, we can consistently make compelling arguments and answer dense questions. 
 
-#An Extended Foray into Crowdsourcing—Wait—What is Crowdsourcing Anyways?
+## An Extended Foray into Crowdsourcing—Wait—What is Crowdsourcing Anyways?
 
 Inevitably, the project I devised demanded that I garner contributors who would supply meaningful annotations on the selected excerpts from *Ulysses*. I let on earlier that my project did not give rise to the results I hoped it would in terms of the content I received. However, like Ang and Pothen, the 'failure' of my project "emphasize[d] the need for intellectual leadership and pro-active vision to create new knowledge and socially and politically useful forms of intercultural dialogue" ([Ang](http://fourteen.fibreculturejournal.org/fcj-094-between-promise-and-practice-web-2-0-intercultural-dialogue-and-digital-scholarship/)). Without such leadership, crowdsourced projects, like my own, may stagnate and become representations of how the crowd engages with online material as opposed to modes of rigorous dialogue. The ‘failure’ of my project raised a lot of questions about crowdsourcing; eventually crowdsourching became the central focus of my project. This was especially apt because I found that I directed the majority of my focus towards devising strategies for garnering participants.
 
@@ -60,13 +60,13 @@ More recently, governments have engaged in experimental applications of crowdsou
 
 However, even lower stakes projects, like MTV’s crowdsourced television show *Web Junk 20*, reveal that while crowdsourcing may give rise to large quantities of responses, the quality of them does not often abide by a high standard. Like many other directors of crowdsourced projects, the producers of *Web Junk 20* concede that of the 12,000 videos they received as potential content for their program, "'almost all of them were complete crap'" ([Howe](http://www.wired.com/wired/archive/14.06/crowds.html?pg=2&topic=crowds&topic_set=) 2). This begs the question: Should an influx of unfavourable responses be accorded to a flippant crowd, or to a haphazard project developer?   
 
-# Crowdsourcing in Academia
+## Crowdsourcing in Academia
 
 In academia crowdsourcing is becoming increasingly prevalent as a mode of solving problems, gaining a range of critical insights, and managing academic workflows. In 2011 a website called [Crowd4U](http://crowd4u.org/) was launched in a number of Japanese universities. Crowd4U limits its crowdsourcing effort to academic projects; it allows academics to make a number of microtasks available for the public to complete.
 
 However, crowdsourcing in academia is fraught with similar issues of quality vs. quantity. "[Beyond Metrics: Community Authorization and Open Peer Review](http://dhdebates.gc.cuny.edu/debates/text/7)," Kathleen Fitzpatick addresses some of the potential problems associated with crowdsourcing peer review in academia, namely the lack of peer review for digital projects. Fitzpatrick discusses solutions for soliciting valuable results from a crowd in relation to academic projects. She talks about approaching her digital project development as a scholar on one hand, and as a blogger on the other; she says, “I was of two distinct minds […] the blogger in me wanted to wave that question off.” Furthermore, Fitzpatrick points to Katherine Rowe’s notion of “our-crowd sourcing,” or being selective when choosing a crowd, as a means of more productively tapping into outside knowledge, and avoiding accumulating a horde of uninformed responses. Fitzpatrick’s reflection that she herself “was of two distinct minds” presents an additional problem for crowdsourced projects: How does on tap into one's crowd’s academic persona as opposed to its online one? Even if one has been selective in choosing one's crowd, one may not receive the types of responses one wants; this is something that I quickly learned as I gathered responses for my project. 
 
-# My Crowdsourcing Effort: Surprises and Things I Have Learned
+## My Crowdsourcing Effort: Surprises and Things I Have Learned
 
 As I mentioned earlier, I was forewarned about many of the issues that I might be confronted with in choosing to work with a crowd. However, I was surprised, especially after being fairly selective in the crowd that I chose (comprised of academics, students, and the like), to find that the responses I received were free associations for the most part. I would like to return to Fitzpatrick’s reflection that she was of “two distinct minds,” having certain proclivities as a scholar and others as a blogger.  I recognize, in retrospect, that even if you are addressing an academic crowd, it is possible that not all members of the crowd will have their “academic hat” on. Furthermore, skepticism about the legitimacy of all things digital comes into play here as well; it’s a valid participant concern to wonder whether what one are spending one’s time on is going to be a valuable contribution to scholarship. 
 
@@ -78,7 +78,7 @@ By my thinking, the content was less worthy of attention because, in many ways, 
 
 Secondly, after reading a [blog post](http://blogs.scientificamerican.com/a-blog-around-the-clock/2013/01/28/commenting-threads-good-bad-or-not-at-all/), on the [Scientific American](http://www.scientificamerican.com/) website, which ruminated on the significance of comment threads, I am further inclined to consider the content of the crowd's responses to my prompt. In presenting isolated excerpts for the crowd to annotate, my project encourages what Katherine Hayles refers to as "hyper attention" in her article, "[Hyper and Deep Attention: The Generational Divide in Cognitive Modes](http://engl449_spring2010_01.commons.yale.edu/files/2009/11/hayles.pdf)." Hayles suggests hyper attention is the more common mode of engagement among people who have grown up immersed in digital technologies. Hyper attention "is characterized by switching focus rapidly among different tasks, preferring multiple information streams, seeking a high level of stimulation, and having a low tolerance for boredom" ([Hayles](http://engl449_spring2010_01.commons.yale.edu/files/2009/11/hayles.pdf) 187). Therefore, my crowd's responses to the excerpts transposes users' online reading habits onto a dense literary text; this is a line of inquiry that Mikka Jacobsen takes a closer look at in her project entitled, "[The Internet, *Ulysses*, and Me: A Cut-Up and Remediated Journey through James Joyce's *Ulysses*](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Portfolio/jacobsenPortfolio.md)." The blog post on the Scientific American website pushed me to think not only about *how* our hyperattentive pratcices transfer to literary texts, but with the prevalence of comment sections, or unfiltered crowdsourced content that is not dissimilar to my own, I was also prompted to think about what the implications are of reading a text alongside a range of user comments. The blog post suggests that an article with strongly polarized and impassioned comment threads will lead readers to misinterpret the corresponding article because they prompt readers to develop their own opinions/place themselves on one end of the continuum before duly considering the article; alternatively, the same article with neutral comments gave rise to less polarized appraisals of the article. Perhaps if the polarity of the comments influences both reader comprehension and response, so too might the content of comments I received on the excerpts of *Ulysses*. While a study on the psychology of reader response may not be a suitable project to pursue in an English department, to me it is a fascinating area of inquiry that I would like to follow if I had the time and resources available to me.
 
-# Suggestions for Digital Crowdsourced Projects
+## Suggestions for Digital Crowdsourced Projects
 
 After my own extended foray into crowdsourcing for my project, I have come up with some recommendations for future crowdsourced academic projects.
 
@@ -91,12 +91,12 @@ After my own extended foray into crowdsourcing for my project, I have come up wi
 * Implement gameful design. By prompting the crowd to discover a new solution to a problem or discover a gap in scholarship (perhaps for a reward), you encourage them to put in their best effort.
 * Whenever possible, crowdsource microtasks—you will gather a more significant number of contributors if tasks are easy to complete.
 
-# Concluding Remarks
+## Concluding Remarks
 
 * Ultimately, who do you consider the target audience for your project? Who would use it, in what context, and how? 
 What are the implications of scholarly projects relying so heavily on voluntary labor as well as a spectrum of investments / expertise?
 
-# Works Cited
+## Works Cited
 
 Ang, Ien, and Nyantara Pothen. "Between Promise and Practice: Web 2.0, Intercultural Dialogue and Digital Scholarship." Fibreculture Journal. 14 (2009): n.p.. Web. 15 Apr. 2013.
 
