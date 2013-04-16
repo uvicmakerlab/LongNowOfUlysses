@@ -16,11 +16,11 @@ ulyssesAfterlives seeks to visualize the *Ulysses* macrotext -- that is, *Ulysse
 
 I think it is worthwhile to consider the significance of my project to the "Long Now of *Ulysses* Exhibit" on three different levels: the text, the exhibit, and the field of digital humanities (DH). For clarity's sake, I have split my rationale into sections according to those levels.    
 
-####the text
+#####the text
 
 Joyce critic Karen R. Lawrence likens the translations of *Ulysses* to the motif of metempsychosis (the transmigration of souls) which pervades *Ulysses*, characterizing the translation process as carrying texts "metempsychotically across cultural, linguistic, national, and gender divides" (1). By highlighting the various translations and adaptations of *Ulysses* since its publication in 1922 -- what Patrick O'Neill calls the "macrotext" (10) -- my project visualizes the continuation of that motif beyond the novel and into the "long now." Moreover, by including digital adaptations -- such as **Ulysses** SEEN, recent Twitter adaptations (Twitterature), and Alicia Hubka's satellite project -- my project represents the transmigration of *Ulysses* to new media forms. 
 
-####the exhibit
+#####the exhibit
 
 At its heart, the "Long Now of *Ulysses* Exhibit" assumes that James Joyce's *Ulysses* is both universal and relevant. Indeed, the exhibit prospectus refers to *Ulysses* as "the sine qua non of high modernist literary production . . . [which] formed part of the context for, and was contextualised by, virtually every significant aspect of modernist cultural production" (Ross). One of my objectives in creating a geo-temporal expression of the translations and adaptations of *Ulysses* was to challenge that assumption by visualizing the scope of the *Ulysses* macrotext. Moreover, because the exhibit prospectus also highlights the modernist fascination with time and space, geo-temporal expression seemed like a logical avenue through which to examine *Ulysses*.   
 
@@ -36,7 +36,7 @@ By limiting the narrative intervention in the project -- with the obvious except
 
 Bethany Nowviskie made a similar point in the Neatline workshop she held at the University of Victoria in March 2013. In response to a user asking how to create a narrative for an exhibit, Nowviskie replied that Neatline was designed to limit guided interaction, and to encourage exploration of the material presented. I think this is a virtue of graphical expression -- that it need not be as prescribed as verbal expression, allowing for more interaction and a multitude of interpretations. 
 
-####the field of dh
+#####the field of dh
 
 ulyssesAfterlives engages a major issue in the field of humanities: when is graphical representation meaningful, and when is it simply re-presenting old information (or "whiz bang")? This question is inevitably tied to the ethics of data, or what Drucker calls "capta" ("Humanities Approaches to Graphical Display").  
 
@@ -60,11 +60,17 @@ Ultimately, this process of testing, failing, and adapting ended up being what w
 ![data model one](http://imageshack.us/a/img594/4774/datamodelsm3.png)
 fig. 1. Google Spreadsheet Mapper 3.0
 
+
+
 ![Neatline](http://imageshack.us/a/img341/4424/picture4xic.png)
 fig. 2. Neatline is installed, but does not appear on the header menu. 
 
-![TimelineJS](http://timeline.verite.co/)
+
+
+![TimelineJS](http://imageshack.us/a/img4/4097/picture7mr.png)
 fig. 3. Data model for TimelineJS
+
+
 
 ![amandahansen](http://img27.imageshack.us/img27/11/picture1kor.png)
 fig. 4. Screenshot of Wordpress.org site
