@@ -29,7 +29,7 @@ Bloom Vision invites exhibit-goers to do what *Ulysses* itself demands: to see s
 
 I have assembled a physical Holmes stereoscope to be used—along with selected stereographs of Dublin from 1894 (by [Alfred Seamen](http://www.freewebs.com/jb3d/apps/photos/album?albumid=154039)), James Joyce in Paris (from [UVic Special Collections’ Gisèle Freund Fonds](http://library.uvic.ca/spcoll/guides/sc043.html)), and well-known landmarks from *Ulysses* (from Edward Quinn’s [*James Joyce’s Dublin*](http://www.amazon.ca/James-Joyces-Dublin-Edward-Quinn/dp/0436395002))—for exhibit-goers to experience the historically particular and technologically structured mode of vision we call stereoscopic. I have adapted Freund’s and Quinn’s photographs into stereographs myself, by duplicating and disproportionately cropping images and setting them next to each other. Using photogrammetry—derived in part from stereoscopy—, I have also made [3-D digital objects](https://github.com/uvicmakerlab/LongNowOfUlysses/tree/master/English507/Portfolio/HainPortfolio/3D%20Components) of each individual stereoscope component that can be printed with 3-D printers like MakerBots and reassembled. My project thus integrates new and old media and explores stereoscopy across physical and digital spaces.  
 
-For more on how this became that, or the making of Bloom Vision please see my [process video](https://vimeo.com/64191659).  
+For more on the making of Bloom Vision please see my [process video](https://vimeo.com/64191659).  
 
 ##Reflection Statement  
 
