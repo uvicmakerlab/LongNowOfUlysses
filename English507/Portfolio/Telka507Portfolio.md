@@ -38,7 +38,11 @@ Inasmuch as documentation is the primary method employed in this project, I’ve
 
 My project developed according to the formal log assignments outlined in the [Engl507 syllabus](https://github.com/Telka/LongNowOfUlysses/blob/master/English507/completeSyllabus.md). All formal log assignments were composed using [MarkDown](http://en.wikipedia.org/wiki/Markdown) syntax and posted into the Engl507 [GitHub repository](https://github.com/uvicmakerlab/LongNowOfUlysses/tree/master/English507) (with the exception of my second iteration, noted below). GitHub is a web-based project management platform with a revision control system. Jentery hosted a short workshop during the second seminar to teach us how the interface worked. He also circulated a Mark Down cheat sheet. Throughout the term, I typically composed my logs in Word and then transferred my work (copy and paste functions) to [Text Wrangler](http://www.barebones.com/products/textwrangler/) where I applied the Mark Down syntax (because Word has a much friendlier aesthetic than Text Wranger). Despite some difficulties committing files, GitHub worked well to host the collaborative, iterative development of the Long Now of *Ulysses* exhibit. 
 
-The first log assignment asked us to research and reflect upon digital research methods. Jentery asked us to read [William Turkel’s A Workflow for Digital Research Using Off-the-Shelf Tools](http://williamjturkel.net/how-to/), test out some apps, and develop our own workflow for the course. You can find my workflow [here](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Workflow/TelkaWorkflow.md). In addition, here is a photo that represents my digital and analogue hybrid methods ![](http://i.imgur.com/t2fGCeq.jpg?1) and a concept map representing my workflow ![](http://i.imgur.com/ET2XXNP.jpg). 
+The first log assignment asked us to research and reflect upon digital research methods. Jentery asked us to read [William Turkel’s A Workflow for Digital Research Using Off-the-Shelf Tools](http://williamjturkel.net/how-to/), test out some apps, and develop our own workflow for the course. You can find my workflow log [here](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Workflow/TelkaWorkflow.md). 
+
+In addition, here is a photo that represents my digital and analogue hybrid methods ![](http://i.imgur.com/t2fGCeq.jpg?1) 
+
+And here's a concept map (made with Inspirations) representing my workflow ![](http://i.imgur.com/ET2XXNP.jpg). 
 
 Next, Jentery asked us to revise the Long Now of *Ulysses* prospectus to reflect what we wanted to contribute to the exhibit. By this time (week three of the course), I knew I wanted to explore my pedagogical interests with some sort of outreach project that could destabilize the elitist foundation of the University (in general) and engage the local community (public libraries, museums, galleries) in humanities research, but I hadn’t decided what form that would take. You can compare  [mine](https://github.com/Telka/LongNowOfUlysses/blob/master/English507/Logs/Telkaprospectus.md) with [Stephen Ross’s original](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/ThoughtPiece/prospectus.md). 
 
@@ -50,7 +54,7 @@ Now that each project had a clear deliverable and timeline, Jentery asked us to 
 
 The structure of these log assignments really helped develop my own project goals. Having a clear sense of how each project would develop and under what timeframe, I created a [GANTT chart](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Logs/Telka507ExhibitGuideGANTT.xlsx) to manage my project's development. I made a similar [chart](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Logs/TelkaPortfolioGANTT%20.xlsx) (but with more detail) to manage this portfolio. 
 
-The next stage of development was to actually create a prototype, or first draft. To inform the structural elements of my project, I turned to the [NINCH GUIDE](file://localhost/%5BNINCHguide%5D(http/::www.nyu.edu:its:pubs:pdfs:NINCH_Guide_to_Good_Practice.pdf) and to the [Canadian Cultural Heritage Network’s Professional Exchange](http://www.pro.rcip-chin.gc.ca/index-eng.jsp), and the [Orlando Project's documentation page](http://orlando.cambridge.org/public/svDocumentation?formname=t&d_id=GOINGELECTRONIC) for more information about documenting, preserving, and remediating cultural artefacts as well as for examples writing in a documentation genre. 
+The next stage of development was to actually create a prototype, or first draft. To inform the structural elements of my project, I turned to the [NINCH GUIDE](file://localhost/%5BNINCHguide%5D(http/::www.nyu.edu:its:pubs:pdfs:NINCH_Guide_to_Good_Practice.pdf) and to the [Canadian Cultural Heritage Network’s Professional Exchange](http://www.pro.rcip-chin.gc.ca/index-eng.jsp), and the Orlando Project's [Going Digital](http://orlando.cambridge.org/public/svDocumentation?formname=t&d_id=GOINGELECTRONIC) article for more information about documenting, preserving, and remediating cultural artefacts as well as for examples writing in a documentation genre. 
 
 To structure my document, I analyzed the formal or structural elements of the NINCH Guide and identified the purpose of each section or paragraph relevant to the exhibit documentation. Then, I mapped them out with specific content using [Inspirations](http://www.inspiration.com/). You’ll find a mindmap of the blueprint [here](http://imgur.com/ucjL4WM). This map became the formal structure for my exhibit guide. I inserted the section headings in a Word document and composed my first draft. I submitted this draft (along with a few other formal elements Jentery requested for the fifth formal log assignment) to the [GitHub repo](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/IterationOne/telkaIterationOne.md). 
 
@@ -66,16 +70,16 @@ My revisions for the second iteration focused primarily on remediating project d
 
 I planned to circulate this draft to my colleagues to ensure that I had remediated their work accurately. To address ambiguities in the project descriptions and/or workflows, I used the editorial comment bubbles in Word to solicit direct feedback. These were often specific goal oriented questions such as: “Can you define this term for a non-specialist audience in one sentence or less?” 
 During my revision process, I used [QuickTime](http://www.apple.com/ca/quicktime/) screencasts to record my editorial strategy and compositional processes. I made one for each project. Then, I edited these videos down to a couple minutes using the QuickTime trim function. I posted these screencasts onto Youtube as documentation of my editorial and compositional process. You can access the screencasts here: 
-[Stimulating The Seconds](https://www.youtube.com/watch?v=9drgRObNPic&feature=youtu.be)
-[Reading Joyce Digitally](https://www.youtube.com/watch?v=iyGVgUIg2c4&feature=youtu.be)
-[The Long Notes of Ulysses](https://www.youtube.com/watch?v=CQgSbo0iGro&feature=youtu.be)
-[Sounding Ulysses](https://www.youtube.com/watch?v=X2RFtW6Xtwo&feature=youtu.be)
-[Bloom Vision](https://www.youtube.com/watch?v=QwfGMfKO7Io&feature=youtu.be)
-[Dislocating *Ulysses*](https://www.youtube.com/watch?v=lVbDQQ4y4V4&feature=youtu.be)
-[Networked Ulysses](https://www.youtube.com/watch?v=I6nAoYeDM7U&feature=youtu.be)
-[The Afterlives of Ulysses](https://www.youtube.com/watch?v=RD0_jPeLq_I&feature=youtu.be)
-[The Longer Now of Ulysses: Digital Life After Analogue Death](https://www.youtube.com/watch?v=poQstn817Ko&feature=youtu.be)
-[Ecosat Ulysses Payload Project](https://www.youtube.com/watch?v=RHHoRhDn2Xg&feature=youtu.be)
+1.[Stimulating The Seconds](https://www.youtube.com/watch?v=9drgRObNPic&feature=youtu.be)
+2.[Reading Joyce Digitally](https://www.youtube.com/watch?v=iyGVgUIg2c4&feature=youtu.be)
+3.[The Long Notes of Ulysses](https://www.youtube.com/watch?v=CQgSbo0iGro&feature=youtu.be)
+4.[Sounding Ulysses](https://www.youtube.com/watch?v=X2RFtW6Xtwo&feature=youtu.be)
+5.[Bloom Vision](https://www.youtube.com/watch?v=QwfGMfKO7Io&feature=youtu.be)
+6.[Dislocating *Ulysses*](https://www.youtube.com/watch?v=lVbDQQ4y4V4&feature=youtu.be)
+7.[Networked Ulysses](https://www.youtube.com/watch?v=I6nAoYeDM7U&feature=youtu.be)
+8.[The Afterlives of Ulysses](https://www.youtube.com/watch?v=RD0_jPeLq_I&feature=youtu.be)
+9.[The Longer Now of Ulysses: Digital Life After Analogue Death](https://www.youtube.com/watch?v=poQstn817Ko&feature=youtu.be)
+10.[Ecosat Ulysses Payload Project](https://www.youtube.com/watch?v=RHHoRhDn2Xg&feature=youtu.be)
 
 I posted the [second iteration](https://docs.google.com/document/d/1Y36J_MtpVRxLE2Zr2f0Gvt1_khlxyDCqFYgtR0rwZ2c/edit) in Google Drive (rather than GitHub) because of an interoperability issue. Because I made all my revisions in a Word Document and not in Text Wrangler, it would have taken forever to translate the comment bubbles into Mark Down syntax. So, for the collaborative revision, I posted the document in Google Drive and made it public so that anyone with the URL could edit it. I circulated specific [email instructions](http://imgur.com/aYqcrD2) and the link to the document (provided above) to 507’ers for revisions and edits (I also [replicated](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/IterationTwo/TelkaIterationTwo.md) these instructions in a GitHub file titled 'Iteration Two' in case anyone goes looking for it there. The second iteration in google docs is a living document so it looks different today than it did when I initially posted it on March 31, 2013. 
 
@@ -86,15 +90,15 @@ The latest iteration of [my project](https://docs.google.com/document/d/1Y36J_Mt
 This section explores the potential future or future development of the exhibit guide and process manual. 
 
 Before the exhibit launches, this guide *needs* to be: 
-1.	distilled into an exhibit finding aid 
-2.	be accessible in the gallery
-3.	translated into a web-ready document and linked to DC’s exhibit page 
-4.	project components need to be reviewed by 507 before the exhibit opening to ensure that everything is up to date and hunky dory. 
+1.distilled into an exhibit finding aid 
+2.be accessible in the gallery
+3.translated into a web-ready document and linked to DC’s exhibit page 
+4.project components need to be reviewed by 507 before the exhibit opening to ensure that everything is up to date and hunky dory. 
 
 Further, the guide *could* be:
-1.	expanded to include the work of Egnl560
-2.	document the exhibit opening
-3.	made accessible to cultural heritage organizations (as a web page?)
+1.expanded to include the work of Egnl560
+2.document the exhibit opening
+3.made accessible to cultural heritage organizations (as a web page?)
 
 Inasumuch as this project invites its audience to replicate and/or repurpose the project components in new exhibit contexts, future development is inherent within the purpose of the guide. I hope that this manual informs the creation and curation of more literary exhibits in universities, galleries, museums, and archives. 
 
@@ -102,7 +106,7 @@ Chris Petter has suggested that the exhibit (and the exhibit guide) may be of in
 
 #Bibliography
 
-Balsamo, Anee Marie. *Designing Culture: The Technological Imagination at Work*. Durham: Duke University Press. 2011. Web. February, 2013. 
+Balsamo, Anne Marie. *Designing Culture: The Technological Imagination at Work*. Durham: Duke University Press. 2011. Web. February, 2013. 
 
 Besser, Howard. “The Past, Present, and Future of Digital Libraries." *A Companion to Digital Literary Studies*. Eds. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2008. Web. January, 2013. 
 
