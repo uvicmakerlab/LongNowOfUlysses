@@ -70,7 +70,9 @@ The majority of our data can be found within our wireframes. This really did com
 
 First, I think it is worth showing the original pen and paper [drawings](https://raw.github.com/uvicmakerlab/LongNowOfUlysses/master/English507/Logs/MockupSketches001.jpg) for our wireframes. This was very early in the process, and really just concerns the Google Calendar aspect. But, in terms of looking at the developmental history of the project is worth looking at, I think. 
 
-[Version 1.0](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Logs/NinaJonLogFebruary12.md). Version 1.0 of the wireframes was our first set of wireframes that gave a basic idea of the app's functionality and layout. These wireframes are basic and are lacking all illustrations and graphics, but still do give a good idea of the basic "feel" of the app. 
+[Version 1.0](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/master/English507/Logs/NinaJonLogFebruary12.md). 
+
+Version 1.0 of the wireframes was our first set of wireframes that gave a basic idea of the app's functionality and layout. These wireframes are basic and are lacking all illustrations and graphics, but still do give a good idea of the basic "feel" of the app. 
 
 [Version 2.0](https://github.com/uvicmakerlab/LongNowOfUlysses/blob/jonjohns/English507/Logs/IterationOne.md)
 
