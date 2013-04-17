@@ -93,8 +93,9 @@ After my own extended foray into crowdsourcing for my project, I have come up wi
 
 ## Concluding Remarks
 
-* Ultimately, who do you consider the target audience for your project? Who would use it, in what context, and how? 
-What are the implications of scholarly projects relying so heavily on voluntary labor as well as a spectrum of investments / expertise?
+At this stage in my project, I have come to accept that it likely will not eliminate a gap in *Ulysses* scholarship. However, I have learned the importance of being flexible and willing to accept surprises when engaging in experimentation: my project *has* delivered useful scholarship on crowdsourcing, has acted as outreach for the exhibit by making the exhibit known to a community of scholars and students around the globe. Last, and certainly not least, it has presented *Ulysses* in a unique way, and created a community of readers that will continue to grow as people visit the exhibit and continue to have to opportunity to annotate the excerpts online. In building the exhibit we have produced *our* reading of *Ulysses*, and with my project, visitors are granted the opportunity to expand the intertextual possibilities of both the novel and the gallery exhibit, and see their contributions appear in the gallery exhibit in the form of screengrabs from the timeline. 
+
+Right now, my project serves as an interactive extension of the gallery exhibit; in the long term, I envision it as a useful forum for scholars and amateurs alike to dabble in *Ulysses*. Most significantly though, I hope my project will be a successful pedagogic effort in that it will instruct others who are pursuing similar academic projects in similar contexts; I hope that by looking at my project, and being able to view its iterative development in GitHub, other scholars will be able to come up with solutions for harnessing voluntary labor for scholarly projects in an effective manner.
 
 ## Works Cited
 
@@ -120,5 +121,5 @@ Warr, Philippa. "Iceland votes for crowdsourced constitution." Wired.co.uk 23 10
 
 Wintour, Patrick. "Coalition's first crowdsourcing attempt fails to alter Whitehall line." Guardian 02 08 2010, n. pag. Web. 16 Apr. 2013.
 
-Zivkovic, Bora. "Commenting threads: good, bad, or not at all.." Scientific American Blog. Scientific American, 28 01 2013. Web. Web. 16 Apr. 2013.
+Zivkovic, Bora. "Commenting threads: good, bad, or not at all.." Scientific American Blog. Scientific American, 28 01 2013. Web. 16 Apr. 2013.
 
