@@ -53,7 +53,7 @@ In summary, does design methodology create a network of ideas to keep us outside
   
 ## All the places it can go
   
-The long now of this project lies in further exploring the idea of an archive being re-purposed with some form of aesthetic mediation and how installation and sound art can be used to further research on the materiality of sound. I think this was a good first step in taking up the influence of Angela Grauerholz, but with adequate time to build (or source) an archive and develop a new form of presentation I can create a more mature work that strengths (and makes visible) connections between *theoria*, *praxis*, and *poiesis*.
+The long now of this project lies in further exploring the idea of an archive being re-purposed with some form of aesthetic mediation and how installation and sound art can be used to further research on the materiality of sound. I think this was a good first step in taking up the influence of Angela Grauerholz, but with adequate time to build (or source) an archive and develop a new form of presentation I can create a more mature work that strengthens (and makes visible) connections between *theoria*, *praxis*, and *poiesis*.
 
 ## Bibliography
   
